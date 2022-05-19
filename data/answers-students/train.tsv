@@ -1,0 +1,1849 @@
+x1	x2	y_type	y_score
+A battery to a bulb	the bulb and the battery	EQUI	5
+should connect	are	SIMI	3
+in a closed path.	in a closed path	EQUI	5
+because		NOALI	0
+1.5		NOALI	0
+is connected	is connected	EQUI	5
+to the battery terminal.	to the negative battery terminal	SPE2	4
+The voltage		NOALI	0
+thebulb terminal	terminal 1	SPE2	4
+is		NOALI	0
+in a closed path	in closed paths	SPE1	4
+Bulb A and C	Bulbs A and C	EQUI	5
+with the battery	with the battery	EQUI	5
+still	still	EQUI	5
+will be contained	are	SIMI	4
+the voltage	different electrical states	REL	3
+of the battery.	A battery	EQUI	5
+	uses	NOALI	0
+a gap		NOALI	0
+	to maintain	NOALI	0
+	at the terminals	NOALI	0
+in the circuit		NOALI	0
+does not affect		NOALI	0
+	a chemical reaction	NOALI	0
+had		NOALI	0
+to the battery	with the battery.	EQUI	5
+	Bulb A	NOALI	0
+	was	NOALI	0
+	contained	NOALI	0
+a closed path	in the same closed path	SPE2	4
+	still	NOALI	0
+The negative battery terminal		NOALI	0
+	are	NOALI	0
+by a gap		NOALI	0
+from terminal 1 and 2	Terminals 1 and 2	EQUI	5
+	in the same electrical state	NOALI	0
+is seperated		NOALI	0
+	by a gap	NOALI	0
+	are separated	NOALI	0
+between any two terminals.	Terminals 1, 2 and 3	SPE2	2
+	from the positive battery terminal	NOALI	0
+The voltage		NOALI	0
+the same electrical state		NOALI	0
+has		NOALI	0
+still		NOALI	0
+within closed paths	in a closed path	SPE2	4
+are contained	are	EQUI	5
+Bulb A and B	bulbs A and B	EQUI	5
+are	are	EQUI	5
+with the battery		NOALI	0
+on a path	in the same path	SPE2	4
+bulbs a, b, and c	A and C	SPE2	3
+were	are	SIMI	4
+on closed paths	in closed paths	EQUI	5
+still	still	EQUI	5
+contained	contained	EQUI	5
+Bulbs A and C	Bulbs A and C	EQUI	5
+with the batery	with the battery	EQUI	5
+is connected	are connected	EQUI	5
+Terminal five to the positive battery terminal.	Terminal 5 and the positive terminal	EQUI	5
+the gap		NOALI	0
+electricity	different electrical states	REL	4
+	at the terminals	NOALI	0
+because		NOALI	0
+the battery	A battery	EQUI	5
+has		NOALI	0
+does not		NOALI	0
+and		NOALI	0
+	uses	NOALI	0
+	to maintain	NOALI	0
+	a chemical reaction	NOALI	0
+terminal 1 to the positive terminal	Terminal 1 and the positive terminal	EQUI	5
+	by the gap	NOALI	0
+is connected	are separated	OPPO	4
+contained	are not	OPPO	4
+only		NOALI	0
+"bulb A""s path switch Z"	Switch Y and bulb A in the same closed path	REL	2
+in an open path,	in a closed path	OPPO	4
+was	was not	OPPO	4
+Bulb C	Bulb C	EQUI	5
+will be a gap	are not connected.	SIMI	4
+between the positive battery terminal and the bulb terminal	the terminals	SPE1	3
+	that	NOALI	0
+	means	NOALI	0
+	A non-zero voltage	NOALI	0
+there		NOALI	0
+is connected	is connected	EQUI	5
+terminal 1	terminal 1	EQUI	5
+to the negative battery terminal	to the negative battery terminal	EQUI	5
+between the bulb terminal and the battery terminal.	the terminals	SPE1	3
+There		NOALI	0
+is no connection	are not connected	EQUI	5
+is not connected	are not connected	EQUI	5
+Because		NOALI	0
+terminal 1 to terminal 6.	Terminals 1 and 6	EQUI	5
+	still	NOALI	0
+is not needed		NOALI	0
+for bulb a	Bulb A	EQUI	5
+	with the battery	NOALI	0
+Y		NOALI	0
+	in a closed path	NOALI	0
+to light		NOALI	0
+	is	NOALI	0
+to a battery	with the battery.	EQUI	5
+	then	NOALI	0
+within a closed path	in a closed path	EQUI	5
+	C	NOALI	0
+Bulb A and B	A and B	EQUI	5
+	burns out,	NOALI	0
+connected		NOALI	0
+still	still	EQUI	5
+and		NOALI	0
+are contained	are	EQUI	5
+	If	NOALI	0
+is		NOALI	0
+the bulb		NOALI	0
+connected		NOALI	0
+	in an open path	NOALI	0
+	is	NOALI	0
+at the negative connection.	the battery	REL	4
+only		NOALI	0
+to the positive battery terminal	to the negative battery terminal	OPPO	4
+terminal 1	terminal 1	EQUI	5
+Because		NOALI	0
+is connected	is connected	EQUI	5
+off	an incomplete circuit	REL	4
+A and B		NOALI	0
+	there	NOALI	0
+are		NOALI	0
+	is	NOALI	0
+There		NOALI	0
+without bulb B	Bulbs A and C	SPE2	3
+are		NOALI	0
+	are	NOALI	0
+other closed path	in a closed path	EQUI	5
+to the negative terminal of the battery	in the same electrical state	REL	3
+are connected	are connected	EQUI	5
+Terminal 1 and terminal 2	Terminals 1 and 2	EQUI	5
+	and	NOALI	0
+with the battery.	with the battery	EQUI	5
+bulb b and c	B and C	EQUI	5
+are contained	are	EQUI	5
+in the same path	in the same path	EQUI	5
+a gap	no gap	OPPO	4
+that		NOALI	0
+there	there	EQUI	5
+Tells		NOALI	0
+is	is	EQUI	5
+	between the terminals	NOALI	0
+you		NOALI	0
+are	is	EQUI	5
+within the same path	in its own path	SPE2	3
+because		NOALI	0
+bulb A and B	each bulb	SPE1	3
+does not affect	are not	SIMI	3
+switch Y of bulb A	Switch Y and bulb A	EQUI	5
+the closed circuit	in the same closed path	REL	4
+in a closed circuit	in closed paths	REL	4
+with the battery terminal	with the battery	EQUI	5
+were	are contained	SIMI	4
+still	still	EQUI	5
+the paths	Bulbs A and C	REL	4
+because		NOALI	0
+	in which	NOALI	0
+is	is contained	EQUI	5
+the battery	the battery	EQUI	5
+	is	NOALI	0
+	there	NOALI	0
+on a closed path	in a closed path	EQUI	5
+	no bulb	NOALI	0
+because		NOALI	0
+is not		NOALI	0
+Circuit 4	in 4	EQUI	5
+a short circuit		NOALI	0
+in a closed path.	in a closed path	EQUI	5
+the battery	The battery	EQUI	5
+is not contained	is not	EQUI	5
+are connected	are	EQUI	5
+still	still	EQUI	5
+	C	NOALI	0
+bulbs A and B	A and B	EQUI	5
+to the closed circuit	in a closed path	REL	4
+	If	NOALI	0
+containing the battery	with the battery	EQUI	5
+	then	NOALI	0
+	burns out	NOALI	0
+Because		NOALI	0
+are not		NOALI	0
+in a closed path,		NOALI	0
+are giving		NOALI	0
+so		NOALI	0
+the voltage	different electrical states	REL	3
+the terminals	at the terminals	EQUI	5
+of the battery	A battery	EQUI	5
+you		NOALI	0
+itself		NOALI	0
+	a chemical reaction	NOALI	0
+	to maintain	NOALI	0
+	uses	NOALI	0
+bulb b and c	bulbs B and C	EQUI	5
+in a closed path	in closed paths	SPE1	4
+still	still	EQUI	5
+with the battery.	with the battery	EQUI	5
+are	are	EQUI	5
+with the battery	with the battery	EQUI	5
+are contained	are	EQUI	5
+in different paths	in different paths	EQUI	5
+bulbs a and c	A and C	EQUI	5
+is not separated	are not separated	EQUI	5
+positive battery terminal from terminal 4	Terminal 4 and the positive terminal	EQUI	5
+by a gap	by the gap	EQUI	5
+is	are	EQUI	5
+of the two terminals	The terminals	SPE1	4
+that		NOALI	0
+there		NOALI	0
+no difference in electrical states	in the same state.	EQUI	5
+does not effect	does not include	SIMI	3
+	that	NOALI	0
+bulbs B and C	with B and C	EQUI	5
+	There	NOALI	0
+switch X	X	EQUI	5
+	a path	NOALI	0
+	is	NOALI	0
+There	there	EQUI	5
+a gap	a gap	EQUI	5
+is	is	EQUI	5
+in the circut.	in the circuit	EQUI	5
+	Terminal 1 and the positive terminal	NOALI	0
+0 v		NOALI	0
+1.5 v		NOALI	0
+1.5 v		NOALI	0
+equals		NOALI	0
+because		NOALI	0
+	by the gap	NOALI	0
+minus		NOALI	0
+	are separated	NOALI	0
+The battery terminals	at the terminals	EQUI	5
+	to maintain	NOALI	0
+	a chemical reaction	NOALI	0
+	A battery	NOALI	0
+have		NOALI	0
+different electrical states.	different electrical states	EQUI	5
+	uses	NOALI	0
+the terminals	Terminals 1, 2 and 3	SPE2	4
+to the negative terminal of the battery.	to the negative battery terminal	EQUI	5
+are connedted	are connected	EQUI	5
+	there	NOALI	0
+	containing	NOALI	0
+it		NOALI	0
+for bulb A	Switch Z, Switch X, Bulbs A and C and the battery	SPE1	1
+are closed		NOALI	0
+	still	NOALI	0
+if		NOALI	0
+switches X and Z	Switch Z, Switch X, Bulbs A and C and the battery	SPE1	2
+	is	NOALI	0
+will complete		NOALI	0
+the closed circuit	a closed path	REL	4
+	by a gap	NOALI	0
+	from the negative battery terminal	NOALI	0
+is		NOALI	0
+a damaged bulb		NOALI	0
+	is separated	NOALI	0
+	terminal 6	NOALI	0
+there		NOALI	0
+each bulb	each bulb	EQUI	5
+has	is	SIMI	4
+its own pathway	in its own path	EQUI	5
+because		NOALI	0
+there		NOALI	0
+a gap in the circuit	in a closed path	REL	4
+that	in a closed path	OPPO	4
+on		NOALI	0
+was		NOALI	0
+C	Bulb C	EQUI	5
+was	was not	OPPO	4
+in different paths	in different paths	EQUI	5
+Blub A and bulb C	A and C	EQUI	5
+with the same battery.	with the battery	SPE1	4
+are contained	are	EQUI	5
+bulbs a and c	A and C	EQUI	5
+ina closed path	in the same path	SPE2	4
+are not contained	are not	EQUI	5
+because		NOALI	0
+not		NOALI	0
+the negative terminal		NOALI	0
+terminal 4 to the positive terminal	Terminal 4 and the positive terminal	EQUI	5
+but		NOALI	0
+is connected	are connected	EQUI	5
+	are	NOALI	0
+the path	in the same path	SPE2	4
+with the battery,	a bulb and a switch	REL	3
+the switch	the switch	EQUI	5
+	the bulb	NOALI	0
+doesnt affect	affects	OPPO	4
+it		NOALI	0
+if	If	EQUI	5
+is closed		NOALI	0
+are connected	are connected	EQUI	5
+terminals 4,5, and 6	Terminals 4, 5 and 6	EQUI	5
+to the positive terminal	to the positive battery terminal	EQUI	5
+the voltage	different electrical states	REL	3
+	uses	NOALI	0
+	at the terminals	NOALI	0
+the same		NOALI	0
+within the battery	A battery	EQUI	5
+	a chemical reaction	NOALI	0
+stays		NOALI	0
+	to maintain	NOALI	0
+	Terminal 6 and the positive terminal	NOALI	0
+3		NOALI	0
+for		NOALI	0
+	are not separated	NOALI	0
+as		NOALI	0
+the same reason		NOALI	0
+	by the gap	NOALI	0
+correctly.		NOALI	0
+	in an open path	NOALI	0
+	is	NOALI	0
+Because		NOALI	0
+the bulb	the battery	REL	3
+is connected		NOALI	0
+no difference	in the same electrical state	SIMI	2
+possess		NOALI	0
+	and	NOALI	0
+	are connected	NOALI	0
+terminal 1 and terminal 2	Terminals 1 and 2	EQUI	5
+is connected	are connected	EQUI	5
+terminal 6 to postive end of battery and the voltage meter	Terminal 6 and the positive terminal	SPE2	3
+are connected	are connected	EQUI	5
+the two terminals	Terminal 6 and the positive terminal	SPE2	4
+	are connected	NOALI	0
+the same	in the same electrical state	SIMI	2
+	and	NOALI	0
+are		NOALI	0
+terminal 1 and terminal 4	Terminals 1 and 4	EQUI	5
+was not	is	OPPO	4
+	There	NOALI	0
+	containing	NOALI	0
+Switch Y of bulb A.	both	EQUI	5
+on the path	no path	OPPO	4
+Switch Y of bulb A.	switch Y and bulb A	EQUI	5
+	there	NOALI	0
+is seperated	is no gap	OPPO	4
+The positive battery terminal from the negative battery terminal	between the terminals	SPE1	4
+was not connected	was no longer	EQUI	5
+to the battery.	with the battery	EQUI	5
+bulb c	Bulb C	EQUI	5
+	in a closed path	NOALI	0
+	are	NOALI	0
+	If	NOALI	0
+a gap in the path	in a closed path	OPPO	4
+	burns out,	NOALI	0
+	B and C	NOALI	0
+	no longer	NOALI	0
+will create		NOALI	0
+Bulb A	bulb A	EQUI	5
+	with the battery	NOALI	0
+is connected	are connected	EQUI	5
+a terminal to the positive terminal of the battery	Terminal 4 and the positive terminal	SPE2	4
+makes		NOALI	0
+	there	NOALI	0
+The open switch		NOALI	0
+the path open	an open path	EQUI	5
+	is	NOALI	0
+because		NOALI	0
+bulb C	Bulb C	EQUI	5
+was not contained	was	OPPO	4
+with the battery	with the battery	EQUI	5
+in a closed path	in a closed path	EQUI	5
+still	no longer	OPPO	4
+each other.		NOALI	0
+	in the same path	NOALI	0
+affect		NOALI	0
+bulbs a and c	A and C	EQUI	5
+	are	NOALI	0
+have to be contained	must be contained	EQUI	5
+with the battery		NOALI	0
+Bulbs	The damaged bulb and the other bulb	SPE2	3
+in closed paths	in the same path	SPE2	3
+to the battery.	with the battery	EQUI	5
+still	still	EQUI	5
+on a closed path	in a closed path	EQUI	5
+bulb A	Bulb A	EQUI	5
+will be contained	is	SIMI	4
+Because		NOALI	0
+a closed path	in closed paths	SPE1	4
+still	still	EQUI	5
+had	are contained	SIMI	4
+Bulb A and C	Bulbs A and C	EQUI	5
+with the battery.	with the battery	EQUI	5
+is contained	is contained	EQUI	5
+with the battery	with the battery.	EQUI	5
+bulb a	Bulb A	EQUI	5
+	still	NOALI	0
+in a closed path	in a closed path	EQUI	5
+did not effect	are not in the same closed path	SIMI	2
+Switch Y bulb A	Switch Y and bulb A	EQUI	5
+	Bulb A	NOALI	0
+	is	NOALI	0
+the path was closed	in a closed path	EQUI	5
+	contained	NOALI	0
+	still	NOALI	0
+because		NOALI	0
+	with the battery.	NOALI	0
+creates	creates	EQUI	5
+in the path.		NOALI	0
+The damaged bulb	a damaged bulb	EQUI	5
+a gap	a gap	EQUI	5
+The battery	The battery	EQUI	5
+	in 4	NOALI	0
+in a closed path.	in a closed path	EQUI	5
+is not	is not	EQUI	5
+by a gap	by the gap	EQUI	5
+is not separated	are not separated	EQUI	5
+the positive battery terminal from terminal 6.	Terminal 6 and the positive terminal	EQUI	5
+because		NOALI	0
+	is contained	NOALI	0
+is not fully		NOALI	0
+	does not contain	NOALI	0
+in the path	in a path	EQUI	5
+of the circuit	The battery	REL	2
+in the path	which	EQUI	5
+the bulb	any other components	SPE1	2
+is not connected	are not connected	EQUI	5
+the terminal to the battery terminal	the terminals	SPE2	4
+3		NOALI	0
+for the same reason		NOALI	0
+as		NOALI	0
+	is separated	NOALI	0
+	terminal 5	NOALI	0
+	from the negative battery terminal	NOALI	0
+	by a gap	NOALI	0
+Because		NOALI	0
+	in a circuit	NOALI	0
+there	there	EQUI	5
+is	is	EQUI	5
+a gap.	a gap	EQUI	5
+a closed path.	the path	EQUI	5
+is not	is not closed	EQUI	5
+the circuit		NOALI	0
+An open switch		NOALI	0
+means		NOALI	0
+is not anymore	was no longer	EQUI	5
+there		NOALI	0
+	with the battery	NOALI	0
+because		NOALI	0
+for bulb c	Bulb C	EQUI	5
+a closed circuit	in a closed path	REL	4
+in the circuit	in a circuit	EQUI	5
+a gap	a gap	EQUI	5
+there	there	EQUI	5
+would be	is	SIMI	4
+with the battery	with the battery	EQUI	5
+in a closed path	in closed paths	SPE1	4
+remain	are still	EQUI	5
+bulbs b and c	bulbs B and C	EQUI	5
+on a closed path	in a closed path	EQUI	5
+battery	The battery	EQUI	5
+	any other components	NOALI	0
+on a closed path	which	EQUI	5
+is contained	is contained	EQUI	5
+	does not contain	NOALI	0
+the bulb holder	in a circuit	REL	2
+is supposed to be		NOALI	0
+a gap	a gap	EQUI	5
+There	there	EQUI	5
+will be	is	SIMI	4
+where		NOALI	0
+in a closed path	in closed paths	SPE1	4
+bulb a and bulb c	Bulbs A and C	EQUI	5
+with the battery.	with the battery	EQUI	5
+contained	contained	EQUI	5
+still	still	EQUI	5
+were	are	SIMI	4
+in a closed circuit	in a closed path	REL	4
+a and c	Bulbs A and C	SPE2	4
+because		NOALI	0
+still		NOALI	0
+are	are	EQUI	5
+The terminal to a negative terminal.	between the terminals	SPE1	4
+is connected	is no gap	REL	4
+	there	NOALI	0
+are	are	EQUI	5
+Bulb A, bulb B and bulb C	A and C	SPE1	3
+in different closed paths.	in different paths	EQUI	5
+is	are contained	EQUI	5
+when	When	EQUI	5
+on a closed path	in the same path	SPE2	4
+the switch with the bulb	the switch and the bulb	EQUI	5
+the bulb with a switch	the switch and the bulb	EQUI	5
+is contained	are contained	EQUI	5
+in a closed path	in the same path	SPE2	4
+if	When	SIMI	3
+as the battery	containing the battery	EQUI	5
+in the same closed path	in the closed path	EQUI	5
+the blub	The bulb	EQUI	5
+is not contained	is not	EQUI	5
+	uses	NOALI	0
+the two terminals	at the terminals	SPE1	4
+will		NOALI	0
+different electrical states.	different electrical states	EQUI	5
+have		NOALI	0
+	to maintain	NOALI	0
+	a chemical reaction	NOALI	0
+	A battery	NOALI	0
+always		NOALI	0
+Because		NOALI	0
+	is	NOALI	0
+	there	NOALI	0
+the circuit path incomplete.	an incomplete circuit	REL	4
+through		NOALI	0
+is		NOALI	0
+if		NOALI	0
+the wires		NOALI	0
+Because		NOALI	0
+will not flow		NOALI	0
+the electricity		NOALI	0
+the positive battery terminal	Terminal 1 and the positive terminal	SPE1	4
+by a gap	by the gap	EQUI	5
+is separated	are separated	EQUI	5
+in a closed circuit	in the same closed path	REL	4
+were	were	EQUI	5
+contained	contained	EQUI	5
+B and C	Bulb B and Bulb C	SPE2	4
+with the battery	with the battery.	EQUI	5
+still	still	EQUI	5
+bulbs A and C	A and C	SPE1	4
+are not contained	are not	EQUI	5
+in the same closed path.	in the same path	EQUI	5
+terminal 1 to terminal 4	Terminals 1 and 4	EQUI	5
+is connected	are connected	EQUI	5
+with the battery	with the battery.	EQUI	5
+because		NOALI	0
+bulb b and c	Bulb B and Bulb C	EQUI	5
+still	still	EQUI	5
+were	were contained	EQUI	5
+in a closed path	in the same closed path	SPE2	4
+B AND C	B and C	EQUI	5
+A	A	EQUI	5
+	is	NOALI	0
+SHARE	containing	SIMI	4
+	and	NOALI	0
+IS	containing	SIMI	4
+ON ITS ON PATH	a path	SPE1	4
+A PATH	a different path	SPE2	4
+	there	NOALI	0
+a damaged bulb		NOALI	0
+	there	NOALI	0
+	is	NOALI	0
+the circut is not complete	an incomplete circuit	EQUI	5
+a connecton		NOALI	0
+so		NOALI	0
+does not make		NOALI	0
+	there	NOALI	0
+	is	NOALI	0
+containing	containing	EQUI	5
+a closed circuit	a closed path	REL	4
+a bulb and a battery	the bulb and a battery	EQUI	5
+a bulb and a battery	both	EQUI	5
+in a closed path	in a path	EQUI	5
+The battery	The battery	EQUI	5
+that	which	EQUI	5
+is	is contained	EQUI	5
+does not contain	does not contain	EQUI	5
+any other components.	any other components	EQUI	5
+Terminal 4 to the positive battery terminal.	Terminal 4 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+by a gap	by the gap	EQUI	5
+.		NOALI	0
+Because		NOALI	0
+was not separted	are not separated	EQUI	5
+the batter termnal from terminal	Terminal 4 and the positive terminal	SPE2	3
+"Without A,	If bulb A burns out,	SPE2	3
+	neither B nor C	NOALI	0
+no closed path"	in a closed path	OPPO	4
+	is	NOALI	0
+there""s		NOALI	0
+switched		NOALI	0
+around.		NOALI	0
+the terminals	Terminal 1 and the positive terminal	SPE2	3
+We		NOALI	0
+	by the gap	NOALI	0
+	are separated	NOALI	0
+Because		NOALI	0
+bulbs B and C		NOALI	0
+	with the battery.	NOALI	0
+than		NOALI	0
+on a different path	in a closed path	SPE1	4
+bulb A	Bulb A	EQUI	5
+is	is contained	EQUI	5
+	still	NOALI	0
+affects		NOALI	0
+in the same closed path,	in the same path	EQUI	5
+the switch		NOALI	0
+if	When	SIMI	3
+are contained	are contained	EQUI	5
+the bulb.		NOALI	0
+a bulb and a switch	the switch and the bulb	EQUI	5
+is not seperated	are not separated	EQUI	5
+The positive terminal	Terminal 4 and the positive terminal	SPE1	4
+from the gap	by the gap	EQUI	5
+on the path	no path	OPPO	4
+	containing	NOALI	0
+Switch Y of bulb A.	switch Y and bulb A	EQUI	5
+Switch Y of bulb A.	both	EQUI	5
+	There	NOALI	0
+is not	is	OPPO	4
+	with the battery	NOALI	0
+switch y		NOALI	0
+in the same path	in a closed path	SPE1	4
+is not		NOALI	0
+of bulb a.	Bulb A	EQUI	5
+	is	NOALI	0
+	still	NOALI	0
+	the path	NOALI	0
+	is not closed	NOALI	0
+the voltage		NOALI	0
+does not reach		NOALI	0
+the bulbs.		NOALI	0
+Because		NOALI	0
+	are not connected	NOALI	0
+for the same reason		NOALI	0
+	Terminal 3 and the positive terminal	NOALI	0
+1		NOALI	0
+as		NOALI	0
+bulb b		NOALI	0
+	Terminal 4 and the positive battery terminal	NOALI	0
+	in the same electrical state	NOALI	0
+created		NOALI	0
+	are	NOALI	0
+a gap		NOALI	0
+	in the same electrical state	NOALI	0
+ba a gap		NOALI	0
+	are	NOALI	0
+the positive battery terminak from terminal 4	Terminal 4 and the positive battery terminal	EQUI	5
+is separated		NOALI	0
+	there	NOALI	0
+The current		NOALI	0
+the battery.		NOALI	0
+has shorted out	is a short circuit	EQUI	5
+	terminal 1	NOALI	0
+there		NOALI	0
+was		NOALI	0
+because		NOALI	0
+a positive and negative connection	is connected to the negative battery terminal	SPE2	2
+are not connected		NOALI	0
+	A battery	NOALI	0
+	different electrical states	NOALI	0
+	uses	NOALI	0
+the positive terminal and negative terminal	at the terminals	SPE1	4
+	a chemical reaction	NOALI	0
+	to maintain	NOALI	0
+because		NOALI	0
+is no closed path	the path is not closed	EQUI	5
+there		NOALI	0
+are not connected	are not connected	EQUI	5
+The terminals	Terminals 1 and 6	SPE1	4
+	is	NOALI	0
+	an incomplete circuit	NOALI	0
+does not effect		NOALI	0
+	there	NOALI	0
+the others		NOALI	0
+The bulb		NOALI	0
+because		NOALI	0
+with the battery	with the battery.	EQUI	5
+	still	NOALI	0
+in a closed circuit	in a closed path	REL	4
+was	is contained	SIMI	4
+bulb a	Bulb A	EQUI	5
+damaged,	damaged,	EQUI	5
+ae contained	are	EQUI	5
+if	If	EQUI	5
+the bulb A and B	A and B	EQUI	5
+C	C	EQUI	5
+	still	NOALI	0
+is	is	EQUI	5
+in a closed path	in a closed path	EQUI	5
+are not connected	are not connected	EQUI	5
+the positive battery terminal and terminal 1	Terminal 1 and the positive terminal	EQUI	5
+was formed.		NOALI	0
+a closed circuit	in the same closed path	REL	3
+	was	NOALI	0
+	still	NOALI	0
+Because		NOALI	0
+	contained	NOALI	0
+	Bulb A	NOALI	0
+	with the battery.	NOALI	0
+terminal one to a positive battery terminal	Terminal 1 and the positive terminal	EQUI	5
+is connected	are separated	OPPO	4
+	by the gap	NOALI	0
+there		NOALI	0
+	Terminal 1 and the positive terminal	NOALI	0
+becaquse		NOALI	0
+was a gap in the connection	are separated by the gap	SIMI	4
+and	and	EQUI	5
+	there	NOALI	0
+bulbs B and C	B and C	EQUI	5
+Bulb A	A	EQUI	5
+on its own closed path	a path	SPE1	3
+is	containing	SIMI	4
+	is	NOALI	0
+are	containing	SIMI	4
+on the same closed path	a different path	REL	3
+still	still	EQUI	5
+were	are contained	SIMI	4
+with the battery	with the battery	EQUI	5
+on closed paths	in closed paths	EQUI	5
+Bulbs A and C	Bulbs A and C	EQUI	5
+is not connected	are not connected	EQUI	5
+the terminal to the positive battery terminal	Terminal 1 and the positive terminal	SPE2	4
+the terminal to the battery	terminal 1 to the negative battery terminal	SPE2	3
+is connected	is connected	EQUI	5
+is	is	EQUI	5
+to the bulb.		NOALI	0
+The battery	the battery	EQUI	5
+in an open path	in an open path	EQUI	5
+a gap	a gap	EQUI	5
+in the path		NOALI	0
+A damaged bulb	a damaged bulb	EQUI	5
+creates	creates	EQUI	5
+bulb B		NOALI	0
+Because		NOALI	0
+the positive battery current	to the positive battery terminal	REL	4
+	are not connected	NOALI	0
+is damaged		NOALI	0
+to reach		NOALI	0
+	Terminals 1, 2 and 3	NOALI	0
+and		NOALI	0
+does not allow		NOALI	0
+the other side.		NOALI	0
+of the gap	by a gap	EQUI	5
+in bulb B		NOALI	0
+	Terminals 4, 5 and 6	NOALI	0
+because		NOALI	0
+	are separated	NOALI	0
+	from the negative battery terminal	NOALI	0
+what		NOALI	0
+	uses	NOALI	0
+	a chemical reaction	NOALI	0
+	to maintain	NOALI	0
+no matter		NOALI	0
+different		NOALI	0
+between the two battery terminals	at the terminals	SPE1	3
+will be		NOALI	0
+because		NOALI	0
+the electrical states	different electrical states	SPE2	4
+	A battery	NOALI	0
+	at the terminals	NOALI	0
+always		NOALI	0
+	to maintain	NOALI	0
+damaged		NOALI	0
+unless		NOALI	0
+is		NOALI	0
+voltage	different electrical states	REL	3
+has		NOALI	0
+	uses	NOALI	0
+a battery	A battery	EQUI	5
+it		NOALI	0
+	a chemical reaction	NOALI	0
+	then	NOALI	0
+	C	NOALI	0
+still	still	EQUI	5
+	A and B	NOALI	0
+	If	NOALI	0
+to battery	with the battery.	EQUI	5
+	burns out,	NOALI	0
+have connection	are in a closed path	SIMI	4
+	containing	NOALI	0
+Because		NOALI	0
+	is	NOALI	0
+switch Y and Z to bulb A.	A, C, Z and X	SPE1	2
+	there	NOALI	0
+are		NOALI	0
+also		NOALI	0
+connected	a path	REL	3
+but		NOALI	0
+it		NOALI	0
+it		NOALI	0
+a large one,		NOALI	0
+it		NOALI	0
+open		NOALI	0
+will not		NOALI	0
+	the bulb	NOALI	0
+if		NOALI	0
+	affects	NOALI	0
+if		NOALI	0
+will light up		NOALI	0
+	are	NOALI	0
+closed		NOALI	0
+is		NOALI	0
+is		NOALI	0
+	in the same path	NOALI	0
+it		NOALI	0
+	If	NOALI	0
+	the switch	NOALI	0
+	a bulb and a switch	NOALI	0
+The battery and the bulb	the bulb and the battery	EQUI	5
+together.		NOALI	0
+in a closed path	in a closed path	EQUI	5
+must be	are	SIMI	4
+was	is	SIMI	4
+no gap	no gap	EQUI	5
+There	There	EQUI	5
+between terminal 6 and the positive terminal.	between terminal 6 and the positive terminal	EQUI	5
+were	are contained	SIMI	4
+in a closed path	in closed paths	SPE1	4
+with the battery	with the battery	EQUI	5
+bulb a and bulb c	Bulbs A and C	EQUI	5
+still	still	EQUI	5
+	the switch	NOALI	0
+the bulb	the bulb	EQUI	5
+is		NOALI	0
+if	If	EQUI	5
+will be off	affects	REL	2
+	a bulb and a switch	NOALI	0
+	are	NOALI	0
+the path	in the same path	SPE2	3
+open		NOALI	0
+with itself.	does not contain any other components	SIMI	3
+is	is contained	EQUI	5
+in a closed path	which	EQUI	5
+the battery	The battery	EQUI	5
+in a closed path	in a closed path	EQUI	5
+bulb a	Bulb A	EQUI	5
+still	still	EQUI	5
+with the battery	with the battery.	EQUI	5
+because		NOALI	0
+was	was contained	EQUI	5
+in a closed path	in the same closed path	SPE2	4
+have reached		NOALI	0
+the terminals	the terminals	EQUI	5
+to each other.		NOALI	0
+where		NOALI	0
+are not connected	are not connected	EQUI	5
+a point		NOALI	0
+You		NOALI	0
+is	are contained	EQUI	5
+if	When	SIMI	3
+on the same path	in the same path	EQUI	5
+it		NOALI	0
+affects		NOALI	0
+the swithch the bulb	the switch and the bulb	EQUI	5
+The ppositive battery terminal in terminal 6.	Terminal 6 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+did not create		NOALI	0
+	are	NOALI	0
+for bulb a and c	Bulbs A and C	EQUI	5
+bulb b		NOALI	0
+a gap in the path	in closed paths	OPPO	4
+	still	NOALI	0
+	from the positive battery terminal	NOALI	0
+no difference		NOALI	0
+	by a gap	NOALI	0
+There		NOALI	0
+	Terminals 1, 2 and 3	NOALI	0
+	are separated	NOALI	0
+in electrical states.		NOALI	0
+is		NOALI	0
+terminal one to terminal six	Terminals 1 and 6	EQUI	5
+is not connected	are not connected	EQUI	5
+at bulb B		NOALI	0
+	terminal 4	NOALI	0
+the voltage reading		NOALI	0
+	is separated	NOALI	0
+0		NOALI	0
+causes		NOALI	0
+	from the negative battery terminal	NOALI	0
+to be		NOALI	0
+in circuit		NOALI	0
+gap	by a gap	EQUI	5
+	burns out,	NOALI	0
+	neither B nor C	NOALI	0
+in the closed path	in a closed path	EQUI	5
+is	is	EQUI	5
+	If	NOALI	0
+bulb a	bulb A	EQUI	5
+are		NOALI	0
+as		NOALI	0
+on the same side		NOALI	0
+the negative side of the battery.	to the negative battery terminal	EQUI	5
+the terminals	Terminals 1, 2 and 3	SPE2	3
+	are connected	NOALI	0
+and		NOALI	0
+is not seperated		NOALI	0
+by a gap		NOALI	0
+is connected	are connected	EQUI	5
+terminal 4		NOALI	0
+Terminal 4 to the positve battery terminal	Terminal 4 and the positive terminal	EQUI	5
+because		NOALI	0
+	Z and C	NOALI	0
+in the pathway.	a path	EQUI	5
+was	is	SIMI	4
+	both	NOALI	0
+a gap		NOALI	0
+	containing	NOALI	0
+there	there	EQUI	5
+with the battery.	with the battery	EQUI	5
+are	are	EQUI	5
+in separate closed paths	in different paths	EQUI	5
+Bulbs a and c	A and C	EQUI	5
+together.		NOALI	0
+in a closed path	in a closed path	EQUI	5
+need to be	are	SIMI	3
+The battery and bulb	the bulb and the battery	EQUI	5
+are connected	are connected	EQUI	5
+terminal 1 and terminal 4	Terminals 1 and 4	EQUI	5
+If	If	EQUI	5
+affects	affects	EQUI	5
+the switch	the switch	EQUI	5
+is connected	are	SIMI	3
+a bulb.	the bulb	EQUI	5
+the path	in the same path	SPE2	4
+directly		NOALI	0
+then		NOALI	0
+to the battery,	a bulb and a switch	REL	3
+is		NOALI	0
+If		NOALI	0
+the circut	the path	REL	4
+a switch		NOALI	0
+open,		NOALI	0
+is no longer closed.	is not closed	EQUI	5
+the gap	a chemical reaction	REL	2
+	A battery	NOALI	0
+	to maintain	NOALI	0
+because		NOALI	0
+	at the terminals	NOALI	0
+creates		NOALI	0
+a difference in electrical states	different electrical states	SIMI	4
+	uses	NOALI	0
+without any devices"		NOALI	0
+don""t connect		NOALI	0
+	in an open path	NOALI	0
+	is	NOALI	0
+"the battery terminals	the battery	SPE1	4
+	a complete circuit	NOALI	0
+	there	NOALI	0
+a connection		NOALI	0
+to the battery		NOALI	0
+	is	NOALI	0
+	in the same electrical state	NOALI	0
+is separated		NOALI	0
+by a gap		NOALI	0
+The positive battery terminal from terminal 4.	Terminal 4 and the positive battery terminal	EQUI	5
+	are	NOALI	0
+because		NOALI	0
+is damaged		NOALI	0
+bulb b		NOALI	0
+there		NOALI	0
+	are separated	NOALI	0
+because		NOALI	0
+a gap	by a gap	EQUI	5
+	Terminals 1, 2 and 3	NOALI	0
+	from the positive battery terminal	NOALI	0
+is		NOALI	0
+	are	NOALI	0
+by a gap		NOALI	0
+the positive battery terminal from terminal 4	Terminal 4 and the positive battery terminal	EQUI	5
+s separated		NOALI	0
+	in the same electrical state	NOALI	0
+terminal 1 and 4	Terminals 1 and 4	EQUI	5
+connected	are connected	EQUI	5
+Because		NOALI	0
+the two terminals	Terminals 1 and 4	SPE2	4
+are connected	are connected	EQUI	5
+	still	NOALI	0
+from bulb	Bulb A	SPE2	4
+to battery	with the battery.	EQUI	5
+there		NOALI	0
+a path	in a closed path	EQUI	5
+	contained	NOALI	0
+is		NOALI	0
+	is	NOALI	0
+are	are	EQUI	5
+in closed paths.	in closed paths	EQUI	5
+Bulb B and bulb C	bulbs B and C	EQUI	5
+still	still	EQUI	5
+	with the battery	NOALI	0
+in a closed path	which	EQUI	5
+without another component.	does not contain any other components	EQUI	5
+The battery	The battery	EQUI	5
+is contaied	is contained	EQUI	5
+in a closed path	in a path	EQUI	5
+to the battery	with the battery	EQUI	5
+	still	NOALI	0
+	are	NOALI	0
+is		NOALI	0
+there		NOALI	0
+	contained	NOALI	0
+a closed path	in closed paths	SPE1	4
+	Bulbs A and C	NOALI	0
+without any devices	does not contain any other components	EQUI	5
+in a closed path	which	EQUI	5
+is contained	is contained	EQUI	5
+in a closed path	in a closed path	EQUI	5
+the battery	The battery	EQUI	5
+there		NOALI	0
+a closed path	in closed paths	SPE1	4
+is		NOALI	0
+contains	are contained	EQUI	5
+still	still	EQUI	5
+the battery and bulb a and bulb c	Bulbs A and C with the battery	EQUI	5
+that	in closed paths	SPE1	4
+Terminal	Terminals 1 and 2	SPE2	3
+	are connected	NOALI	0
+the same electrical state	in the same electrical state	EQUI	5
+has		NOALI	0
+	and	NOALI	0
+	There	NOALI	0
+is separated	is	OPPO	4
+by a gap	no gap	OPPO	4
+The positive battery terminal from terminal 4.	between terminals 1 and 4	SPE1	3
+the bulb and the switch	the switch and the bulb	EQUI	5
+if	When	SIMI	3
+the bulb.		NOALI	0
+are contained	are contained	EQUI	5
+affects		NOALI	0
+the switch		NOALI	0
+by a closed path	in the same path	SPE2	4
+then		NOALI	0
+	are separated	NOALI	0
+Terminal 1 and the positive terminal	Terminal 1 and the positive terminal	EQUI	5
+different electrical states.	by the gap	REL	2
+had		NOALI	0
+	If	NOALI	0
+	in a closed path	NOALI	0
+	with the battery.	NOALI	0
+bulb a	A and B	SPE1	4
+with bulb C	C	EQUI	5
+	are	NOALI	0
+	then	NOALI	0
+	still	NOALI	0
+will burn out	burns out,	SIMI	4
+of the battery		NOALI	0
+are connected	are connected	EQUI	5
+terminal 1 and 2	Terminals 1 and 2	EQUI	5
+to the negtive terminal		NOALI	0
+you		NOALI	0
+	that	NOALI	0
+so		NOALI	0
+	means	NOALI	0
+at one point		NOALI	0
+a voltage decrease	A non-zero voltage	REL	3
+will be		NOALI	0
+will be		NOALI	0
+a gap	by a gap.	EQUI	5
+and		NOALI	0
+	the terminals	NOALI	0
+know.		NOALI	0
+in time		NOALI	0
+There		NOALI	0
+	are	NOALI	0
+there		NOALI	0
+	separated	NOALI	0
+in the closed path	in.	EQUI	5
+	that	NOALI	0
+in the closed path	a closed path	EQUI	5
+because		NOALI	0
+	There	NOALI	0
+	is	NOALI	0
+bulb c	C	EQUI	5
+is not included	is not	EQUI	5
+	with A and B	NOALI	0
+	is	NOALI	0
+	in a closed path	NOALI	0
+	If	NOALI	0
+bulb a	bulb A	EQUI	5
+	neither B nor C	NOALI	0
+creates a gap	burns out,	REL	3
+we		NOALI	0
+can		NOALI	0
+find		NOALI	0
+	indicates	NOALI	0
+	where	NOALI	0
+between different terminals	the electrical state	REL	3
+	changes	NOALI	0
+by finding		NOALI	0
+	due to	NOALI	0
+	the place	NOALI	0
+voltage	voltage	EQUI	5
+the burnt out bulb	a damaged bulb.	SPE1	4
+	Measuring	NOALI	0
+in a closed path	in a closed path	EQUI	5
+is not contained	is not	EQUI	5
+the battery	The battery	EQUI	5
+	in 4	NOALI	0
+between the positive and negative terminals of the battery	in the same electrical state	REL	3
+	are	NOALI	0
+terminals	Terminals 1 and 2	SPE2	3
+by a gay		NOALI	0
+are separated		NOALI	0
+	to maintain	NOALI	0
+	at the terminals	NOALI	0
+no short circuit	a chemical reaction	REL	3
+to the battery.	A battery	EQUI	5
+	uses	NOALI	0
+there		NOALI	0
+is		NOALI	0
+	different electrical states	NOALI	0
+is connected	are not connected	OPPO	4
+Terminal 6 to the positive battery terminal	Terminals 1 and 6	SPE1	3
+	a chemical reaction	NOALI	0
+	to maintain	NOALI	0
+than		NOALI	0
+a different electrical state	different electrical states	SPE1	4
+	uses	NOALI	0
+The battery	A battery	EQUI	5
+the circuit	at the terminals	REL	3
+will have		NOALI	0
+	is	NOALI	0
+	in its own path	NOALI	0
+bulb a	each bulb	SPE1	3
+creates		NOALI	0
+a gap		NOALI	0
+when	When	EQUI	5
+	in the same path	NOALI	0
+is connected	are contained	SIMI	2
+the switch between the bulb and the battery	the switch and the bulb	SPE2	3
+then		NOALI	0
+of the others		NOALI	0
+	are	NOALI	0
+to light up.		NOALI	0
+	A and C	NOALI	0
+becuase		NOALI	0
+the ability		NOALI	0
+breaking		NOALI	0
+one bulb		NOALI	0
+	in the same closed path	NOALI	0
+affects		NOALI	0
+within the same closed path	in the same closed path	EQUI	5
+is contained	was contained	SIMI	4
+because		NOALI	0
+bulb a	Bulb A	EQUI	5
+as the battery	with the battery.	EQUI	5
+	still	NOALI	0
+in a dfferent path	in the same closed path	OPPO	4
+Switch Y	Switch Y and bulb A	SPE1	4
+was	are not	OPPO	4
+are	were contained	SIMI	4
+bulbs b and c	Bulb B and Bulb C	EQUI	5
+because		NOALI	0
+with the battery.	with the battery.	EQUI	5
+	still	NOALI	0
+in a closed path	in the same closed path	SPE2	4
+the gap	by the gap	EQUI	5
+postive		NOALI	0
+is		NOALI	0
+	are separated	NOALI	0
+in terminal 2	Terminal 2 and the positive terminal	SPE1	3
+	is	NOALI	0
+there		NOALI	0
+	containing	NOALI	0
+is		NOALI	0
+in one		NOALI	0
+of the paths.	no closed path	REL	3
+	the battery	NOALI	0
+Because		NOALI	0
+	there	NOALI	0
+a bulb		NOALI	0
+connects		NOALI	0
+a closed path	which	EQUI	5
+with nothing else	does not contain any other components	EQUI	5
+is	is contained	EQUI	5
+the battery	The battery	EQUI	5
+in a closed path	in a closed path	EQUI	5
+but		NOALI	0
+of the bulb terminals		NOALI	0
+the other ones		NOALI	0
+and		NOALI	0
+Because		NOALI	0
+good.		NOALI	0
+are		NOALI	0
+	to the positive battery terminal	NOALI	0
+	Terminals 4, 5 and 6	NOALI	0
+	are connected	NOALI	0
+bad,		NOALI	0
+is		NOALI	0
+one		NOALI	0
+with the battery	with the battery	EQUI	5
+are	are	EQUI	5
+	still	NOALI	0
+bulbs a and c	Bulbs A and C	EQUI	5
+on a closed path	in closed paths	SPE1	4
+	is contained	NOALI	0
+The light bulb	no bulb	OPPO	4
+is not	is	OPPO	4
+	the battery	NOALI	0
+	there	NOALI	0
+in a closed path	in a path	EQUI	5
+in a closed path	in which	EQUI	5
+in different paths	in different paths	EQUI	5
+bulbs a and c	A and C	EQUI	5
+are contained	are	EQUI	5
+with the battery.	with the battery	EQUI	5
+Bulb B and C	Bulb B and Bulb C	EQUI	5
+	still	NOALI	0
+were contained	were contained	EQUI	5
+in a closed path	in the same closed path	SPE2	4
+with the battery	with the battery.	EQUI	5
+	by the gap	NOALI	0
+terminal 1 to terminal 6	Terminals 1 and 6	EQUI	5
+is connected	are separated	OPPO	4
+	at the terminals	NOALI	0
+because		NOALI	0
+	uses	NOALI	0
+doesnt change		NOALI	0
+	a chemical reaction	NOALI	0
+	to maintain	NOALI	0
+the voltage	different electrical states	REL	3
+in the battery	A battery	EQUI	5
+are	are contained	EQUI	5
+the switch and the bulb	the switch and the bulb	EQUI	5
+in the same path.	in the same path	EQUI	5
+If	When	SIMI	3
+between the battery""s	A battery	EQUI	5
+two terminals"	at the terminals	SPE1	4
+	to maintain	NOALI	0
+	a chemical reaction	NOALI	0
+	uses	NOALI	0
+"the electrical state difference	different electrical states	SIMI	4
+there		NOALI	0
+a gap	by the gap	EQUI	5
+between terminal 3 and the positive terminal	Terminal 3 and the positive terminal	EQUI	5
+is	are separated	SPE2	3
+	uses	NOALI	0
+	to maintain	NOALI	0
+	a chemical reaction	NOALI	0
+	A battery	NOALI	0
+does not change.		NOALI	0
+The voltage	different electrical states	REL	3
+	at the terminals	NOALI	0
+the positive battery terminal from terminal 3.	Terminal 3 and the positive terminal	EQUI	5
+by a gap	by the gap	EQUI	5
+is separarted	are separated	EQUI	5
+a gap	no gap	OPPO	4
+in the connection.	between the terminals	REL	3
+there	there	EQUI	5
+is	is	EQUI	5
+there		NOALI	0
+is		NOALI	0
+if		NOALI	0
+a gap	by a gap.	EQUI	5
+will be		NOALI	0
+	whether	NOALI	0
+the voltage	voltage	EQUI	5
+	are	NOALI	0
+	indicates	NOALI	0
+	separated	NOALI	0
+	Measuring	NOALI	0
+different.		NOALI	0
+between the terminals,	two terminals	SPE2	4
+if	If	EQUI	5
+the bulb	the bulb	EQUI	5
+a path	in the same path	SPE2	4
+is connected	are	SIMI	3
+will be off.	affects	REL	2
+to an oen switch,	a bulb and a switch	SPE2	3
+to an oen switch,	the switch	SPE1	4
+	A and C	NOALI	0
+	are	NOALI	0
+will not turn off		NOALI	0
+one bulb		NOALI	0
+another bulb		NOALI	0
+	in different paths	NOALI	0
+turning off		NOALI	0
+	are	NOALI	0
+a closed path	in a closed path	EQUI	5
+	bulbs A and B	NOALI	0
+is		NOALI	0
+there		NOALI	0
+for B and C	bulbs B and C	EQUI	5
+are		NOALI	0
+still	still	EQUI	5
+there		NOALI	0
+complete paths	in closed paths	EQUI	5
+	are	NOALI	0
+to the battery	with the battery	EQUI	5
+still	still	EQUI	5
+Bulbs A and C	A and B	SIMI	4
+	burns out,	NOALI	0
+are contained	are	EQUI	5
+with the battery	with the battery.	EQUI	5
+	C	NOALI	0
+in closed paths	in a closed path	SPE2	4
+	If	NOALI	0
+	then	NOALI	0
+bulb A	Bulb A	EQUI	5
+yes		NOALI	0
+	still	NOALI	0
+was	was contained	EQUI	5
+on	in the same closed path with the battery.	REL	3
+are not	are	OPPO	4
+on the same path	in different paths	REL	4
+bulb a and bulb c bulb B	A, B and C	EQUI	5
+as		NOALI	0
+the light bulb and battery	the bulb and the battery	EQUI	5
+Both	the bulb and the battery	EQUI	5
+in a closed path.	in a closed path	EQUI	5
+must be	are	SIMI	4
+there		NOALI	0
+	is	NOALI	0
+is not		NOALI	0
+of the battery	the battery	EQUI	5
+a terminal		NOALI	0
+connected to		NOALI	0
+the positive path	in an open path	SIMI	3
+There		NOALI	0
+	are	NOALI	0
+a closed circuit battery.	in a closed path	REL	4
+has to be		NOALI	0
+	the bulb and the battery	NOALI	0
+	a chemical reaction	NOALI	0
+voltage	A battery	REL	4
+	to maintain	NOALI	0
+to have		NOALI	0
+the terminals	at the terminals	EQUI	5
+a difference in electrical states	different electrical states	SIMI	4
+must have		NOALI	0
+	uses	NOALI	0
+in the circuit	two terminals	REL	4
+	are separated	NOALI	0
+whether	whether	EQUI	5
+there		NOALI	0
+electrical states	voltage	REL	3
+will determine	indicates	SIMI	4
+	Measuring	NOALI	0
+a gap or connection	by a gap.	SPE2	3
+is		NOALI	0
+no gap	by the gap	OPPO	4
+there		NOALI	0
+between the positive battery terminal and terminal 6	Terminal 6 and the positive terminal	EQUI	5
+is	are not separated	OPPO	4
+When	When	EQUI	5
+is	are contained	EQUI	5
+in the path	in the same path	SPE2	4
+the switch of the bulb.	the switch and the bulb	EQUI	5
+an open switch	the open switch	EQUI	5
+because		NOALI	0
+a gap.	a gap	EQUI	5
+creates	creates	EQUI	5
+so		NOALI	0
+a complete path	a closed path	EQUI	5
+still	still	EQUI	5
+	containing	NOALI	0
+	is	NOALI	0
+	there	NOALI	0
+it		NOALI	0
+creates		NOALI	0
+is closed		NOALI	0
+switch z to the battery	Switch Z, Switch X, Bulbs A and C and the battery	SPE1	2
+	Terminals 1, 2 and 3	NOALI	0
+in bulb b		NOALI	0
+	are separated	NOALI	0
+because		NOALI	0
+of the gap	by a gap	EQUI	5
+	from the positive battery terminal	NOALI	0
+with a battery and bulb	the bulb and a battery	EQUI	5
+A closed path	a closed path	EQUI	5
+with a battery and bulb	containing both	EQUI	5
+	there	NOALI	0
+	is	NOALI	0
+Bulb B	Bulb B	EQUI	5
+in a independent path	in a separate path	EQUI	5
+is	is	EQUI	5
+are connected	are connected	EQUI	5
+because		NOALI	0
+bulbs	Terminals 1, 2 and 3	REL	3
+to the negative terminal of the battery	to the negative battery terminal	EQUI	5
+the path	in a circuit	REL	4
+connecting		NOALI	0
+will be damaged	is a gap	SPE2	3
+Because		NOALI	0
+	there	NOALI	0
+the bulbs		NOALI	0
+is separated	are separated	EQUI	5
+the positive terminal from terminal 3	Terminal 3 and the positive terminal	EQUI	5
+because		NOALI	0
+by a gap	by the gap	EQUI	5
+in the closed path.		NOALI	0
+creates	creates	EQUI	5
+a break	a gap	EQUI	5
+A switch	the open switch	SPE2	4
+	are connected	NOALI	0
+have		NOALI	0
+the same voltage	in the same electrical state	REL	3
+connected		NOALI	0
+is		NOALI	0
+terminal 1 and 2	Terminals 1 and 2	EQUI	5
+there		NOALI	0
+because		NOALI	0
+a working bulb		NOALI	0
+to the negative battery terminal.		NOALI	0
+	and	NOALI	0
+than		NOALI	0
+Switch Y Bulb A	Switch Y and bulb A	EQUI	5
+in a different path	in the same closed path	REL	4
+is	are not	OPPO	4
+The two terminals of a battery	at the terminals	SPE1	4
+a chemical reaction	a chemical reaction	EQUI	5
+due to	uses	SIMI	3
+inside the battery	A battery	EQUI	5
+will always have	to maintain	SIMI	4
+different electrical states	different electrical states	EQUI	5
+by a gap	by a gap	EQUI	5
+from terminal 4	terminal 4	EQUI	5
+the negative batter terminal	from the negative battery terminal	EQUI	5
+is seperated	is separated	EQUI	5
+on the same closed path	a different path	REL	3
+with the battery		NOALI	0
+seperate	containing	REL	2
+from bulb a	A	EQUI	5
+	and	NOALI	0
+	there	NOALI	0
+	is	NOALI	0
+	a path	NOALI	0
+bulbs b anc c	B and C	EQUI	5
+but		NOALI	0
+are	containing	SIMI	3
+Because		NOALI	0
+the path between the battery and the light bulb	the path	SPE1	3
+is not closed	is not closed	EQUI	5
+are contained	are	EQUI	5
+in the same path	in different paths	REL	4
+bulb C and A	A and C	EQUI	5
+with the battery		NOALI	0
+the terminals	the terminals	EQUI	5
+go		NOALI	0
+connected		NOALI	0
+to each other.		NOALI	0
+to being		NOALI	0
+from not being connected	are not connected	SIMI	4
+the positive batter terminal from terminal 4	Terminal 4 and the positive terminal	EQUI	5
+a gap	by the gap	EQUI	5
+does not have	are not separated	EQUI	5
+on the same path	in the same path	EQUI	5
+are	are	EQUI	5
+as the battery	with the battery	EQUI	5
+bulbs B and C	B and C	EQUI	5
+terminal 1 to terminal 4	Terminals 1 and 4	EQUI	5
+is connetced	are connected	EQUI	5
+in their own closed paths	in closed paths	SPE1	4
+	still	NOALI	0
+will be	are	SIMI	4
+b and c	bulbs B and C	EQUI	5
+with the battery.	with the battery	EQUI	5
+all the bulbs	A and C	SPE2	3
+on parralel paths	in different paths	REL	3
+are	are	EQUI	5
+are connected	are connected	EQUI	5
+to the positive battery terminal	to the positive battery terminal	EQUI	5
+terminal 4, terminal 5, and terminal 6	Terminals 4, 5 and 6	EQUI	5
+through bulb b.		NOALI	0
+is	is	EQUI	5
+no path	an incomplete circuit	REL	3
+there	there	EQUI	5
+	are	NOALI	0
+was		NOALI	0
+from terminal 2 to terminal 6	Terminals 1 and 2	SIMI	3
+a gap	in the same electrical state	REL	2
+there		NOALI	0
+the same difference in electrical states	in the same electrical state	SIMI	3
+	and	NOALI	0
+have		NOALI	0
+terminal 1 and 2	Terminals 1 and 2	EQUI	5
+	are connected	NOALI	0
+to the negative battery terminal	to the negative battery terminal	EQUI	5
+terminal one	terminal 1	EQUI	5
+is connected	is connected	EQUI	5
+Bulb A	bulb A	EQUI	5
+	If	NOALI	0
+as		NOALI	0
+bulbs B and C.	B and C	EQUI	5
+is not	are no longer	EQUI	5
+	burns out,	NOALI	3
+in the same path	in a closed path	SPE1	4
+	with the battery	NOALI	0
+	are contained	NOALI	0
+is		NOALI	0
+the switch between the bulb and the battery.	the switch and the bulb	SPE2	3
+If	When	SIMI	3
+a gap	in the same path	REL	2
+on		NOALI	0
+makes		NOALI	0
+and		NOALI	0
+the switch with the Bulb	the switch and the bulb	EQUI	5
+is contained	are contained	EQUI	5
+in the same path	in the same path	EQUI	5
+If	When	SIMI	3
+is	is	EQUI	5
+no gap	no gap	EQUI	5
+between the positive battery terminal and terminal 5	between terminal 5 and the positive terminal	EQUI	5
+there	There	EQUI	5
+are not connected	are not connected	EQUI	5
+That		NOALI	0
+to each other.		NOALI	0
+the terminals	the terminals	EQUI	5
+between the bulb and the battery.	the bulb and a battery	EQUI	5
+	there	NOALI	0
+	is	NOALI	0
+	containing	NOALI	0
+Closed connection	a closed path	REL	4
+between the bulb and the battery.	both	EQUI	5
+within a closed path	in the same path	SPE2	4
+has to be	have to be	EQUI	5
+the switch with the bulb and battery	The switch and the bulb	SPE2	3
+terminal 6 to the positive terminal.	Terminal 6 and the positive terminal	EQUI	5
+directly		NOALI	0
+is connected	are connected	EQUI	5
+	still	NOALI	0
+in a closed path	in a closed path	EQUI	5
+with a battery.	with the battery.	EQUI	5
+Bulb a	Bulb A	EQUI	5
+was	is contained	SIMI	4
+the positive battery terminal to terminal 4.	Terminal 4 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+switch Y		NOALI	0
+for bulb A	Bulb A	EQUI	5
+the closed path	in a closed path	EQUI	5
+existed	is contained	SIMI	4
+was		NOALI	0
+even though		NOALI	0
+	with the battery.	NOALI	0
+open		NOALI	0
+still	still	EQUI	5
+is connected	are connected	EQUI	5
+terminal 4 to the positive batterty terminal	Terminal 4 and the positive terminal	EQUI	4
+if	If	EQUI	5
+open or closed		NOALI	0
+the path	in the same path	SPE2	4
+	a bulb and a switch	NOALI	0
+	the bulb	NOALI	0
+	affects	NOALI	0
+	are	NOALI	0
+	the switch	NOALI	0
+is		NOALI	0
+	in 2	NOALI	0
+the attery	The battery	EQUI	5
+is not	is not	EQUI	5
+in a closed path	in a closed path	EQUI	5
+in a closed path	in the same closed path	SPE2	4
+bulbs B and C	Bulb B and Bulb C	EQUI	5
+with the battery.	with the battery.	EQUI	5
+were	were contained	EQUI	5
+because		NOALI	0
+still	still	EQUI	5
+When	When	EQUI	5
+in the same path	in the same path	EQUI	5
+as		NOALI	0
+the switch the bulb.	the switch and the bulb	EQUI	5
+is	are contained	EQUI	5
+and		NOALI	0
+contains		NOALI	0
+the light bulb		NOALI	0
+	There	NOALI	0
+The path		NOALI	0
+the path is not closed.	is no closed path	EQUI	5
+Terminal 5 to the postive battery terminal	Terminal 5 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+in bulb b.		NOALI	0
+because of the gap	are not connected	REL	4
+	to the negative battery terminal	NOALI	0
+	Terminals 4, 5 and 6	NOALI	0
+There		NOALI	0
+is	are	EQUI	5
+bulb B and C	bulbs B and C	EQUI	5
+containing		NOALI	0
+still	still	EQUI	5
+with the battery.	with the battery	EQUI	5
+a closed path	in closed paths	SPE1	4
+battery	The battery	EQUI	5
+	does not contain	NOALI	0
+in bulb	in a path	REL	2
+	which	NOALI	0
+is contained	is contained	EQUI	5
+	any other components	NOALI	0
+there	there	EQUI	5
+of the battery		NOALI	0
+a closed circuit.	a complete circuit	EQUI	5
+must be	is	SIMI	4
+to both sides		NOALI	0
+must be connected		NOALI	0
+and		NOALI	0
+The light bulb		NOALI	0
+	still	NOALI	0
+are	are	EQUI	5
+parts		NOALI	0
+to the battery	with the battery	EQUI	5
+b and c	bulbs B and C	EQUI	5
+of complete circuts	in closed paths	REL	4
+both		NOALI	0
+bulb B		NOALI	0
+the other bulbs		NOALI	0
+	there	NOALI	0
+	is	NOALI	0
+does not effect		NOALI	0
+	an incomplete circuit	NOALI	0
+in a closed path	a closed path	EQUI	5
+	There	NOALI	0
+the battery		NOALI	0
+	is	NOALI	0
+	still	NOALI	0
+is contained		NOALI	0
+a positive and negative connections	are not connected	REL	3
+	Terminals 1 and 6	NOALI	0
+there		NOALI	0
+is		NOALI	0
+because		NOALI	0
+in the path.		NOALI	0
+a damaged bulb	a damaged bulb	EQUI	5
+creates	creates	EQUI	5
+a gap	a gap	EQUI	5
+causes	creates	EQUI	5
+an open switch	the open switch	EQUI	5
+a gap.	a gap	EQUI	5
+there	There	EQUI	5
+by the switch	switch Y and bulb A	SPE2	2
+a closed path	no path	OPPO	4
+by the switch	both	SPE2	2
+not effected	containing	SIMI	2
+was	is	SIMI	4
+If		NOALI	0
+is contained	must be contained	SIMI	4
+with the battery		NOALI	0
+no longer		NOALI	0
+the other bulb	The damaged bulb and the other bulb	SPE1	3
+in a closed path	in the same path	SPE2	4
+	the switch	NOALI	0
+A closed path	in the same path	SPE2	4
+with a battery		NOALI	0
+	a bulb and a switch	NOALI	0
+	If	NOALI	0
+the bulb	the bulb	EQUI	4
+enables to be on.	affects	SIMI	2
+	are	NOALI	0
+	in which	NOALI	0
+	is	NOALI	0
+is	is contained	EQUI	5
+	there	NOALI	0
+the battery	the battery	EQUI	5
+	no bulb	NOALI	0
+in a closed path.	in a path	EQUI	5
+are contained	are	EQUI	5
+	bulb A	NOALI	0
+	still	NOALI	0
+in the same path	in a closed path	SPE1	4
+the switch and the bulb	bulbs B and C	SPE2	2
+	If	NOALI	0
+	burns out,	NOALI	0
+closed paths	in a closed path	SPE2	4
+	are	NOALI	0
+from the battery	the bulb and the battery	SPE1	3
+are contained	are	EQUI	5
+Bulb A and C	A and C	EQUI	5
+in different paths	in different paths	EQUI	5
+with the battery.	with the battery	EQUI	5
+between the bul and battery terminal.	between the terminals	SPE2	3
+is	is	EQUI	5
+there	there	EQUI	5
+a gap	no gap	OPPO	4
+	and	NOALI	0
+is a gap	are connected	OPPO	4
+from the positive battery terminal	in the same electrical state	REL	3
+there		NOALI	0
+between terminals 1 and 2	Terminals 1 and 2	EQUI	5
+Terminal 6 to the posititve battery terminal.	Terminal 6 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+	is contained	NOALI	0
+	is	NOALI	0
+a closed path,		NOALI	0
+in the path	in a path	EQUI	5
+	there	NOALI	0
+in the path	in which	EQUI	5
+is		NOALI	0
+there		NOALI	0
+	the battery	NOALI	0
+with no lightbulb	no bulb	EQUI	5
+no gap	no gap	EQUI	5
+there	There	EQUI	5
+is	is	EQUI	5
+Because		NOALI	0
+between terminal 4 and the positive terminal	between terminal 4 and the positive terminal	EQUI	5
+is contain	was contained	SIMI	4
+Bulb A	Bulb A	EQUI	5
+	with the battery.	NOALI	0
+in a closed path	in the same closed path	SPE2	4
+	still	NOALI	0
+is		NOALI	0
+open.		NOALI	0
+One side		NOALI	0
+	in an open path	NOALI	0
+	is	NOALI	0
+is closed		NOALI	0
+the other side		NOALI	0
+	the battery	NOALI	0
+is	containing	SIMI	4
+within its own closed path	a path	SPE1	3
+of B and C	containing B and C	EQUI	5
+and		NOALI	0
+	and	NOALI	0
+	is	NOALI	0
+	there	NOALI	0
+Bulb A	A	EQUI	5
+independent	a different path	SIMI	4
+Terminal 1 to terminal 2	Terminals 1 and 4	SIMI	4
+is connected	are connected	EQUI	5
+by a gap	by the gap	EQUI	5
+are seperated	are separated	EQUI	5
+the positive terminal and terminal 1	Terminal 1 and the positive terminal	EQUI	5
+is	are	EQUI	5
+that		NOALI	0
+still	still	EQUI	5
+a closed path	in closed paths	SPE1	4
+There		NOALI	0
+the battery, Bulb B, and Bulb C.	bulbs B and C with the battery	EQUI	5
+contains		NOALI	0
+had no gap.	are separated by the gap	OPPO	4
+terminal 1	Terminal 1 and the positive terminal	SPE1	3
+Because		NOALI	0
+Terminal 5 and the positive battery terminal	Terminal 5 and the positive terminal	EQUI	5
+are in the same state.	are connected	REL	4
+to the negative terminal	Terminals 1 and 2	REL	3
+connected	are connected	EQUI	5
+is not	is	OPPO	4
+a complete path	no closed path	OPPO	4
+there	there	EQUI	5
+both battery terminals	the battery	SPE1	4
+involving	containing	EQUI	5
+	with the battery.	NOALI	0
+no gap in the circuit.	in a closed path	EQUI	5
+	still	NOALI	0
+	Bulb A	NOALI	0
+	is	NOALI	0
+	contained	NOALI	0
+There		NOALI	0
+is		NOALI	0
+terminal 5 to the positive battery terminal.	Terminal 5 and the positive terminal	EQUI	5
+is connected	are connected	EQUI	5
+	to maintain	NOALI	0
+because		NOALI	0
+it		NOALI	0
+its own chemical reacion	a chemical reaction	SPE1	4
+between the positive and negative tterminals	at the terminals	SPE1	3
+	different electrical states	NOALI	0
+the battery	A battery	EQUI	5
+contains		NOALI	0
+has	uses	SIMI	4
+are	are	EQUI	5
+bulbs by switches	a bulb and a switch	SPE2	4
+bulbs by switches	the switch the bulb	SPE2	4
+that		NOALI	0
+will be affected	affects	SIMI	4
+in the path	in the same path	SPE2	4
+	If	NOALI	0
+if		NOALI	0
+is contained	must be contained	SIMI	4
+the damaged lightbulb	The damaged bulb and the other bulb	SPE1	4
+in the closed circuit	in the same path	REL	4
+are connected		NOALI	0
+	in an open path	NOALI	0
+	is	NOALI	0
+The bulb and the battery	the battery	SPE2	3
+is connected	are connected	EQUI	5
+terminal 6 to a positive battery terminal	Terminal 6 and the positive terminal	EQUI	5
+still	still	EQUI	5
+because		NOALI	0
+a connection	in closed paths	REL	4
+have	are	SIMI	2
+A and C	Bulbs A and C	EQUI	5
+to the battery	with the battery	EQUI	5
+between the terminals	terminal 1 from the negative battery terminal	SPE2	3
+because		NOALI	0
+there		NOALI	0
+is no gap	is not separated	EQUI	5
+the difference		NOALI	0
+the voltage		NOALI	0
+	are separated	NOALI	0
+is		NOALI	0
+of the terminals.	Terminal 1 and the positive terminal	SPE2	3
+between the electrical state	by the gap	REL	2
+Bulb A and Bulb C	A and C	EQUI	5
+are contained	are	EQUI	5
+with the battery.	with the battery	EQUI	5
+in different paths	in different paths	EQUI	5
+	uses	NOALI	0
+	to maintain	NOALI	0
+	A battery	NOALI	0
+between the two terminals	at the terminals	SPE1	4
+	a chemical reaction	NOALI	0
+because		NOALI	0
+a difference in electrial states	different electrical states	SIMI	4
+there		NOALI	0
+is		NOALI	0
+Terminal 5 to the positive battery terminal.	Terminal 5 and the positive terminal	EQUI	5
+only		NOALI	0
+is connected	are connected	EQUI	5
+	in the same closed path	NOALI	0
+	are not	NOALI	0
+	Switch Y and bulb A	NOALI	0
+a negative charge		NOALI	0
+only		NOALI	0
+is containing		NOALI	0
+the battery		NOALI	0
+the positive battery terminal from terminal 1	Terminal 1 and the positive terminal	EQUI	5
+separates	are separated	EQUI	5
+the gap	by the gap	EQUI	5
+a gap		NOALI	0
+	is	NOALI	0
+the path	in its own path	SPE2	3
+will have		NOALI	0
+	each bulb	NOALI	0
+stops		NOALI	0
+the energy flow	the path	REL	4
+An open switch		NOALI	0
+	is not closed	NOALI	0
+on a cloosed battery	in a closed path with the battery.	EQUI	5
+	still	NOALI	0
+A	Bulb A	EQUI	5
+is	is contained	EQUI	5
+even if		NOALI	0
+	uses	NOALI	0
+always		NOALI	0
+is		NOALI	0
+have		NOALI	0
+a battery	A battery	EQUI	5
+because		NOALI	0
+a voltage	different electrical states	REL	3
+it		NOALI	0
+	to maintain	NOALI	0
+	at the terminals	NOALI	0
+	a chemical reaction	NOALI	0
+will		NOALI	0
+0		NOALI	0
+an open path	in an open path	EQUI	5
+the		NOALI	0
+is	is	EQUI	5
+	the battery	NOALI	0
+on the same path	in the same path	EQUI	5
+are	are	EQUI	5
+with the battery		NOALI	0
+the bulbs	A and C	SPE2	3
+is contained	are	EQUI	5
+	burns out	NOALI	0
+	then	NOALI	0
+still	still	EQUI	5
+	If	NOALI	0
+Through bulb A, bulb B	A and B	EQUI	5
+	C	NOALI	0
+to the battery.	with the battery	EQUI	5
+in a closed path	in a closed path	EQUI	5
