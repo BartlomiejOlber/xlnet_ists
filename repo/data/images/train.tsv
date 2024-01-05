@@ -1,0 +1,4806 @@
+x1	x2	y_type	y_score
+.		NOALI	0
+	high up	NOALI	0
+	.	NOALI	0
+A cat	A black and white cat	SPE2	4
+standing	is	EQUI	5
+on tree branches	on tree branches	EQUI	5
+in the water	on the sea	SPE2	4
+at the marina		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A large boat	A large boat	EQUI	5
+waiting	sits	SIMI	4
+in a station	in the station	EQUI	5
+A passenger train	A passenger train	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+sitting	sitting	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+on the floor	on the floor	EQUI	5
+An Apple computer	A Macintosh computer	EQUI	5
+a horse	a horse	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+	in a pen	NOALI	0
+riding	riding	EQUI	5
+A jockey	A jockey	EQUI	5
+A woman	A young girl	SIMI	4
+.		NOALI	0
+riding	riding	EQUI	5
+a brown horse	a brown horse	EQUI	5
+	.	NOALI	0
+A man	A man	EQUI	5
+	in a chair	NOALI	0
+sleeps	asleep	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+with a baby in his lap	holding a baby	SPE1	4
+in front of yellow flowers	in a field	SIMI	2
+	.	NOALI	0
+A black dog	A black dog	EQUI	5
+.		NOALI	0
+standing	standing	EQUI	5
+standing	grazing	SPE2	3
+.		NOALI	0
+	.	NOALI	0
+in afield	in a field	EQUI	5
+sheep	A sheep	EQUI	5
+standing	stands	EQUI	5
+in a field	in a lush green field	SPE2	3
+A dark brown horse	A brown horse	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+A group	A group	EQUI	5
+.		NOALI	0
+with food	with food and beer	SPE2	4
+around a table	around a table	EQUI	5
+on it		NOALI	0
+of people	of people	EQUI	5
+	.	NOALI	0
+sitting	sit	EQUI	5
+in a lush green field	in a green field	SPE1	4
+stands		NOALI	0
+.		NOALI	0
+A brown horse	A brown horse	EQUI	5
+	.	NOALI	0
+at her feet	at her feet	EQUI	5
+in a kitchen	in the kitchen	EQUI	5
+	.	NOALI	0
+stands	is standing	EQUI	5
+.		NOALI	0
+with two cats	with two cats	EQUI	5
+An elderly woman	The old lady	EQUI	5
+Red double decker bus	Double decker passenger bus	SPE1	4
+	.	NOALI	0
+through the streets	with traffic	REL	3
+.		NOALI	0
+driving	driving	EQUI	5
+in a cluttered room	in a cluttered room	EQUI	5
+	in a bed	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+sitting	lies	SIMI	4
+A man	A man	EQUI	5
+walking	walking	EQUI	5
+.		NOALI	0
+in pasture	in a pasture	EQUI	5
+Black cow	Cow	SPE1	4
+under trees	under the tree	SIMI	4
+	.	NOALI	0
+A smiling woman	Two women	SIMI	3
+with another smiling woman	laughing	REL	2
+with a beer		NOALI	0
+.		NOALI	0
+sitting	sitting	EQUI	5
+	.	NOALI	0
+outside	outside	EQUI	5
+.		NOALI	0
+a woman	A young woman	SPE2	4
+with a big necklace	with a black top and a necklace	SPE1	3
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+in grass	in a grassy area	EQUI	5
+standing	standing	EQUI	5
+	with trees behind	NOALI	0
+at side		NOALI	0
+of road		NOALI	0
+Brown and white cow	A brown and white cow	EQUI	5
+in a pen		NOALI	0
+a horse	a horse	EQUI	5
+	at a gallop	NOALI	0
+riding	rides	EQUI	5
+.		NOALI	0
+A jockey	A jockey	EQUI	5
+	.	NOALI	0
+rides	rides	EQUI	5
+wearing	wearing	EQUI	5
+	on a path	NOALI	0
+.		NOALI	0
+A person	A person	EQUI	5
+a bike	a bike	EQUI	5
+near a white structure		NOALI	0
+	.	NOALI	0
+a helmet	a bike helmet	EQUI	5
+	through trees	NOALI	0
+of horses	of horses	EQUI	5
+in grassy field	in a field	SPE1	4
+	.	NOALI	0
+grazing	grazing	EQUI	5
+Group	A group	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+with a red bicycle	with a bicycle	SPE1	4
+a helmet	a bike helmet	EQUI	5
+behind her	in the background	EQUI	5
+.		NOALI	0
+A young blonde girl	A young girl	SPE1	4
+wearing	wearing	EQUI	5
+sits		NOALI	0
+laying down	laying	EQUI	5
+of cat litter	of cat litter	EQUI	5
+on a bag		NOALI	0
+A striped cat	Domestic cat	SIMI	3
+	.	NOALI	0
+	on back	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+on the snow	in the snow	EQUI	5
+Five birds	Several cardinals	SIMI	3
+.		NOALI	0
+stand	stand	EQUI	5
+.		NOALI	0
+posing	is standing	SPE1	4
+	.	NOALI	0
+by a pillar	by a pillar	EQUI	5
+with a U2 sign	where `` u2 '' is written	EQUI	5
+A woman	a woman	EQUI	5
+A red moped	The red scooter	SPE2	4
+in front of graffiti	in front of the building	REL	3
+parked	is sitting	SIMI	4
+	.	NOALI	0
+on a sidewalk	on the street	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+sitting	resting	SIMI	4
+.		NOALI	0
+on couch	on a couch	EQUI	5
+Two dogs and one cat	Two dogs and a cat	EQUI	5
+	.	NOALI	0
+smiling	are posing	REL	3
+	and	NOALI	0
+	for the camera	NOALI	0
+with their thumbs up	giving the thumbs up sign	EQUI	5
+One Asian and one occasion woman	Two women	SPE1	2
+in glasses		NOALI	0
+.		NOALI	0
+Two mountain goats	Two animals	SPE1	2
+	.	NOALI	0
+grazing	grazing	EQUI	5
+in front of an alpine lake	next to a mountain , and a body of water	SIMI	4
+.		NOALI	0
+in a station	at the city train station	SPE2	4
+A passenger train	A passenger train	EQUI	5
+waiting	waiting	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+by a shop	outside a bookstore	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+is parked	is parked	EQUI	5
+A bicycle	A bicycle	EQUI	5
+in a black leather chair	on a leather chair	SPE1	4
+A orange and white cat	A ginger and white cat	SPE2	4
+laying	curled up and asleep	SPE1	4
+on a blanket		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+on train tracks	on the train tracks	EQUI	5
+.		NOALI	0
+Black train	A train	SPE1	4
+	.	NOALI	0
+on a black couch	on couch	SPE1	4
+Young couple	Young couple	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+on a couch	on couch	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+posing	sitting	REL	3
+A couple	Young couple	SPE2	4
+for a picture		NOALI	0
+	with hood up	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+Red double decker bus	Red double decker bus	EQUI	5
+	with food	NOALI	0
+A group	A group	EQUI	5
+at a restaurant table	around a table	SPE1	4
+of people	of people	EQUI	5
+sitting	sitting	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+	on it	NOALI	0
+napping	sleeping	SIMI	4
+	.	NOALI	0
+under a small table	under a table	SPE1	4
+.		NOALI	0
+a dog	A dog	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on water	on the water	EQUI	5
+A boat with four sails	Sail boat	SPE1	3
+is sailing	sailing	EQUI	5
+	.	NOALI	0
+A smiling woman	Two smiling women	SIMI	4
+.		NOALI	0
+a small baby	a baby	SPE1	4
+holding	holding	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+Red double decker bus	A red double decker bus	EQUI	5
+on side of street	on a city street	SPE2	4
+the window	of a window	EQUI	5
+	.	NOALI	0
+looking out	looking out	EQUI	5
+.		NOALI	0
+Gray cat	A cat	SPE1	4
+	.	NOALI	0
+Two green and white trains	Two green and white trains	EQUI	5
+.		NOALI	0
+on the tracks	on the train track	SIMI	4
+sitting	are sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+the camera	the camera	EQUI	5
+A cat	A gray , black , and white cat	SPE2	3
+looking at	looking at	EQUI	5
+lying	laying	EQUI	5
+	.	NOALI	0
+on a wooden table	on a dining table	SIMI	4
+.		NOALI	0
+A gray cat	A gray cat	EQUI	5
+.		NOALI	0
+with a baby	with infant	EQUI	5
+in a chair	on chair	EQUI	5
+on his lap		NOALI	0
+A father	Man	SPE1	3
+napping	sleeping	SIMI	4
+	.	NOALI	0
+	with pink shirt	NOALI	0
+perched	perched	EQUI	5
+Green and white bird	Bird with a green head and white chest	SPE2	3
+on tree branch	on a tree branch	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+A red and white plane	Red and white plane	EQUI	5
+flying	flying	EQUI	5
+on a sunny day		NOALI	0
+	.	NOALI	0
+	through the air	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	sitting	NOALI	0
+.		NOALI	0
+with a viking hat	a viking hat	EQUI	5
+a woman	Smiling woman	SPE2	4
+on	wearing	SIMI	4
+underneath a chair	on the floor	SPE1	4
+	.	NOALI	0
+A small white cat	A white cat	SPE1	4
+with glowing eyes		NOALI	0
+standing	stands	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+eat	sitting	REL	3
+.		NOALI	0
+of people	of elderly people	SPE2	4
+outside		NOALI	0
+A group	Group	EQUI	5
+at a table	around a table	EQUI	5
+	.	NOALI	0
+in the field	in a lush green field	SPE2	2
+A bull	A brown horse	SIMI	2
+standing	stands	EQUI	5
+.		NOALI	0
+jumping	playing	REL	4
+	.	NOALI	0
+.		NOALI	0
+	A black and white cat	NOALI	0
+	with a blanket	NOALI	0
+with a bike		NOALI	0
+A kid		NOALI	0
+a ledge		NOALI	0
+A group	A group	EQUI	5
+at a table	around a dining table	SPE2	2
+.		NOALI	0
+of people	of elderly people	SPE2	4
+	.	NOALI	0
+	pose	NOALI	0
+eat		NOALI	0
+outside		NOALI	0
+A silver and blue Amtrak train		NOALI	0
+	.	NOALI	0
+	A small white car	NOALI	0
+	at the gas station	NOALI	0
+near a small train station		NOALI	0
+on the tracks		NOALI	0
+.		NOALI	0
+	parked	NOALI	0
+Two cats	A white cat	SIMI	2
+a window	of a window	EQUI	5
+are looking at	looking out	SIMI	4
+	.	NOALI	0
+.		NOALI	0
+in the background	in the background	EQUI	5
+with a horse	with other lambs	SIMI	2
+	A black and white lamb	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A pitched tent		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+amongst the bare branches of a tree	on branches	SPE1	3
+A small red and gray bird	A red and brown bird	SIMI	3
+perched	is perched	EQUI	5
+.		NOALI	0
+on a rural road	along a dirt road	SIMI	2
+is driving	driving	EQUI	5
+	A race care	NOALI	0
+uphill		NOALI	0
+	.	NOALI	0
+A school bus		NOALI	0
+.		NOALI	0
+	near the water	NOALI	0
+together		NOALI	0
+Three young women	Two Indian women with two Indian girls	SIMI	2
+	.	NOALI	0
+in a room		NOALI	0
+standing		NOALI	0
+of sheep	of horses	SIMI	2
+	.	NOALI	0
+A group	A group	EQUI	5
+	grazing	NOALI	0
+in a field	in a field	EQUI	5
+.		NOALI	0
+.		NOALI	0
+	is	NOALI	0
+in a green pasture	in the pasture	SPE1	4
+Two white cows	The tan horse	SIMI	1
+	.	NOALI	0
+at a restaurant		NOALI	0
+Two people	four people	SIMI	4
+at a table	at a table	EQUI	5
+	.	NOALI	0
+sitting	sitting	EQUI	5
+.		NOALI	0
+.		NOALI	0
+laying		NOALI	0
+	smiling	NOALI	0
+	at the camera	NOALI	0
+	.	NOALI	0
+sitting	sitting	EQUI	5
+	while	NOALI	0
+on a sofa	on a blue sofa	SIMI	4
+A women across two men	A man and two women	SIMI	3
+lying	lounges	SIMI	3
+.		NOALI	0
+	with yellow eyes	NOALI	0
+under bush	in the dirt	REL	1
+	.	NOALI	0
+Black and white cat	The black and white cat	EQUI	5
+A tan calf		NOALI	0
+	with glasses and two plastic bottles	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	in the foreground	NOALI	0
+looking		NOALI	0
+with a yellow tag		NOALI	0
+at the camera		NOALI	0
+	A man	NOALI	0
+on his left ear		NOALI	0
+.		NOALI	0
+The lamb	A cat	SIMI	2
+	.	NOALI	0
+is looking	looking	EQUI	5
+at the camera	at the camera	EQUI	5
+A black and white photo	A black and white photo	EQUI	5
+	on the ground	NOALI	0
+of an old train station		NOALI	0
+.		NOALI	0
+	laying	NOALI	0
+	.	NOALI	0
+	of a motorcycle	NOALI	0
+A black and white cat	Black and white lamb	SIMI	2
+high up		NOALI	0
+on tree branches		NOALI	0
+	in right ear	NOALI	0
+.		NOALI	0
+is		NOALI	0
+	.	NOALI	0
+	with tag	NOALI	0
+	of his bed	NOALI	0
+	on the foot	NOALI	0
+on the sofa		NOALI	0
+sleeping		NOALI	0
+.		NOALI	0
+	is watching	NOALI	0
+	.	NOALI	0
+An orange tabby cat		NOALI	0
+	TV	NOALI	0
+	A man	NOALI	0
+in a living room		NOALI	0
+	.	NOALI	0
+A man and small child	A man and woman	SIMI	3
+.		NOALI	0
+for the camera	for the camera	EQUI	5
+posing	are posing	EQUI	5
+	in the country	NOALI	0
+of low-lying mountains		NOALI	0
+A black vehicle	A black car	SPE2	4
+parked	parked	EQUI	5
+	in the dirt out	NOALI	0
+with a vies		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+is looking	looking	EQUI	5
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+	.	NOALI	0
+The black and white bull	A black and white dog	SIMI	2
+	.	NOALI	0
+in the background	in the background	EQUI	5
+	doing	NOALI	0
+.		NOALI	0
+A living room		NOALI	0
+	with the beach	NOALI	0
+with a dining table		NOALI	0
+	on a plank	NOALI	0
+	A boy	NOALI	0
+	a wheelie	NOALI	0
+are spread out		NOALI	0
+The flock of sheep	A white cat	SIMI	1
+	stands	NOALI	0
+in the field		NOALI	0
+.		NOALI	0
+	on the floor	NOALI	0
+	.	NOALI	0
+beside the road	in the field	SIMI	1
+are grazing	grazing	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Five cows	Several sheep	SIMI	2
+is parked		NOALI	0
+A silver bicycle	A bicycle	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+in a living room	in a dining room	SIMI	4
+	.	NOALI	0
+	a bib	NOALI	0
+sleeping	sitting	REL	3
+on the sofa	on a green couch	SPE2	4
+An orange tabby cat		NOALI	0
+	wearing	NOALI	0
+.		NOALI	0
+	Man	NOALI	0
+and		NOALI	0
+	feeding a sheep	NOALI	0
+a guitar		NOALI	0
+having		NOALI	0
+The men	a young boy	SIMI	2
+	.	NOALI	0
+are playing		NOALI	0
+	with a red and blue jacket on	NOALI	0
+	There is	NOALI	0
+.		NOALI	0
+a drink		NOALI	0
+.		NOALI	0
+sits	relaxes	SIMI	3
+on a floral-patterned chair	on a flower print pillow	SIMI	2
+	with a collar and a bell	NOALI	0
+	.	NOALI	0
+A brown and white dog	A small orange and white dog	SPE2	3
+Two sheep	Two sheep	EQUI	5
+at the camera	at the camera	EQUI	5
+looking	looking	EQUI	5
+on to of a cliff		NOALI	0
+	opposite directions	NOALI	0
+	,	NOALI	0
+	,	NOALI	0
+	face	NOALI	0
+	are standing	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	standing	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A row		NOALI	0
+on a siding		NOALI	0
+in a field	in a field	EQUI	5
+of locomotives		NOALI	0
+	A dark brown horse	NOALI	0
+	with a bicycle	NOALI	0
+of river barges		NOALI	0
+.		NOALI	0
+	a bike helmet	NOALI	0
+with trees		NOALI	0
+in the background	in the background	EQUI	5
+	A young girl	NOALI	0
+	.	NOALI	0
+	wearing	NOALI	0
+A group		NOALI	0
+at the camera	at the camera	EQUI	5
+laying	lying	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+A cat	A tan dog	SIMI	3
+looking	looking up	SPE2	4
+on a red cushion	on a moggie bed	SPE1	4
+	.	NOALI	0
+Four people	four people	EQUI	5
+.		NOALI	0
+are rowing	are	SPE1	3
+a boat	on a boat	EQUI	5
+near the shore	on green water	SIMI	2
+Two airplanes	A plane	SIMI	3
+in the sky	in the sky	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+There is		NOALI	0
+.		NOALI	0
+in front of the laundry room	A room with tan walls and a washer and dryer	SPE2	3
+	.	NOALI	0
+a small desk and chair		NOALI	0
+.		NOALI	0
+on a large screen		NOALI	0
+	for a race	NOALI	0
+displayed		NOALI	0
+	dressed	NOALI	0
+World news headlines		NOALI	0
+	relaxes	NOALI	0
+	A man	NOALI	0
+	.	NOALI	0
+on the porch	on acouch	REL	2
+	.	NOALI	0
+People	People	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+the guitar		NOALI	0
+in a back yard		NOALI	0
+A man	A man	EQUI	5
+.		NOALI	0
+sitting	riding	SIMI	2
+playing		NOALI	0
+	on the back	NOALI	0
+	of an orange SUV	NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+A lamb	A sheep	SIMI	4
+stands	standing	EQUI	5
+.		NOALI	0
+near two tiny animals	near her children	SIMI	3
+with ear tags		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+on a grassy field	on a green hill	SIMI	3
+	standing	NOALI	0
+Tan cow	Many sheep	SIMI	2
+A bicycle	A pink bicycle	SPE2	4
+in front of some ruins	in front of a building	REL	4
+	.	NOALI	0
+.		NOALI	0
+	is	NOALI	0
+A field		NOALI	0
+.		NOALI	0
+of black faced sheep	A black faced sheep	EQUI	5
+	.	NOALI	0
+on green grass		NOALI	0
+Brown and white ducks		NOALI	0
+.		NOALI	0
+walking	flying	SIMI	1
+	.	NOALI	0
+	on a sunny day	NOALI	0
+	A red and white plane	NOALI	0
+in a grassy field	in a grassy field	EQUI	5
+.		NOALI	0
+A black and white cow	A blue jay	SIMI	1
+	.	NOALI	0
+standing	standing	EQUI	5
+at Christmas holding		NOALI	0
+sitting	sitting	SIMI	2
+make up		NOALI	0
+in a chair		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A women		NOALI	0
+	on the tracks	NOALI	0
+	A train	NOALI	0
+	in a train yard	NOALI	0
+in black		NOALI	0
+	sitting down	NOALI	0
+	on chairs	NOALI	0
+	.	NOALI	0
+A young woman	Two young kids	SIMI	2
+.		NOALI	0
+dressed	dressed up	SPE2	4
+A plane		NOALI	0
+.		NOALI	0
+flying		NOALI	0
+	.	NOALI	0
+at a distance		NOALI	0
+	with a white horse	NOALI	0
+	A woman	NOALI	0
+on side of street	on a crowded street	SPE2	4
+Red double decker bus	A red double decker bus	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+a busy road	a road	SPE1	4
+drives down	drives down	EQUI	5
+A bus	A green bus	SPE2	4
+	.	NOALI	0
+	.	NOALI	0
+is wearing	wearing	EQUI	5
+A young woman	A women	SPE1	4
+with a bracelet		NOALI	0
+.		NOALI	0
+a bikini top and jeans	a bikini top and jeans	EQUI	5
+A yellow and blue airplane	The white airplane	SIMI	3
+in the sky	in the blue sky	SPE2	4
+is flying	is flying	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+near the water	on a beach	SPE2	3
+	stand	NOALI	0
+with two Indian girls	with two Indian girls	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+Two Indian women	Two Indian woman	EQUI	5
+with a dining table	with large sofas and a dining table	SPE1	3
+A living room	A living room	EQUI	5
+in the background	in the background	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in a red canoe	in a yellow canoe	SIMI	4
+in the background	in the background	EQUI	5
+.		NOALI	0
+	down a river	NOALI	0
+	.	NOALI	0
+paddling	padding	EQUI	5
+with trees	with trees	EQUI	5
+Two people	Two people	EQUI	5
+	.	NOALI	0
+in mid-flight	flying	SIMI	4
+Plane	A plane	EQUI	5
+.		NOALI	0
+at sunset	near the sunset	SIMI	4
+	.	NOALI	0
+clings	hold on	EQUI	5
+to the side	to the side	EQUI	5
+.		NOALI	0
+of its cage	of a cage	EQUI	5
+A yellow parrot	A yellow and orange bird	SIMI	4
+Couple	Two men	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+sailing	sailing	EQUI	5
+in a small sailboat	in a small sailboat	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+Red double decker bus	A red , double-decker bus	EQUI	5
+of a sheep	of a sheep	EQUI	5
+.		NOALI	0
+A close-up	Close up image	EQUI	5
+	.	NOALI	0
+hanging out	hanging out	EQUI	5
+with its tongue	with it 's tongue	EQUI	5
+in winter		NOALI	0
+	.	NOALI	0
+sitting	perched	SIMI	4
+.		NOALI	0
+on a branch	on an icy branch	SPE2	4
+a small bird	A small bird	EQUI	5
+A brown duck and white duck	Brown and white ducks	SPE1	4
+on the grass	on green grass	SPE2	4
+	.	NOALI	0
+stand	walking	SIMI	2
+.		NOALI	0
+	.	NOALI	0
+in a snow covered field	in a snow covered field	EQUI	5
+grazing	grazing	EQUI	5
+.		NOALI	0
+Cows	Five cows	SPE2	4
+	which	NOALI	0
+with blue shirt	in a blue shirt and tan pants	SPE1	3
+Man	A man	EQUI	5
+.		NOALI	0
+	is	NOALI	0
+	.	NOALI	0
+	of a man	NOALI	0
+	in a cobble stone paved plaza	NOALI	0
+in front of a fountain	in front of a statue	SIMI	3
+standing	is standing	EQUI	5
+	,	NOALI	0
+	on a box	NOALI	0
+stacked up		NOALI	0
+	the other two	NOALI	0
+.		NOALI	0
+	,	NOALI	0
+of one another		NOALI	0
+on the floor	on on the floor	EQUI	5
+are		NOALI	0
+on top		NOALI	0
+	,	NOALI	0
+	.	NOALI	0
+and		NOALI	0
+Several televisions	Three televisions	SPE2	4
+A clear plastic chair	a clear plastic chair	EQUI	5
+	.	NOALI	0
+in front of a bookcase	in front of book shelves	EQUI	5
+.		NOALI	0
+A sheep	A large sheep	SPE2	4
+	.	NOALI	0
+stands	standing	EQUI	5
+.		NOALI	0
+on a hillside	on a hill	SIMI	4
+.		NOALI	0
+Blue and red plane	a blue and red airplane	EQUI	5
+	.	NOALI	0
+in mid-air flight	while in flight	EQUI	5
+A flat screen TV	A flat-screen TV	EQUI	5
+.		NOALI	0
+	sits	NOALI	0
+on the floor	on the floor	EQUI	5
+	.	NOALI	0
+with several computer monitors	with four computer monitors	SPE2	4
+.		NOALI	0
+Room	A room	EQUI	5
+	.	NOALI	0
+	in a row	NOALI	0
+on it	on	EQUI	5
+with many stickers	with stickers	SPE1	4
+	.	NOALI	0
+the back	The back	EQUI	5
+.		NOALI	0
+of a stop sign	of a sign	SPE1	4
+with large screen television	with tan furniture and flat screen television	SPE1	3
+Living room or den	Living room	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+the road	a street	SPE2	4
+.		NOALI	0
+A doubly decker red bus	A red double decker bus	EQUI	5
+driving down	driving down	EQUI	5
+	.	NOALI	0
+stand	are posing	SIMI	4
+,		NOALI	0
+.		NOALI	0
+smiling	are posing	REL	4
+	.	NOALI	0
+A man and woman	A man and woman	EQUI	5
+for camera	for the camera	EQUI	5
+standing	standing	EQUI	5
+by a lake	on the shoreline	SPE1	4
+A white bird	Large white bird	SPE2	4
+	.	NOALI	0
+with long orange legs	with long orange beak	SIMI	3
+.		NOALI	0
+A red train	The train	SPE1	4
+.		NOALI	0
+driving	is riding	SIMI	4
+	.	NOALI	0
+through a snow covered city	on the tracks in the snow	SPE1	3
+sits	parked	SIMI	4
+A Das Air Cargo plane	A passenger plane	SPE1	4
+	.	NOALI	0
+on the runway	on a runway	EQUI	5
+.		NOALI	0
+.		NOALI	0
+A cat	A black and white cat	SPE2	3
+on purple sheet	on a purple blanket	SIMI	4
+	.	NOALI	0
+sleeps	sleeps	EQUI	5
+.		NOALI	0
+A red and white bus	A red and white England bus	SPE2	4
+drives down	drives down	EQUI	5
+	.	NOALI	0
+an England street	the street	SPE1	4
+a jockey	A jockey	EQUI	5
+	in a pen	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+a horse	a horse	EQUI	5
+riding	riding	EQUI	5
+A kitchen	A kitchen	EQUI	5
+.		NOALI	0
+with wood cabinets and dining table	with wooden cabinets and furniture	SPE1	4
+	.	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A motorcycles	A motorcycle	EQUI	5
+with a graffiti scene	by a mural	SIMI	4
+near a wall with a graffiti scene	by a mural	REL	4
+is parked	is parked	EQUI	5
+of a cityscape	of a city	EQUI	5
+covered		NOALI	0
+	in the evening	NOALI	0
+	is sitting	NOALI	0
+is flapping		NOALI	0
+its wings		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A bird	A large black bird	SPE2	3
+in the water	in the water	EQUI	5
+.		NOALI	0
+in a fenced area	in a gated yard	SIMI	4
+a dog	a dog	EQUI	5
+	.	NOALI	0
+pets	pets	EQUI	5
+A woman	A woman	EQUI	5
+on an office chair	on an office chair	EQUI	5
+	.	NOALI	0
+A cat	A ginger cat	SPE2	4
+.		NOALI	0
+reclines	sitting	SIMI	4
+The train	The blue train	SPE2	4
+sits	is	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+at the train station	at the station	EQUI	5
+grazing	grazing	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+in a field	in grassy field	SPE2	4
+A group	Group	EQUI	5
+of horses	of horses	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on an icy branch	on a branch	SPE1	4
+perched	perched	EQUI	5
+A small bird	A yellow bird	SIMI	4
+typing	looking	REL	2
+Boy	A boy	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on a computer	at a computer screen	SIMI	3
+with glasses		NOALI	0
+A red truck	Red truck	EQUI	5
+spins	spinning	EQUI	5
+	and	NOALI	0
+a black one		NOALI	0
+	.	NOALI	0
+	emitting	NOALI	0
+the frame		NOALI	0
+.		NOALI	0
+leaves		NOALI	0
+	smoke	NOALI	0
+while		NOALI	0
+their tires	tires	EQUI	5
+	from behind	NOALI	0
+Four blue and yellow planes	Four blue and yellow planes	EQUI	5
+over four boats		NOALI	0
+.		NOALI	0
+flying	in flight	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+at a train station	at a train station	EQUI	5
+is	parked	EQUI	5
+A train	A train	EQUI	5
+.		NOALI	0
+.		NOALI	0
+in yellow canoe	a yellow canoe	EQUI	5
+	.	NOALI	0
+paddling	paddling	EQUI	5
+Man	Man	EQUI	5
+through water	towards a the shore	SPE2	3
+lined up	A row	REL	4
+	.	NOALI	0
+Beer bottles -LRB- -LRB- Harp Lager -RRB- -RRB-	A row of beer bottles	SPE1	4
+on the floor	on the floor	EQUI	5
+.		NOALI	0
+for the camera		NOALI	0
+the thumbs up sign	the thumbs up sign	EQUI	5
+Two women	Two smiling young women	SPE2	3
+	.	NOALI	0
+giving	giving	EQUI	5
+and		NOALI	0
+.		NOALI	0
+are posing		NOALI	0
+.		NOALI	0
+	driving down	NOALI	0
+on a city street	the road	SPE1	4
+	.	NOALI	0
+A double decker red United bus	A doubly decker red bus	SPE1	4
+	.	NOALI	0
+at table	at a table	EQUI	5
+Group of people	Two people	SPE2	4
+of restaurant	at a restaurant	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+.		NOALI	0
+from a pond	from a pond	EQUI	5
+Two dairy cows	Two cows	SPE1	4
+	.	NOALI	0
+drinking	are drinking	EQUI	5
+coming		NOALI	0
+into a station		NOALI	0
+	through the air	NOALI	0
+	is flying	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A passenger train		NOALI	0
+	A large bird	NOALI	0
+	horses	NOALI	0
+in an urban setting	in a fenced area	SIMI	1
+People	People	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+ride	riding	SIMI	3
+mopeds		NOALI	0
+	.	NOALI	0
+in front of tour bus	in front of a plane	SIMI	2
+standing	talking	REL	2
+Two women	Two men	SIMI	3
+.		NOALI	0
+.		NOALI	0
+Large silver locomotive engine	The silver train	SPE1	4
+	.	NOALI	0
+in a shed	in a station	SIMI	3
+	is parked	NOALI	0
+is parked	stand	SIMI	2
+A bicycle		NOALI	0
+	People	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+outside a bookstore	outside a bookstore	EQUI	5
+standing	standing	SIMI	3
+	with a bus	NOALI	0
+Feet		NOALI	0
+.		NOALI	0
+in background	in the background	EQUI	5
+	Two police officers	NOALI	0
+	.	NOALI	0
+on a pretty day		NOALI	0
+with large building		NOALI	0
+	behind a van	NOALI	0
+fruit	fruit	EQUI	5
+on a wire grate	on a bird feeder	SPE2	3
+	.	NOALI	0
+is eating	eating	EQUI	5
+.		NOALI	0
+A yellow bird	A yellow bird	EQUI	5
+on the tracks	down the tracks	EQUI	5
+	.	NOALI	0
+A train	A train	EQUI	5
+.		NOALI	0
+sitting	traveling	SIMI	2
+near a field		NOALI	0
+with a wooden table runner		NOALI	0
+.		NOALI	0
+	on top	NOALI	0
+	of a wooden fencepost	NOALI	0
+	.	NOALI	0
+A buddha statue		NOALI	0
+	A bird	NOALI	0
+on a table		NOALI	0
+sits	standing	SIMI	2
+riding	riding	EQUI	5
+	.	NOALI	0
+A man	A woman	SIMI	3
+.		NOALI	0
+a white horse	a brown horse	SIMI	4
+	.	NOALI	0
+	of a cage	NOALI	0
+.		NOALI	0
+A scantily clad woman		NOALI	0
+next to a car		NOALI	0
+	to the side	NOALI	0
+	A yellow and orange bird	NOALI	0
+is standing	hold on	SIMI	2
+	purple	NOALI	0
+	.	NOALI	0
+	and	NOALI	0
+A girl	The jockey	SPE2	3
+riding	riding	EQUI	5
+	is wearing	NOALI	0
+.		NOALI	0
+a brown horse	a brown horse	EQUI	5
+	in front of the horse	NOALI	0
+on the grass	on the sidewalk	SIMI	2
+sitting	is standing	SIMI	2
+	.	NOALI	0
+A man	The man	EQUI	5
+looking		NOALI	0
+.		NOALI	0
+toward the sky		NOALI	0
+its owner		NOALI	0
+	of the stop sign	NOALI	0
+	with stickers	NOALI	0
+	The back	NOALI	0
+	is adorned	NOALI	0
+The small dog		NOALI	0
+protects		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+	in a forest	NOALI	0
+A white cat	A sheep	SIMI	2
+on a carpet		NOALI	0
+.		NOALI	0
+standing	standing	EQUI	5
+	Two men	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	in a small sailboat	NOALI	0
+in grassy field		NOALI	0
+Two brown horses		NOALI	0
+standing		NOALI	0
+	sailing	NOALI	0
+of a bookstore		NOALI	0
+	.	NOALI	0
+outside		NOALI	0
+	The yellow motorcycle	NOALI	0
+on a street	on the street	EQUI	5
+.		NOALI	0
+A line		NOALI	0
+	is parked	NOALI	0
+sits	flying	REL	2
+on a runway	close to the ground	SPE1	2
+A passenger jet	A large passenger jet	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+on a table	at a table	EQUI	5
+sitting	sitting	SIMI	3
+Old green bottle		NOALI	0
+	Three men	NOALI	0
+.		NOALI	0
+	in suits	NOALI	0
+	.	NOALI	0
+	The white airplane	NOALI	0
+in front of the gate		NOALI	0
+	.	NOALI	0
+The black and white cows		NOALI	0
+	in the sky	NOALI	0
+	is flying	NOALI	0
+pause		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A white cat	A pretty white striped cat	SPE2	3
+	with his head	NOALI	0
+	hanging off	NOALI	0
+on a carpet	the table	SIMI	1
+standing		NOALI	0
+	in grass	NOALI	0
+	parked	NOALI	0
+posing		NOALI	0
+A woman		NOALI	0
+.		NOALI	0
+in front of an apartment building	in front of building	SPE1	4
+in the snow		NOALI	0
+	.	NOALI	0
+	White bus	NOALI	0
+	in the background	NOALI	0
+	.	NOALI	0
+The black bird		NOALI	0
+	with a cow	NOALI	0
+	The back	NOALI	0
+is sitting		NOALI	0
+	of a pig	NOALI	0
+on the ground	under a tree	SPE2	2
+.		NOALI	0
+	.	NOALI	0
+of a cat	of a horse	SIMI	2
+on a cream sofa		NOALI	0
+A close-up	A close-up	EQUI	5
+.		NOALI	0
+	low	NOALI	0
+	.	NOALI	0
+are swimming	fly	SIMI	2
+The birds	Birds	EQUI	5
+.		NOALI	0
+in the water	over water	SIMI	2
+.		NOALI	0
+	in the snow	NOALI	0
+on a crowded street	on a public street	SPE1	4
+	partially	NOALI	0
+A red double decker bus	A white bus	SIMI	3
+	.	NOALI	0
+	.	NOALI	0
+grazing	grazing	EQUI	5
+.		NOALI	0
+in a field	in a field of green grass	SPE2	4
+A group of horses	A brown horse	SPE2	3
+look ahead		NOALI	0
+in a fenced kennel		NOALI	0
+	in a dining room	NOALI	0
+	with a baby	NOALI	0
+.		NOALI	0
+Two dogs		NOALI	0
+	pose	NOALI	0
+	Two woman	NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	A baby	NOALI	0
+near a field	in the grass	SIMI	3
+on the tracks		NOALI	0
+A train		NOALI	0
+sitting	is sitting	SIMI	4
+at a object		NOALI	0
+Two women	Two women	EQUI	5
+	with one	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+in the kitchen	in kitchen	EQUI	5
+	a picture	NOALI	0
+looking		NOALI	0
+	taking	NOALI	0
+	A large bird	NOALI	0
+	of prey	NOALI	0
+	.	NOALI	0
+moving	flying	SIMI	2
+.		NOALI	0
+toward the camera	towards the camera	EQUI	5
+A steam engine and train		NOALI	0
+	.	NOALI	0
+alongside a large palm		NOALI	0
+.		NOALI	0
+with table , chair and sofa	with a blue sofa , camp bed , wooden bench and dresser	SPE1	1
+A living room	A living room	EQUI	5
+in the background	in the background	EQUI	5
+.		NOALI	0
+	of river barges	NOALI	0
+with another horse		NOALI	0
+A horse		NOALI	0
+near a gate		NOALI	0
+	A group	NOALI	0
+	.	NOALI	0
+standing		NOALI	0
+	with trees	NOALI	0
+a train track	at a train station	REL	3
+	is	NOALI	0
+.		NOALI	0
+near trees		NOALI	0
+	.	NOALI	0
+comes down		NOALI	0
+A steam engine	A train	SIMI	4
+sitting	sitting	SIMI	4
+holding		NOALI	0
+	in a lake	NOALI	0
+on a sofa		NOALI	0
+	on a log	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+a baby		NOALI	0
+	Bird	NOALI	0
+a woman		NOALI	0
+laughing		NOALI	0
+.		NOALI	0
+sitting	standing	SIMI	2
+outside	outside of a bus	SPE2	3
+Two women	Two women	EQUI	5
+	.	NOALI	0
+	A white sheep	NOALI	0
+	on a hillside	NOALI	0
+	.	NOALI	0
+moving		NOALI	0
+toward the camera	at the camera	EQUI	5
+	looking	NOALI	0
+A steam engine and train		NOALI	0
+.		NOALI	0
+is sitting	is standing	SIMI	3
+	.	NOALI	0
+.		NOALI	3
+on the branch	under the trees	SIMI	2
+The bird	The sheep	SIMI	1
+.		NOALI	0
+into the camera	at the camera	EQUI	5
+A brown and white cow	The black and white cat	SIMI	2
+	.	NOALI	0
+in a field		NOALI	0
+looking	is looking up	SPE2	4
+holding hands		NOALI	0
+along the beach	along the ocean 's shore	SIMI	4
+walking	walk	EQUI	5
+A man and a woman	A man and a boy	SIMI	2
+	with a beard and a skullcap	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A black and white dog	A small black and white goat	SIMI	2
+looking	looking up	SPE2	4
+at the camera	at the camera	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+	in a pen	NOALI	0
+Red double decker bus	A red double decker bus	EQUI	5
+passengers		NOALI	0
+	down a street	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	driving	NOALI	0
+taking on		NOALI	0
+	in riding gear	NOALI	0
+coloring		NOALI	0
+	of a gray and white horse	NOALI	0
+	sits	NOALI	0
+	on top	NOALI	0
+with a red and blue crayon		NOALI	0
+A young boy	A young blonde girl	SPE2	3
+.		NOALI	0
+	.	NOALI	0
+	past a giant mushroom	NOALI	0
+of people	of four people	SPE2	4
+in a living room		NOALI	0
+	walking	NOALI	0
+.		NOALI	0
+A group	A group	EQUI	5
+	.	NOALI	0
+is sitting	standing	SIMI	2
+The cat	Than horse	SIMI	2
+between two bicycles		NOALI	0
+in front of a door	in front of a fence	SIMI	3
+	.	NOALI	0
+	in a field	NOALI	0
+.		NOALI	0
+	with a bottle	NOALI	0
+	is resting	NOALI	0
+	in the shade	NOALI	0
+in a pale scarf		NOALI	0
+	.	NOALI	0
+with a stick		NOALI	0
+.		NOALI	0
+	of soda	NOALI	0
+dressed		NOALI	0
+A man	A runner	SPE2	2
+.		NOALI	0
+	.	NOALI	0
+	on a wooden table	NOALI	0
+with a television		NOALI	0
+	lying	NOALI	0
+	A gray cat	NOALI	0
+A very retro living room		NOALI	0
+in it		NOALI	0
+.		NOALI	0
+A girl	A girl	EQUI	5
+in a riding hat	riding	REL	3
+	.	NOALI	0
+on a horse	a brown horse	SPE2	4
+of peoples	of cyclists	SPE2	2
+A group	A group	EQUI	5
+	in green and white	NOALI	0
+	.	NOALI	0
+	looking on	NOALI	0
+.		NOALI	0
+in fur hats		NOALI	0
+posing		NOALI	0
+	with spectators	NOALI	0
+of the road	of the road	EQUI	5
+	parked	NOALI	0
+is pulling off		NOALI	0
+A car	A silver car	SPE2	4
+	in front of the hills	NOALI	0
+onto the street		NOALI	0
+the side	on the side	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+The black dog	A black dog	EQUI	5
+in the grass	on the grass	EQUI	5
+.		NOALI	0
+is lying	lies	EQUI	5
+floating	floating	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on water	on the water	EQUI	5
+Large white cruise ship	Large cruise ship	SPE1	4
+driving		NOALI	4
+of a man	of a man	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+someone	a man	SPE2	3
+A black and white photo	A black and white photo	EQUI	5
+with a motorcycle	with a classic motorcycle	SPE2	4
+	and	NOALI	0
+a car	in a classic car	SPE2	4
+and		NOALI	0
+A blue bird	A bird	SPE1	4
+perches	is perched	EQUI	5
+.		NOALI	0
+on the gloved hand	's gloved hand	EQUI	5
+	.	NOALI	0
+of a person	on a person	EQUI	5
+a brown and white horse	a brown horse	SPE1	4
+	.	NOALI	0
+A girl	A girl	EQUI	5
+riding on	riding	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on a horse	a tan horse	SPE2	4
+in a riding hat	riding	REL	3
+.		NOALI	0
+A girl	A girl	EQUI	5
+	.	NOALI	0
+on the branch	on branches	SIMI	4
+The bird	A red and brown bird	SPE2	3
+is sitting	is perched	EQUI	5
+.		NOALI	0
+A black and tan dog	A black dog	SPE1	4
+at a black sheep	at a brown sheep	SIMI	4
+	in a pen	NOALI	0
+.		NOALI	0
+looks	looking	EQUI	5
+	.	NOALI	0
+jumping	jumping	EQUI	5
+.		NOALI	0
+a man	A man	EQUI	5
+	.	NOALI	0
+very high	with the sky behind him	REL	2
+on a dirt bike	on a motorbike	SPE1	4
+a laptop	a laptop computer	EQUI	5
+	looking at	NOALI	0
+is sitting	sits	EQUI	5
+using		NOALI	0
+at a messy table	on a messy table	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+The man	A man	EQUI	5
+and		NOALI	0
+at barn animals	a sheep	SPE2	2
+.		NOALI	0
+looking	looking	EQUI	5
+Four children	Children	SPE1	4
+	.	NOALI	0
+	.	NOALI	0
+next to a car	next to a small red vehicle	SPE2	3
+A scantily clad woman	A scantily clad woman	EQUI	5
+.		NOALI	0
+is standing	standing	EQUI	5
+down	down	EQUI	5
+.		NOALI	0
+with its landing gears	with its landing gear	EQUI	5
+	.	NOALI	0
+A red and blue plane	A WWII fighter plane	SIMI	3
+flying		NOALI	0
+at a long table	at a table	SPE1	4
+in a restaurant	in an Italian restaurant	SPE2	4
+sit	sit	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Four women and two men	A group of people	SPE2	4
+of a brown horse	of a horse	SPE1	4
+with a blue halter	wearing a blue halter	EQUI	5
+Close up	A close up	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in a rural area	in a field	SPE2	4
+	.	NOALI	0
+A yellow school bus	A yellow school bus	EQUI	5
+is parked	parked	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+standing		NOALI	0
+A sheep	Woolly sheep	SPE2	4
+on a table		NOALI	0
+at auction	at auction house	SPE2	4
+.		NOALI	0
+rides	comes down	SPE2	3
+	of trees	NOALI	0
+on his tracks	the track	EQUI	5
+	between two rows	NOALI	0
+	,	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+a train	The train	EQUI	5
+.		NOALI	0
+on a city street	on a city street	EQUI	5
+	drives	NOALI	0
+A double decker red United bus	A double decker bus	SPE1	4
+	.	NOALI	0
+	lying down	NOALI	0
+A tan puppy	Tan puppy	EQUI	5
+on a carpeted floor	on white carpeting	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+A young girl	A woman	SPE1	4
+	.	NOALI	0
+a brown horse	a brown horse	EQUI	5
+.		NOALI	0
+riding	in riding	EQUI	5
+Train	a train	EQUI	5
+	.	NOALI	0
+in a station	in a station	EQUI	5
+.		NOALI	0
+on a lawn	on green grass	EQUI	5
+.		NOALI	0
+A blue bird	Blue bird	EQUI	5
+	.	NOALI	0
+standing	standing	EQUI	5
+	.	NOALI	0
+riding	is riding	EQUI	5
+.		NOALI	0
+A woman equestrian	The woman	SPE1	4
+a horse	on the brown horse	SPE2	4
+the tracks	on the railroad tracks	EQUI	5
+Train	A black steam train	SPE2	4
+.		NOALI	0
+going down	traveling	SIMI	4
+	.	NOALI	0
+with trees behind		NOALI	0
+A large cruise ship	A cruise ship	SPE1	4
+	docked	NOALI	0
+in harbor	at a coast	SPE1	3
+.		NOALI	0
+	.	NOALI	0
+crossing	cross	EQUI	5
+Two cows	Two cows	EQUI	5
+.		NOALI	0
+a road intersection	a paved street	SIMI	3
+	.	NOALI	0
+in a plain	in a field	SIMI	4
+in front of an uprooted tree	in front of a small copse of trees	SPE1	3
+stands	standing	EQUI	5
+A black cow and a brown cow	A black cow and a brown cow	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+at a table	at a restaurant table	SPE2	4
+outside		NOALI	0
+.		NOALI	0
+eat	sitting	REL	3
+of people	of people	EQUI	5
+A group	A group	EQUI	5
+	.	NOALI	0
+A group	Group	EQUI	5
+	.	NOALI	0
+at a restaurant table	at table of restaurant	EQUI	5
+of people	of people	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+sitting		NOALI	0
+looking out	are looking	SIMI	4
+the window	at a window	EQUI	5
+on a couch		NOALI	0
+Two cats	Two cats	EQUI	5
+into food	a cake	SPE2	3
+cutting	cuts	EQUI	5
+Woman	A woman	EQUI	5
+.		NOALI	0
+in blue shift dress	in a blue dress	EQUI	5
+	.	NOALI	0
+atop a red an yellow motorcycle	on a red and yellow motorcycle	EQUI	5
+.		NOALI	0
+with a side car		NOALI	0
+	.	NOALI	0
+Two brunette girls	A couple	SPE1	3
+sit	posing	REL	4
+of a red tandem bicycle	of a tandem bicycle	SPE1	4
+on the back seat	on the back	SPE1	4
+	.	NOALI	0
+A man	A man	EQUI	5
+	alone	NOALI	0
+	is	NOALI	0
+.		NOALI	0
+	operating	NOALI	0
+A computer	A computer	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+on a desk	on a desk	EQUI	5
+with bright green walls and artwork	with bright green walls	SPE2	3
+.		NOALI	0
+Home office space	Small office space	SPE1	4
+	.	NOALI	0
+	.	NOALI	0
+on a beach	on shore	SPE1	4
+.		NOALI	0
+Yellow boat	A yellow boat	EQUI	5
+on the blue clothed dining table	with a blue table cloth	SPE1	4
+	.	NOALI	0
+laying		NOALI	0
+A kitchendiner with papers	A small kitchen and a cluttered table	SPE1	3
+.		NOALI	0
+	.	NOALI	0
+at the camera	at the camera	EQUI	5
+is sitting	is standing	SIMI	2
+A gray cat	The cat	SPE1	4
+.		NOALI	0
+looking	looking	EQUI	5
+on the window ledge	on the window sill	EQUI	5
+A green and white cargo plane	White and green commercial airliner	SIMI	4
+taking of	taking off	EQUI	5
+	.	NOALI	0
+from an airport	of runway	SPE2	4
+.		NOALI	0
+are	are sitting	SIMI	4
+close together		NOALI	0
+inside and black and white furry enclosure	inside a cow-schemed , fur-covered dome	EQUI	5
+Two cats	Two baby kittens	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+A close-up view	A side view	SIMI	3
+	.	NOALI	0
+of a horse	of a horse	EQUI	5
+.		NOALI	0
+'s head	's head	EQUI	5
+An old fashioned wooden sailing ship	A wooden yacht	SIMI	3
+	.	NOALI	0
+in the ocean	on the ocean	EQUI	5
+.		NOALI	0
+A white plane	A white airplane	EQUI	5
+	is	NOALI	0
+.		NOALI	0
+on the runway	on a runway	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+with wood furniture	with wooden furniture	EQUI	5
+Elegant dining room	An elegant pink dining room	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+A man	A man	EQUI	5
+jumping	jumping	EQUI	5
+.		NOALI	0
+his dirt bike	on a bike	SPE1	4
+	through the air	NOALI	0
+at the camera	into the camera	EQUI	5
+A gray cat	A gray cat	EQUI	5
+.		NOALI	0
+looks	looking	EQUI	5
+with green eyes	with green eyes	EQUI	5
+	.	NOALI	0
+is sitting	sitting	EQUI	5
+A black and white cat	Black and white cat	EQUI	5
+	.	NOALI	0
+on a brown chair	on wood chair	SIMI	4
+.		NOALI	0
+looking up	looking up	EQUI	5
+in a red turtleneck		NOALI	0
+	posing	NOALI	0
+A man and a woman	A man and woman	EQUI	5
+	on a field	NOALI	0
+with a wine bottle	with a bottle of wine	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in white		NOALI	0
+with a white vest		NOALI	0
+	.	NOALI	0
+a sheep	a sheep hay	REL	4
+.		NOALI	0
+Boy	A boy	EQUI	5
+feeding	feeding	EQUI	5
+.		NOALI	0
+is standing	stands	EQUI	5
+	.	NOALI	0
+on the green hill	on a hillside	SPE1	4
+The white sheep	A sheep	SPE1	4
+of a dilapidated wooden fence	of an old wooden fence	EQUI	5
+A black and white photo	A black and white photo	EQUI	5
+.		NOALI	0
+	near a dirty street	NOALI	0
+	.	NOALI	0
+taxing	sitting	SIMI	2
+.		NOALI	0
+along a runway	on the tarmac	SPE1	4
+	.	NOALI	0
+An AeroMexico jet	A silver AreoMexico Jet Liner	SPE2	4
+around a table	around a table	EQUI	5
+of people	of people	EQUI	5
+A group	A group	EQUI	5
+sitting	sitting	EQUI	5
+	.	NOALI	0
+	with food	NOALI	0
+	on it	NOALI	0
+on a porch		NOALI	0
+.		NOALI	0
+is parked	parked	EQUI	5
+outside a bookstore	outside a book store	EQUI	5
+	.	NOALI	0
+A bicycle	A green bike	SPE2	4
+.		NOALI	0
+Domestic cat	A white cat	SIMI	4
+	.	NOALI	0
+window	of a window	EQUI	5
+looking out	looking out	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	towards the camera	NOALI	0
+in a living room	in a living room	EQUI	5
+with a black dog	with a black dog	EQUI	5
+stand	standing	EQUI	5
+	looking	NOALI	0
+Two women	Two women	EQUI	5
+are reflected		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+Two people	Two people	EQUI	5
+in the still water		NOALI	0
+paddling	paddling	EQUI	5
+a red canoe	in a red canoe	EQUI	5
+	in the background	NOALI	0
+	with trees	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+down the sidewalk	along the sidewalk	EQUI	5
+A woman and child	A women and a young girl	SPE2	4
+push	walking	SPE1	4
+strollers	pushchairs	EQUI	5
+	.	NOALI	0
+	on a porch	NOALI	0
+containing		NOALI	0
+sitting	sitting	EQUI	5
+food		NOALI	0
+of people	of people	EQUI	5
+.		NOALI	0
+around a table	around a table	EQUI	5
+A group	A group	EQUI	5
+on a blanket	on a purple blanket	SPE2	4
+lying	sleeping	SPE2	4
+	.	NOALI	0
+A black and white cat	A black and white cat	EQUI	5
+	on its side	NOALI	0
+.		NOALI	0
+	amongst the trees	NOALI	0
+A red and gray train	A red and gray train	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+through a tunnel	through a tunnel	EQUI	5
+is going	travels	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+View		NOALI	0
+in the background	in the background	EQUI	5
+with a dining room	with large sofas and a dining table	REL	4
+of a living room	A living room	EQUI	5
+.		NOALI	0
+	a bike	NOALI	0
+a bike helmet	a helmet	SPE1	4
+A person	A person	EQUI	5
+	near a white structure	NOALI	0
+	rides	NOALI	0
+wearing	wearing	EQUI	5
+on a cell phone		NOALI	0
+talks		NOALI	0
+	.	NOALI	0
+by a shop	outside a book store	SPE2	4
+.		NOALI	0
+A bicycle	A green bike	SPE2	4
+is parked	parked	EQUI	5
+	.	NOALI	0
+driving	driving	EQUI	5
+.		NOALI	0
+Red double decker bus	Red double decker bus	EQUI	5
+through the streets	down a street	SIMI	4
+	.	NOALI	0
+	.	NOALI	0
+on a brown table	on a wooden table	SIMI	4
+laying	lying	EQUI	5
+.		NOALI	0
+A gray cat	A gray cat	EQUI	5
+of a brown horse	of a horse	SPE1	4
+A close-up	A close-up	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+A black and white image	Black and white picture	EQUI	5
+of a cat	of a cat	EQUI	5
+.		NOALI	0
+on a rug	on a rug	EQUI	5
+	.	NOALI	0
+laying	laying	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+of used wooden building materials	of wooden debris	SPE2	4
+A pile	Pile	EQUI	5
+on top	on top	EQUI	5
+with a chair	with chair	EQUI	5
+.		NOALI	0
+An office	Small office space	SPE2	4
+	.	NOALI	0
+with multiple desks and green walls	with bright green walls	SPE2	3
+on a flowerpot	on a flowerpot	EQUI	5
+perched	perched	EQUI	5
+.		NOALI	0
+A bird	Bird	EQUI	5
+	.	NOALI	0
+	beside a stucco wall	NOALI	0
+	.	NOALI	0
+in riding gear	in riding gear	EQUI	5
+on top of horse	on a horse	EQUI	5
+.		NOALI	0
+Young woman	Young girl	SIMI	4
+	perched	NOALI	0
+A small bird	A small bird	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+on a tiny branch	on an icy branch	SIMI	3
+a wheelie	a wheelie	EQUI	5
+A man on a motorcycle	Motorcyclist	EQUI	5
+	next to a car	NOALI	0
+	.	NOALI	0
+performing	performing	EQUI	5
+.		NOALI	0
+on the brown horse	on a brown horse	EQUI	5
+a ride		NOALI	0
+takes		NOALI	0
+	.	NOALI	0
+The young rider	A young female rider	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+to wood	against a wooden box	SPE2	3
+with nose	with its nose	EQUI	5
+Little white lamb	A white lamb	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+riding	is riding	EQUI	5
+A young girl	a little girl	SIMI	4
+a white and gray horse	a white and gray horse	EQUI	5
+.		NOALI	0
+its wings	its wings	EQUI	5
+.		NOALI	0
+A bird	A black swan	SPE2	3
+is flapping	flapping	EQUI	5
+in the water	on the water	EQUI	5
+	.	NOALI	0
+Young woman	The woman	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+in riding gear	is riding	REL	3
+on top of horse	on the brown horse	SPE2	4
+	.	NOALI	0
+Four people	Four people	EQUI	5
+.		NOALI	0
+rowing	row	EQUI	5
+down a river	in water	SPE1	4
+	a canoe	NOALI	0
+A kitchen	Kitchen	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+with wooden cabinets and furniture	with wooden table and cabinets	SPE1	4
+eating	eating	EQUI	5
+	.	NOALI	0
+from a bird feeder	on a bird feeder	EQUI	5
+	fruit	NOALI	0
+.		NOALI	0
+A bird	A yellow bird	SPE2	4
+talking	talking	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Two men	Two men	EQUI	5
+in front of a plane	in front of a small plane	SPE2	4
+wearing	wearing	EQUI	5
+a smile and a bicycle helmet	a bike helmet	SPE2	3
+	.	NOALI	0
+	with a bicycle	NOALI	0
+	in the background	NOALI	0
+A young blonde girl	A young girl	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+The train	A train	EQUI	5
+at the train station	at a train station	EQUI	5
+sits	parked	EQUI	5
+.		NOALI	0
+A small bird	Bird	SPE1	4
+.		NOALI	0
+from the feeder	from a bird feeder	EQUI	5
+eating	eating	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+Two brown horses	Brown horse	SIMI	4
+in grassy field	in middle of grassy field	SPE2	4
+standing	standing	EQUI	5
+.		NOALI	0
+is perched	perched	EQUI	5
+.		NOALI	0
+in a tree	in a tree	EQUI	5
+	.	NOALI	0
+A red bird	A small red and gray bird	SPE2	3
+Boy	A small boy	SPE2	4
+lying	laying	EQUI	5
+on couch	on a sofa	EQUI	5
+with small white dog	with a dog	SPE1	3
+.		NOALI	0
+	.	NOALI	0
+A green steam engine	A black steam train	SIMI	4
+	.	NOALI	0
+.		NOALI	0
+on the railroad tracks	on the railroad tracks	EQUI	5
+traveling	traveling	EQUI	5
+for a photo		NOALI	0
+in front of the train	in front of a silver train	SPE2	4
+	on a platform	NOALI	0
+poses	stands	REL	4
+.		NOALI	0
+The man	A man	EQUI	5
+	.	NOALI	0
+on shelves	on the shelves and on the counter	SPE1	3
+.		NOALI	0
+	stacked	NOALI	0
+with bowls	with items	SPE1	3
+A kitchen sink and countertop	A small kitchen	REL	3
+	.	NOALI	0
+on a large concrete area	on a large concrete area	EQUI	5
+	.	NOALI	0
+riding	riding	EQUI	5
+A woman	A women	EQUI	5
+a bicycle	a mountain bike	SPE2	4
+.		NOALI	0
+is standing	stands	EQUI	5
+next to a yellow sports car	next to a yellow Corvette	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+A man	A man	EQUI	5
+	.	NOALI	0
+A woman	A woman	EQUI	5
+	leading	NOALI	0
+with a white horse	a white horse	EQUI	5
+.		NOALI	0
+Older gentleman	A man	SPE1	4
+looking	looking	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+at red motorcycle	at a red motorcycle	EQUI	5
+stands	stands	EQUI	5
+in front of a train	in front of a silver train	SPE2	4
+	.	NOALI	0
+A man	A man	EQUI	5
+	on a platform	NOALI	0
+.		NOALI	0
+.		NOALI	0
+on the water	in the water	EQUI	5
+A boat	A boat	EQUI	5
+	and	NOALI	0
+is	is	EQUI	5
+	is	NOALI	0
+	on the dock	NOALI	0
+	.	NOALI	0
+near a small plane	a small airplane	EQUI	5
+	.	NOALI	0
+around a table	around a dining table	SPE2	4
+of elderly people	of elderly people	EQUI	5
+Group	A group	EQUI	5
+sitting	pose	REL	4
+.		NOALI	0
+in the trough	from a trough	EQUI	5
+The brown and white cows	Brown and white cows	EQUI	5
+are eating	are eating	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+Two green birds	Two green birds	EQUI	5
+fly	flying	EQUI	5
+towards a wooden telephone pole	above the telephone wires	SIMI	2
+	.	NOALI	0
+in front of a `` Going Places '' bus	in front of the open door of the bus	SIMI	3
+.		NOALI	0
+A young woman	TThe girl	SIMI	4
+with outstretched arms		NOALI	0
+	.	NOALI	0
+stands	is standing	EQUI	5
+on a gloved hand	's gloved hand	EQUI	5
+	.	NOALI	0
+A blue bird	A bird	SPE1	4
+perched	is perched	EQUI	5
+	on a person	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+holds	holds	EQUI	5
+	in a highchair	NOALI	0
+.		NOALI	0
+A baby	A baby	EQUI	5
+a ketchup packet	a ketchup packet	EQUI	5
+looking out	looking out	EQUI	5
+the window	the window	EQUI	5
+.		NOALI	0
+together		NOALI	0
+Two cats	Two cats	EQUI	5
+on the sofa	on the back of a couch	SPE2	4
+sitting	sit	EQUI	5
+	.	NOALI	0
+A dark brown horse	Horse	SPE1	4
+standing	standing	EQUI	5
+in a field	in a field	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+parked	parked	EQUI	5
+.		NOALI	0
+A blue scooter	A blue moped	SPE1	4
+on a sidewalk	on the sidewalk	EQUI	5
+.		NOALI	0
+A black and white cat	A black and white cat	EQUI	5
+	on a blanket	NOALI	0
+	lying	NOALI	0
+playing		NOALI	0
+	.	NOALI	0
+with a wool basket		NOALI	0
+is sitting		NOALI	0
+	while on a lake	NOALI	0
+a candle		NOALI	0
+holding		NOALI	0
+A buddha statue		NOALI	0
+	on a small boat	NOALI	0
+.		NOALI	0
+	fishing	NOALI	0
+on a table		NOALI	0
+	.	NOALI	0
+	A man	NOALI	0
+sitting	sit	EQUI	5
+.		NOALI	0
+Three people	Two elderly women	SPE2	3
+at dinner table	at a dinner table	EQUI	5
+at camera		NOALI	0
+	.	NOALI	0
+smiling		NOALI	0
+	with a man	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+on the street	on the street	EQUI	5
+traveling	is	SIMI	2
+A white and red bus	The red bus	SPE1	4
+	.	NOALI	0
+by a tree		NOALI	0
+	a small white boat	NOALI	0
+	pulling	NOALI	0
+standing		NOALI	0
+	A large boat	NOALI	0
+Two goats		NOALI	0
+.		NOALI	0
+in a field		NOALI	0
+is sitting	are swimming	SIMI	2
+in the water	in the water	EQUI	5
+A large black bird	The birds	SPE1	2
+.		NOALI	0
+	.	NOALI	0
+	The white sheep	NOALI	0
+is sitting	is standing	SIMI	2
+	on the green hill	NOALI	0
+	.	NOALI	0
+The woman		NOALI	0
+on the red motorcycle		NOALI	0
+.		NOALI	0
+.		NOALI	0
+on the water	on the ocean	SPE2	4
+Two men		NOALI	0
+	.	NOALI	0
+on boat	A wooden yacht	SPE2	4
+floating		NOALI	0
+of hotel room	on in a hotel room	EQUI	5
+	are	NOALI	0
+	.	NOALI	0
+The television and desk	A television and a laptop computer	SIMI	3
+lighting		NOALI	0
+.		NOALI	0
+with lamp		NOALI	0
+.		NOALI	0
+A woman	A person	SPE1	4
+	sits	NOALI	0
+	.	NOALI	0
+wearing	wearing	EQUI	5
+on a white table		NOALI	0
+	on a bicycle	NOALI	0
+a navy dress		NOALI	0
+a cake		NOALI	0
+is cutting		NOALI	0
+	on a sunny day	NOALI	0
+	a helmet	NOALI	0
+.		NOALI	0
+	of a desk	NOALI	0
+of a white and purple motorcycle		NOALI	0
+	.	NOALI	0
+A close-up picture	A close-up picture	EQUI	5
+	with a computer and papers	NOALI	0
+	on it	NOALI	0
+.		NOALI	0
+Two women	A woman	SIMI	4
+with a baby	with a baby	EQUI	5
+	.	NOALI	0
+posing	poses	EQUI	5
+Two trains	The train	SIMI	4
+	.	NOALI	0
+inside a train station	at the train station	EQUI	5
+	sits	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+while sitting	while standing	SIMI	2
+A man and two women	A man and women	SPE1	4
+at the camera	at the camera	EQUI	5
+	in a kitchen	NOALI	0
+.		NOALI	0
+smiling	smiling	EQUI	5
+on a blue sofa		NOALI	0
+	.	NOALI	0
+in a bright room	in a living room	SIMI	3
+.		NOALI	0
+A television , upholstered chair , and coffee stable	A leather couch and wooden table	SIMI	1
+	tending to	NOALI	0
+.		NOALI	0
+Tan cow	sheep	SIMI	2
+	Person	NOALI	0
+	.	NOALI	0
+with ear tags		NOALI	0
+on a grassy field	in grassy field	EQUI	5
+	.	NOALI	0
+'s head		NOALI	0
+of a brown horse		NOALI	0
+.		NOALI	0
+A close-up	A close-up	EQUI	5
+	of a yellow school bus	NOALI	0
+	Close-up	NOALI	0
+	.	NOALI	0
+next to its mother	next to a larger horse	SPE1	4
+A bay foal	of young horse	SPE1	4
+in a grassy field		NOALI	0
+.		NOALI	0
+is walking	walking	EQUI	5
+	near white flower	NOALI	0
+	sits	NOALI	0
+.		NOALI	0
+	on a cement wall	NOALI	0
+	.	NOALI	0
+A small child	A small child	EQUI	5
+at the camera		NOALI	0
+smiling		NOALI	0
+stands	pose	REL	3
+in front of a building	in front of a dining room	REL	4
+A woman	Two women and a baby	SPE1	2
+in the snow		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+sitting	sitting	EQUI	5
+	.	NOALI	0
+	A woman	NOALI	0
+.		NOALI	0
+on table	on the table	EQUI	5
+Young baby girl	with a smiling baby	SIMI	3
+A black and white cow	Black and white cows	SIMI	4
+in a pen	behind a fence	SIMI	3
+	.	NOALI	0
+.		NOALI	0
+with hay		NOALI	0
+are posing		NOALI	0
+.		NOALI	0
+	on sand	NOALI	0
+	looking up	NOALI	0
+	sitting	NOALI	0
+for the camera	at the camera	EQUI	5
+A man and woman		NOALI	0
+	A cat	NOALI	0
+	.	NOALI	0
+A black and white horned cow	of a cat	SIMI	2
+in a field		NOALI	0
+	.	NOALI	0
+	on a sofa	NOALI	0
+	A black and white photo	NOALI	0
+standing	sitting	SIMI	2
+.		NOALI	0
+	on a porch	NOALI	0
+	.	NOALI	0
+sitting	sitting	EQUI	5
+of people	of people	EQUI	5
+A group	A group	EQUI	5
+.		NOALI	0
+at a restaurant table	around a table	SPE1	4
+	.	NOALI	0
+parked		NOALI	0
+A yellow school bus		NOALI	0
+in a field	in a green field	SPE2	4
+	A brown horse	NOALI	0
+.		NOALI	0
+of cat food		NOALI	0
+on a bag		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+The cat	Two eagles	SIMI	1
+	on a long branch	NOALI	0
+is sitting	sitting	SIMI	4
+The black and white cat	A black and white dog	SIMI	3
+is looking up	looking	SPE1	4
+at the camera	at the camera	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+of bushes		NOALI	0
+atop a rock carving	on a stone	REL	3
+sitting	sitting	EQUI	5
+	in the background	NOALI	0
+A black and white photo		NOALI	0
+	with other stones and a wall	NOALI	0
+in front of a line		NOALI	0
+	.	NOALI	0
+of a bottle	A bottle of water	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+of the yard	in the field	SPE1	4
+in the cold		NOALI	0
+A lone cow	a black and white cow	SIMI	4
+.		NOALI	0
+sits	standing	SIMI	2
+A girl	A girl	EQUI	5
+a carton		NOALI	0
+an open box		NOALI	0
+	.	NOALI	0
+	wearing	NOALI	0
+of milk		NOALI	0
+	next to a blue motorcycle	NOALI	0
+.		NOALI	0
+	is standing	NOALI	0
+of Corn Flakes		NOALI	0
+and		NOALI	0
+	black shorts and boots	NOALI	0
+in a black desktop		NOALI	0
+holds up		NOALI	0
+A black and white bird		NOALI	0
+of water		NOALI	0
+in the background	in the background	EQUI	5
+	.	NOALI	0
+	with a ferris wheel	NOALI	0
+	on a road	NOALI	0
+with grass		NOALI	0
+	A bus	NOALI	0
+	is	NOALI	0
+on a body		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+Two brown horses	A brown horse	SIMI	4
+standing	stands	EQUI	5
+.		NOALI	0
+in a green meadow	in tall grass	SIMI	4
+in the snow	on the snow	EQUI	5
+.		NOALI	0
+A red bird and four other birds	Five birds	SPE1	4
+	.	NOALI	0
+sitting	stand	SIMI	2
+at the dinner table	around a dining table	EQUI	5
+	.	NOALI	0
+An older Asian couple	A group of elderly people	SPE1	3
+.		NOALI	0
+with a newborn baby		NOALI	0
+poses	pose	EQUI	5
+	in a pasture	NOALI	0
+	A black headed sheep	NOALI	0
+	stands	NOALI	0
+.		NOALI	0
+with a bamboo plant		NOALI	0
+	.	NOALI	0
+	in thick white wool	NOALI	0
+	with other sheep	NOALI	0
+	covered	NOALI	0
+A black and white chair		NOALI	0
+sitting		NOALI	0
+in a vase		NOALI	0
+in front of a brick wall and a window		NOALI	0
+A cat	The cat	EQUI	5
+on the coach		NOALI	0
+	.	NOALI	0
+sleeping	is laying	SPE1	4
+with a pillow	on an animal print blanket	SPE2	1
+.		NOALI	0
+behind it		NOALI	0
+near a model building	infant of an ornate building	SIMI	3
+	.	NOALI	0
+Cars	Vehicles	SPE1	4
+driving	driving	EQUI	5
+.		NOALI	0
+in a dirt riding-ring		NOALI	0
+	is staring	NOALI	0
+	.	NOALI	0
+	with a white mane	NOALI	0
+a Bay hose	at a horse	SPE1	4
+.		NOALI	0
+A young woman	A man	SPE1	3
+is riding		NOALI	0
+with a temporary sign		NOALI	0
+.		NOALI	0
+to its parking lot		NOALI	0
+	.	NOALI	0
+over the entrance		NOALI	0
+A building		NOALI	0
+	of the tail lights	NOALI	0
+	Road	NOALI	0
+	of a bus	NOALI	0
+	with the rear image	NOALI	0
+A woman	Four women and two men	SPE1	2
+with wine , beer , and lemons		NOALI	0
+	in a restaurant	NOALI	0
+	.	NOALI	0
+at the dining table	at a long table	SPE2	4
+.		NOALI	0
+	sit	NOALI	0
+	.	NOALI	0
+A man	A woman	SIMI	3
+a white horse	a white horse	EQUI	5
+riding	leading	SIMI	4
+.		NOALI	0
+.		NOALI	0
+on an office chair		NOALI	0
+A white cat	A white cat	EQUI	5
+laying	laying	EQUI	5
+	on a sheet	NOALI	0
+	.	NOALI	0
+Two men	Two women	SIMI	3
+	in front of tour bus	NOALI	0
+standing	standing	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+on beach		NOALI	0
+	.	NOALI	0
+with chair		NOALI	0
+.		NOALI	0
+	with tan walls and a washer and dryer	NOALI	0
+A small desk		NOALI	0
+near a laundry closet		NOALI	0
+	A room	NOALI	0
+	in a tux	NOALI	0
+a white horse	on a white horse	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+A woman	A man	SIMI	3
+leading		NOALI	0
+	.	NOALI	0
+riding	riding	EQUI	5
+	dressed in blue	NOALI	0
+a brown horse	brown horse	EQUI	5
+.		NOALI	0
+A woman	Person	SPE1	3
+	with a yellow engine	NOALI	0
+waiting		NOALI	0
+	.	NOALI	0
+at the city train station		NOALI	0
+.		NOALI	0
+A passenger train	A passenger train	EQUI	5
+	is	NOALI	0
+moves down		NOALI	0
+A black train	A long train	SIMI	4
+	.	NOALI	0
+the tracks	on train tracks	EQUI	5
+.		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+Blue couch and twin bed	A leather couch and wooden table	SIMI	1
+in a living room	in a living room	EQUI	5
+with a purse and throw blanket		NOALI	0
+A white leather couch	A television	REL	2
+on it		NOALI	0
+	on	NOALI	0
+	.	NOALI	0
+	with a show	NOALI	0
+.		NOALI	0
+.		NOALI	0
+Two buses	Yellow scooter	SIMI	2
+	.	NOALI	0
+parked	parked	EQUI	5
+on a street	in an alley way	SPE2	4
+on a rock		NOALI	0
+.		NOALI	0
+Two animals		NOALI	0
+	on the railroad tracks	NOALI	0
+	.	NOALI	0
+	The brown train	NOALI	0
+sitting	is sitting	SIMI	4
+up	up	EQUI	5
+on the floor	on the floor	EQUI	5
+a baby	a baby	EQUI	5
+above her	above him	SIMI	3
+and		NOALI	0
+is laying down	is laying	EQUI	5
+A woman	A man	SIMI	3
+holding	holding	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+A black and white cat	A black and white cat	EQUI	5
+on its side		NOALI	0
+	.	NOALI	0
+on a purple blanket		NOALI	0
+sleeping	laying	SPE1	4
+.		NOALI	0
+	on the ground	NOALI	0
+	in the sun	NOALI	0
+Two women	Two women	EQUI	5
+.		NOALI	0
+	in a sailboat	NOALI	0
+in a clothing store		NOALI	0
+	.	NOALI	0
+	of water	NOALI	0
+	.	NOALI	0
+from a bird feeder		NOALI	0
+	over a body	NOALI	0
+A yellow and black bird	A flock of birds	SPE1	2
+eats		NOALI	0
+.		NOALI	0
+	flying	NOALI	0
+in the grass		NOALI	0
+.		NOALI	0
+	a pink shirt	NOALI	0
+	tied	NOALI	0
+	to a railing	NOALI	0
+	.	NOALI	0
+parked		NOALI	0
+	wearing	NOALI	0
+A small camouflaged airplane		NOALI	0
+	A small dog	NOALI	0
+	on the water	NOALI	0
+	.	NOALI	0
+	are	NOALI	0
+	located	NOALI	0
+	The boats	NOALI	0
+of the bicycle		NOALI	0
+An elderly woman		NOALI	0
+.		NOALI	0
+a ride		NOALI	0
+	in front of the mountain	NOALI	0
+on the back		NOALI	0
+catches		NOALI	0
+	A large dog	NOALI	0
+in afield	in a field	EQUI	5
+.		NOALI	0
+standing	stands	EQUI	5
+sheep	next to a sheep	EQUI	5
+	.	NOALI	0
+	of a cat	NOALI	0
+	on a sofa	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A black and white photo	A black and white photo	EQUI	5
+of an empty train station		NOALI	0
+	sitting	NOALI	0
+standing	standing	EQUI	5
+Black bird	Blue bird	SIMI	4
+on concrete		NOALI	0
+	.	NOALI	0
+	on green grass	NOALI	0
+.		NOALI	0
+Several people	People	EQUI	5
+on motorcycles	mopeds	EQUI	5
+in a market square	in an urban setting	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+	ride	NOALI	0
+of cat litter		NOALI	0
+	.	NOALI	0
+on back		NOALI	0
+laying		NOALI	0
+.		NOALI	0
+	under black tarp	NOALI	0
+Domestic cat	Tan domestic cat	SPE2	4
+	A black and white photo	NOALI	0
+standing	standing	EQUI	5
+in grassy field		NOALI	0
+	of a man	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	next to a bus	NOALI	0
+Black and white cow		NOALI	0
+	and	NOALI	0
+.		NOALI	0
+on a wooden beam		NOALI	0
+A small cat	The small dog	SIMI	2
+at the camera	at the camera	EQUI	5
+	is wearing	NOALI	0
+	a sweater	NOALI	0
+	.	NOALI	0
+laying		NOALI	0
+looking up	looking up	EQUI	5
+look	looking	EQUI	5
+	in a bathroom sink	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+closely		NOALI	0
+Tan cows	A white and gray cat	SIMI	2
+.		NOALI	0
+Two green and white trains	Two green and white trains	EQUI	5
+sitting		NOALI	0
+on the tracks	on tracks	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+a bus	Red double decker bus	SPE2	3
+driving	driving down	SPE2	4
+in a street	street	EQUI	5
+.		NOALI	0
+at a dinner table	at table	SPE1	4
+writing	busy	REL	3
+	.	NOALI	0
+a woman	Woman	EQUI	5
+on her notebook	with something	SPE1	4
+.		NOALI	0
+of a brown horse	of a horse	SPE1	4
+	.	NOALI	0
+'s head	's head	EQUI	5
+A close-up	A side view	SIMI	3
+.		NOALI	0
+is riding	is riding	EQUI	5
+a motorcycle	a red motorcycle	SPE2	4
+down the road	on the road	SPE1	4
+	.	NOALI	0
+The man	A man	EQUI	5
+A moped	A moped	EQUI	5
+.		NOALI	0
+in front of steps of ruins	in front of ruins	SPE1	4
+	.	NOALI	0
+in a dinner	around a table	REL	3
+.		NOALI	0
+cake	dessert	SPE1	3
+having	eating	EQUI	5
+A group of four people	Four people	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+of a bottle	of a bottle	EQUI	5
+.		NOALI	0
+of water	of water	EQUI	5
+Close up	A close up view	EQUI	5
+.		NOALI	0
+with it 's eyes	with its eyes	EQUI	5
+	.	NOALI	0
+A longed-haired cat	of a cat	SPE1	4
+	A close up	NOALI	0
+closed	closed	EQUI	5
+	.	NOALI	0
+in the trough	in the trough	EQUI	5
+The cows	The brown and white cows	SPE2	4
+feed	are eating	EQUI	5
+.		NOALI	0
+in a small apartment	Black and brown table	REL	2
+set		NOALI	0
+.		NOALI	0
+A black and wood colored dining room	in living room setting	SIMI	2
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+a black and white cow	A black and white cow	EQUI	5
+in hay	in a pen with hay	SPE2	4
+Camouflage airplane	A camouflaged plane	EQUI	5
+	.	NOALI	0
+on grassy field	on the green grass	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+Very crowded office desk	Messy computer desk	EQUI	5
+on		NOALI	0
+with computer monitor	with two monitors	SIMI	4
+with a bicycle	bicycle	EQUI	5
+A man	Man	EQUI	5
+	walking	NOALI	0
+.		NOALI	0
+at a coffee house	of a coffee shop	SIMI	4
+	.	NOALI	0
+	to patio	NOALI	0
+a street	along the street	EQUI	5
+driving down	driving	SPE1	4
+	.	NOALI	0
+Red double decker bus	A red two story bus	EQUI	5
+.		NOALI	0
+holding on	clings	EQUI	5
+A bird	A multi-colored bird	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+to a metal gate	to a wire fence	SIMI	4
+A cruise liner	A cruise ship	EQUI	5
+.		NOALI	0
+at the shoreline	at shore	EQUI	5
+docked	docked	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+A red double decker bus	A double decker bus	EQUI	5
+on a crowded street	on a city street	SPE1	4
+.		NOALI	0
+is		NOALI	0
+a rear view	The rear view	EQUI	5
+of a Chevrolet sports car	of a red Chevrolet concept car	SIMI	4
+	.	NOALI	0
+.		NOALI	0
+This		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+a small baby	a small baby	EQUI	5
+holding	holding	EQUI	5
+A woman	A smiling woman	SPE2	4
+Three men	Three men	EQUI	5
+are sitting down	sitting	EQUI	5
+	.	NOALI	0
+that has drinks	with beer and food	SPE1	2
+on it		NOALI	0
+at a table	at the table	EQUI	5
+.		NOALI	0
+on a branch	on a branch	EQUI	5
+Two Eagles	Two bald eagles	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+perched	perched	EQUI	5
+.		NOALI	0
+on a desk		NOALI	0
+	.	NOALI	0
+A home office	Room	SPE1	4
+with three computer monitors and other equipment	with several computer monitors	SPE2	3
+on the ground	on the ground	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+is sitting	sitting	EQUI	5
+The black bird	A blackbird	EQUI	5
+	sits	NOALI	0
+A young girl	A young blonde girl	SPE2	4
+	on top	NOALI	0
+a white and gray horse	of a gray and white horse	EQUI	5
+riding	in riding gear	REL	4
+	.	NOALI	0
+.		NOALI	0
+The seagull	A little bird	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+is floating	floating	EQUI	5
+on the water	in the water	EQUI	5
+A woman	A woman	EQUI	5
+posing	stands	REL	4
+in front of an apartment building	in front of a building	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+in the snow	in the snow	EQUI	5
+	at the waters edge	NOALI	0
+.		NOALI	0
+The lamb	A small bird	SIMI	1
+at the camera		NOALI	0
+is looking		NOALI	0
+	standing	NOALI	0
+	on a log	NOALI	0
+	.	NOALI	0
+in the shed	at a shed	EQUI	5
+.		NOALI	0
+The curious boys	Two small boys	SIMI	3
+	.	NOALI	0
+	in a woody area	NOALI	0
+look	looking	EQUI	5
+.		NOALI	0
+pause	stands	SIMI	3
+	in a plain	NOALI	0
+	in front of an uprooted tree	NOALI	0
+The black and white cows	A black cow and a brown cow	SPE2	3
+	.	NOALI	0
+in front of the gate		NOALI	0
+A close up	A close up	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+of a brown faced cat	of an ostrich face	SIMI	1
+	on her face	NOALI	0
+while the woman	a smiling woman	SPE2	4
+	.	NOALI	0
+makes		NOALI	0
+a face		NOALI	0
+	with a surprised look	NOALI	0
+	from behind	NOALI	0
+	is holding	NOALI	0
+.		NOALI	0
+behind her		NOALI	0
+for the camera		NOALI	0
+in a gray shirt		NOALI	0
+smiles		NOALI	0
+A woman	A woman	EQUI	5
+	a wheelie	NOALI	0
+near a coffee table and television		NOALI	0
+reclines		NOALI	0
+in a blue shirt		NOALI	0
+	.	NOALI	0
+	stands	NOALI	0
+	pops	NOALI	0
+.		NOALI	0
+	on the motorcycle seat	NOALI	0
+	and	NOALI	0
+A person	A person	EQUI	5
+	in their stalls	NOALI	0
+a horse	of cows	SIMI	2
+showing		NOALI	0
+	.	NOALI	0
+A black and white photo	a black and white photo	EQUI	5
+of a woman		NOALI	0
+.		NOALI	0
+in background	in the background	EQUI	5
+	in the morning mist	NOALI	0
+Older man		NOALI	0
+wearing		NOALI	0
+	.	NOALI	0
+beret		NOALI	0
+.		NOALI	0
+	A sheep	NOALI	0
+with mountains	with trees	REL	3
+wearing	wearing	EQUI	5
+	black shorts and boots	NOALI	0
+.		NOALI	0
+a bike	next to a blue motorcycle	SIMI	2
+A person	A girl	SPE2	3
+	.	NOALI	0
+near a white structure		NOALI	0
+a helmet		NOALI	0
+	is standing	NOALI	0
+rides		NOALI	0
+in front of a couch		NOALI	0
+	on step	NOALI	0
+	.	NOALI	0
+A bag		NOALI	0
+	in front of a door	NOALI	0
+	sitting	NOALI	0
+of cotton		NOALI	0
+	Calico cat	NOALI	0
+.		NOALI	0
+A white sheep	The skinny cows	SIMI	1
+	are standing	NOALI	0
+	.	NOALI	0
+looking		NOALI	0
+.		NOALI	0
+on a hillside	on the grass	SIMI	3
+at the camera		NOALI	0
+.		NOALI	0
+	with a computer and papers	NOALI	0
+	on it	NOALI	0
+A close-up , distorted photo	A close-up picture	SPE1	3
+	of a desk	NOALI	0
+of an empty glass Coke bottle		NOALI	0
+	.	NOALI	0
+standing		NOALI	0
+	.	NOALI	0
+	on a body	NOALI	0
+Two horses	A black and white bird	SIMI	1
+in the background	in the background	EQUI	5
+with trees		NOALI	0
+	of water	NOALI	0
+.		NOALI	0
+in a field	with grass	SIMI	3
+on the grass	on the ground	SPE1	3
+The skinny cows	The white ducks	SIMI	1
+	.	NOALI	0
+.		NOALI	0
+are standing	are standing	EQUI	5
+Brown cow	Brown horse	SIMI	3
+.		NOALI	0
+	.	NOALI	0
+in a field	of grassy field	SPE2	4
+	in middle	NOALI	0
+standing	standing	EQUI	5
+with horns		NOALI	0
+A small dog		NOALI	0
+	in a kitchen	NOALI	0
+looking up	smiling	REL	3
+at the camera	at the camera	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+while standing	while standing	EQUI	5
+on grass		NOALI	0
+	A man and women	NOALI	0
+with purse		NOALI	0
+Black and white photo	a black and white photo	EQUI	5
+.		NOALI	0
+at one end		NOALI	0
+	under a tree	NOALI	0
+	.	NOALI	0
+	of a cow	NOALI	0
+of couch		NOALI	0
+	l.	NOALI	0
+floating	floating	EQUI	5
+on the water	on water	EQUI	5
+Two men		NOALI	0
+on boat	Large green boat	SPE2	3
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A gray and white tabby cat	Black and white cat	SIMI	4
+on purple fabric	on a brown tarp	SIMI	3
+is sleeping	sleeping	EQUI	5
+.		NOALI	0
+in white		NOALI	0
+	near a highway	NOALI	0
+	.	NOALI	0
+Two people	A person	SIMI	3
+	underneath an overpass	NOALI	0
+dressed		NOALI	0
+standing	is standing	EQUI	5
+on a grass field		NOALI	0
+Blue couch and twin bed	Blue couch	SPE2	3
+	with sun	NOALI	0
+in a living room	in room	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+	shining in	NOALI	0
+.		NOALI	0
+near a large building		NOALI	0
+is standing	is standing	EQUI	5
+The udders		NOALI	0
+of a dairy cow	The black and brown cow	SIMI	4
+in a pasture	on the green grass	SIMI	4
+that		NOALI	0
+	.	NOALI	0
+in the snow		NOALI	0
+	waiting	NOALI	0
+A passenger train	A passenger train	EQUI	5
+	in a station	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+next to a white sheep		NOALI	0
+.		NOALI	0
+is walking		NOALI	0
+A black and white sheep	Little black and white calf	SIMI	3
+	on its ear	NOALI	0
+	with a tag	NOALI	0
+some afternoon sun		NOALI	0
+gets		NOALI	0
+	set	NOALI	0
+	with playmates	NOALI	0
+	.	NOALI	0
+The dining room table	Dining room with wooden dining table	SPE2	4
+.		NOALI	0
+	next to a pot	NOALI	0
+	.	NOALI	0
+	on a marble post	NOALI	0
+A black dog		NOALI	0
+	of flowers	NOALI	0
+next to materials		NOALI	0
+	sits	NOALI	0
+.		NOALI	0
+stands		NOALI	0
+at a construction site		NOALI	0
+	An Asian toddler girl	NOALI	0
+	is riding	NOALI	0
+	in the snow	NOALI	0
+	.	NOALI	0
+toward the sky		NOALI	0
+sitting		NOALI	0
+on the grass		NOALI	0
+A man		NOALI	0
+	on the tracks	NOALI	0
+.		NOALI	0
+looking		NOALI	0
+	The train	NOALI	0
+in front of a building	outside a decrepit building	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+of black people	of people	SPE1	4
+A group	A group	EQUI	5
+	are	NOALI	0
+with a moped		NOALI	0
+is perched	perched	EQUI	5
+The bald eagle	Two bald eagles	SIMI	4
+.		NOALI	0
+on a rope		NOALI	2
+	on a branch	NOALI	0
+	.	NOALI	0
+	with black boots	NOALI	0
+	next to a blue motorcycle	NOALI	0
+with a long face		NOALI	0
+	.	NOALI	0
+of an animal		NOALI	0
+	of a woman	NOALI	0
+near a tree		NOALI	0
+.		NOALI	0
+standing		NOALI	0
+A close-up	A close-up	EQUI	5
+on grass		NOALI	0
+A man	an African man	SPE2	4
+	.	NOALI	0
+riding		NOALI	0
+.		NOALI	0
+on the back	onto the back	EQUI	5
+of an orange SUV	of a very full yellow van	SIMI	3
+	hanging	NOALI	0
+.		NOALI	0
+A black and white photo	a black and white photo	EQUI	5
+	of a cat	NOALI	0
+of an empty train station		NOALI	0
+	.	NOALI	0
+	lying down	NOALI	0
+.		NOALI	0
+sitting	sitting	SIMI	4
+	.	NOALI	0
+on a concrete slab	next to white wall	REL	1
+Black bird	Small dog	SIMI	1
+The seagull		NOALI	0
+is floating	floating	EQUI	5
+	.	NOALI	0
+	Large cruise ship	NOALI	0
+.		NOALI	0
+on the water	on the water	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+A potted plant	A potted plant	EQUI	5
+from a window		NOALI	0
+	with only a few sprouting	NOALI	0
+in sunlight		NOALI	0
+.		NOALI	0
+	with a yellow coverlet	NOALI	0
+	.	NOALI	0
+in a red shirt		NOALI	0
+A girl		NOALI	0
+	laying	NOALI	0
+is riding		NOALI	0
+a brown horse	A tan and white dog	SIMI	2
+	in bed	NOALI	0
+.		NOALI	0
+	idle	NOALI	0
+traveling		NOALI	0
+A coal train	An old train	SPE1	4
+down the tracks	on the tracks	EQUI	5
+	.	NOALI	0
+	sits	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+at the airport	flies	REL	3
+A large jet	A passenger jet	SIMI	4
+on the ground	through the air	OPPO	4
+	.	NOALI	0
+.		NOALI	0
+a helmet		NOALI	0
+riding	riding	EQUI	5
+	a red blouse	NOALI	0
+a pony	a brown horse	SIMI	4
+wearing	wearing	EQUI	5
+A young girl	A girl	SPE1	4
+standing	grazing	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+Two horses	A group of horses	SPE1	3
+in a pen	in a field	REL	2
+Two people	A group of people	SPE1	3
+	.	NOALI	0
+at a table	around a table	EQUI	5
+sitting	sitting	EQUI	5
+at a restaurant	on a porch	REL	2
+.		NOALI	0
+in the outdoors		NOALI	0
+A person	A person	EQUI	5
+riding	jumping	SIMI	2
+a dirt bike	a motorbike	SIMI	3
+	in the air	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	on a sofa	NOALI	0
+of an old train station		NOALI	0
+A black and white photo	A black and white photo	EQUI	5
+	of a cat	NOALI	0
+	sitting	NOALI	0
+	her own photo	NOALI	0
+A woman	A woman	EQUI	5
+a brown horse		NOALI	0
+	taking	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+riding		NOALI	0
+	from above	NOALI	0
+in kitchen	in kitchen	EQUI	5
+Table	Wooden cabinets	SPE1	3
+.		NOALI	0
+	.	NOALI	0
+with blue table cloth		NOALI	0
+at the center	in the center	EQUI	5
+	of food	NOALI	0
+A pot	A pot	EQUI	5
+	.	NOALI	0
+of liquid		NOALI	0
+.		NOALI	0
+of a tinfoil covered plate		NOALI	0
+	of a red tablecloth	NOALI	0
+is	is placed	EQUI	5
+	in a pink top	NOALI	0
+standing		NOALI	0
+at a car		NOALI	0
+	with beer	NOALI	0
+Two men	A woman	SIMI	3
+	posing	NOALI	0
+staring		NOALI	0
+in grass		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+in a den or living room	in a living chair	REL	3
+sitting	sitting	EQUI	5
+Four Asian young people	A girl	SPE1	2
+	.	NOALI	0
+A table	A wooden table	SPE2	4
+.		NOALI	0
+for two people		NOALI	0
+with wine and dishes	with candles , wine , and a purple plastic bowl	SPE1	2
+is set	is set	EQUI	5
+	with yellow tags	NOALI	0
+	in their ears	NOALI	0
+with trees	in a field	REL	3
+in the background		NOALI	0
+of river barges		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	of cows	NOALI	0
+A group	A group	EQUI	5
+.		NOALI	0
+in front of ruins	in front of building	REL	2
+	in grass	NOALI	0
+	.	NOALI	0
+	parked	NOALI	0
+A moped	White bus	SIMI	2
+moves	idle	OPPO	4
+.		NOALI	0
+A black train	Black train	EQUI	5
+down the tracks	on the tracks	EQUI	5
+	.	NOALI	0
+driving	riding	SIMI	2
+A person	A man	SPE2	4
+	a dust mask	NOALI	0
+	.	NOALI	0
+	wearing	NOALI	0
+.		NOALI	0
+by a bicycle	a three wheeled bicycle	SPE2	3
+pulled		NOALI	0
+a cart		NOALI	0
+	.	NOALI	0
+a large black motorbike		NOALI	0
+rides		NOALI	0
+.		NOALI	0
+	sits	NOALI	0
+A man	A child	SIMI	3
+	in a large black leather chair	NOALI	0
+	.	NOALI	0
+Two people		NOALI	0
+.		NOALI	0
+	Two eagles	NOALI	0
+	on a long branch	NOALI	0
+on a large motorcycle		NOALI	0
+sitting	sitting	SIMI	4
+A small white dog	The white dog	SPE1	4
+	.	NOALI	0
+while lying	is laying	EQUI	5
+on a twig		NOALI	0
+	underneath the table	NOALI	0
+.		NOALI	0
+chews		NOALI	0
+on a wooden deck	on the wooden floor	SIMI	4
+	standing	NOALI	0
+	.	NOALI	0
+	in front of a window	NOALI	0
+A black and white cat and dog	A black and white cat	SPE2	3
+.		NOALI	0
+on a striped couch		NOALI	0
+smiling	looking up	REL	3
+A women and small child		NOALI	0
+at the camera	at the camera	EQUI	5
+	A small cat	NOALI	0
+sitting		NOALI	0
+	laying	NOALI	0
+	.	NOALI	0
+	on a wooden beam	NOALI	0
+at a dinner table		NOALI	0
+.		NOALI	0
+driving	pulling	SIMI	4
+Two red buses	Train	SPE1	2
+.		NOALI	0
+	into a station	NOALI	0
+in front of a garden		NOALI	0
+	.	NOALI	0
+This		NOALI	0
+with a large city	with a large tree	REL	2
+.		NOALI	0
+	.	NOALI	0
+a picture		NOALI	0
+in the background		NOALI	0
+of the countryside	in a grassy plain	SIMI	3
+	some black cattle	NOALI	0
+	in the background	NOALI	0
+	are	NOALI	0
+	There	NOALI	0
+A woman	A woman	EQUI	5
+.		NOALI	0
+in a black bikini top and jeans	in a black hat	SIMI	1
+	is standing	NOALI	0
+	by the subway	NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+	eating	NOALI	0
+Three men	Three men	EQUI	5
+.		NOALI	0
+posing		NOALI	0
+in a tent		NOALI	0
+	in a kitchen	NOALI	0
+A man	Man	EQUI	5
+with a statue		NOALI	0
+.		NOALI	0
+poses	standing	REL	4
+on top		NOALI	0
+	with blue shirt	NOALI	0
+	.	NOALI	0
+in front of a large fountain	in front of a fountain	SPE1	4
+	milking	NOALI	0
+looking		NOALI	0
+a sheep	a cow	SIMI	2
+	.	NOALI	0
+Children	Child	SIMI	4
+.		NOALI	0
+	outside	NOALI	0
+with green eyes		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A close-up	A close-up	EQUI	5
+of a gray cat	of a cat	SPE1	4
+	on a cream sofa	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+Two sheep	Two rams	SIMI	3
+stand	stand	EQUI	5
+	on snowy ground	NOALI	0
+in a doorway		NOALI	0
+heads		NOALI	0
+	.	NOALI	0
+down the tracks and along the hedge		NOALI	0
+	at a cat	NOALI	0
+The train		NOALI	0
+	a dog	NOALI	0
+	on the floor	NOALI	0
+	of a patio	NOALI	0
+.		NOALI	0
+	on the fence	NOALI	0
+	looks	NOALI	0
+	.	NOALI	0
+the tracks	on a track	EQUI	5
+A black train	A mostly black train	SPE1	4
+.		NOALI	0
+moves down		NOALI	0
+	against a partly cloudy blue sky	NOALI	0
+Black and white cows	Two black and white cows	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+behind a fence	behind a metal gate	SPE2	4
+A white animal	A white dog	SPE2	4
+	.	NOALI	0
+running	runs	EQUI	5
+through snow covered woods	through a snow covered wood	EQUI	5
+.		NOALI	0
+placed		NOALI	0
+.		NOALI	0
+on the floor	on the floor	EQUI	5
+A black , flat screen television	A flat screen TV	SPE1	4
+	.	NOALI	0
+The brown dog	A tan dog	EQUI	5
+.		NOALI	0
+on a white pillow	on a white pillow	EQUI	5
+his head	its head	EQUI	5
+is resting	has	EQUI	5
+	is lying	NOALI	0
+	.	NOALI	0
+	on a couch	NOALI	0
+	and	NOALI	0
+on train tracks	on the train tracks	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Black train	A train	SPE1	4
+sitting	sitting	EQUI	5
+	posing	NOALI	0
+with her arm		NOALI	0
+on red patterned couch	on couch	SPE1	4
+Elderly woman around younger woman	Two women	SPE1	4
+	.	NOALI	0
+	for camera	NOALI	0
+.		NOALI	0
+.		NOALI	0
+Two cats	Two cats	EQUI	5
+together		NOALI	0
+on the sofa		NOALI	0
+	.	NOALI	0
+sitting		NOALI	0
+the window	at a window	EQUI	5
+looking out	are looking	SPE1	4
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+The black and brown cow	The black and white bull	SIMI	3
+is looking	is looking	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+sits	sitting	EQUI	5
+A white Apple computer	An Apple computer	SPE1	4
+of a bedroom		NOALI	0
+on the beige carpeting	on the floor	SPE1	4
+	.	NOALI	0
+road	a busy road	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+Red and white bus	A bus	SPE1	4
+driving down	drives down	EQUI	5
+racing	driving quickly	EQUI	5
+	.	NOALI	0
+down track	on a track	SPE1	4
+Red sports car	A red sports car	EQUI	5
+.		NOALI	0
+white with red and gold stripes	with red , orange and yellow stripes	SPE2	3
+.		NOALI	0
+	.	NOALI	0
+is		NOALI	0
+A Victory Liner bus	A white tour bus	SPE1	4
+	.	NOALI	0
+next to a car	between two cars	SIMI	3
+parked	parked	EQUI	5
+.		NOALI	0
+A motorcycle	A BMW motorcycle	SPE2	4
+	walking	NOALI	0
+under a tree	under a tree	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+a black and white photo	A black and white photo	EQUI	5
+of a cow	of a cow	EQUI	5
+	in a field	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+at a station	in a station	EQUI	5
+waiting	waiting	EQUI	5
+An Amtrak passenger train	A passenger train	SPE1	4
+Two women	Two smiling women	SPE2	4
+posing		NOALI	0
+	.	NOALI	0
+	holding	NOALI	0
+with a baby	a baby	EQUI	5
+.		NOALI	0
+.		NOALI	0
+on on the tracks	on the track	EQUI	5
+	are traveling	NOALI	0
+The red train and the yellow train	Two trains	SPE1	4
+	.	NOALI	0
+	.	NOALI	0
+a close up	A close up	EQUI	5
+.		NOALI	0
+head		NOALI	0
+of an ostrich	of an ostrich face	SIMI	4
+on the water	on the blue water	SPE2	4
+sailing	floating	SIMI	3
+	.	NOALI	0
+Sail boat	Sail boat	EQUI	5
+.		NOALI	0
+.		NOALI	0
+rides	riding	EQUI	5
+in a top hat	with a top hat	EQUI	5
+A man	A man	EQUI	5
+a white horse	a white horse	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Parked white double decker bus	A red and white double decker bus is parked	SPE2	4
+	.	NOALI	0
+on a metal band	on a metal bar	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Two birds	Two small birds	SPE2	4
+are perched	perched	EQUI	5
+	.	NOALI	0
+at a dinner table	at the dinner table	EQUI	5
+An elderly Asian couple	An older Asian couple	EQUI	5
+.		NOALI	0
+with a yawning baby	with a newborn baby	SIMI	3
+pose	poses	EQUI	5
+	in middle	NOALI	0
+A brown horse	Brown horse	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in a field of green grass	of grassy field	EQUI	5
+grazing	standing	SPE1	4
+	.	NOALI	0
+Train	Train	EQUI	5
+going down	gliding	SIMI	3
+.		NOALI	0
+the tracks	on tracks	EQUI	5
+with drinks		NOALI	0
+	.	NOALI	0
+sitting	sitting	EQUI	5
+at table	at a table	EQUI	5
+Group of people	four people	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+Yellow striped cat	An orange tabby cat	SIMI	4
+.		NOALI	0
+resting	sleeping	SPE2	4
+on blue sofa	on the sofa	SPE1	4
+	.	NOALI	0
+in front of a store	on a street	SPE1	3
+.		NOALI	0
+parked	parked	EQUI	5
+A white jeep	A white Jeep	EQUI	5
+	by a large white building	NOALI	0
+Two red buses	Red buses	SPE1	4
+.		NOALI	0
+parked up	are parked	EQUI	5
+	.	NOALI	0
+with gardens in front of them	beside a formal garden	SPE2	3
+A dog	A black and white dog	SPE2	4
+the bottom of a door	at a closed door	SPE2	3
+	.	NOALI	0
+.		NOALI	0
+sniffing	sniffing	EQUI	5
+	.	NOALI	0
+sitting	parked	EQUI	5
+.		NOALI	0
+next to a car	next to a car	EQUI	5
+A silver and blue motorcycle	A motorcycle	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+standing	standing	EQUI	5
+Man	Man	EQUI	5
+in front of silver train	in front of a silver rail car	SIMI	4
+.		NOALI	0
+A black and white horned cow	a black and white cow	SPE1	4
+in a field	in the field	EQUI	5
+standing	standing	EQUI	5
+	.	NOALI	0
+riding	riding	EQUI	5
+in an arena		NOALI	0
+	.	NOALI	0
+A man	A man	EQUI	5
+a white horse	a white horse	EQUI	5
+.		NOALI	0
+.		NOALI	0
+A man	A man	EQUI	5
+a white show horse	a white horse	SPE1	4
+is riding	riding	EQUI	5
+	.	NOALI	0
+wearing black formal wear & a black top hat	with a top hat	SPE2	3
+hanging	hanging	EQUI	5
+.		NOALI	0
+from a tree	from the tree	EQUI	5
+	perches	NOALI	0
+is eating		NOALI	0
+A small brown birds	A small bird	SPE1	4
+from a bird feeder	on the bird feeder	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in riding gear	is riding	REL	4
+sits		NOALI	0
+	.	NOALI	0
+A girl	A girl	EQUI	5
+	in a red shirt	NOALI	0
+atop a brown horse	a brown horse	EQUI	5
+	.	NOALI	0
+of trees	of trees	EQUI	5
+are grazing	are grazing	EQUI	5
+in a grassy field	in the field	SPE1	4
+.		NOALI	0
+Sheep	Sheep	EQUI	5
+near a stand	in front of a line	SIMI	4
+	.	NOALI	0
+.		NOALI	0
+A dog	A dog	EQUI	5
+a gray jacket	in a pet jacket	SPE1	4
+	laying	NOALI	0
+is wearing		NOALI	0
+a little girl		NOALI	0
+	with big ears	NOALI	0
+	A white cow	NOALI	0
+at the camera	into the camera	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+is laughing	looking	SPE1	3
+.		NOALI	0
+	of an old train station	NOALI	0
+A black-and-white photo	A black and white photo	EQUI	5
+	.	NOALI	0
+of a loveseat		NOALI	0
+sitting	are sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+Two women	Two women	EQUI	5
+in lawn chairs	in a cafe	REL	2
+on a desk		NOALI	0
+	on the green grass	NOALI	0
+lying down	laying down	SIMI	4
+	A man and his bicycle	NOALI	0
+	.	NOALI	0
+Grey and white domestic kitten		NOALI	0
+.		NOALI	0
+	with green trees and grass	NOALI	0
+	A school bus	NOALI	0
+are		NOALI	0
+with a picture on the wall and a ceiling fan		NOALI	0
+in a room		NOALI	0
+	a road	NOALI	0
+	driving down	NOALI	0
+A table and chairs		NOALI	0
+	.	NOALI	0
+	in the background	NOALI	0
+.		NOALI	0
+	sits	NOALI	0
+into a station	in the station	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+A passenger train	A passenger train	EQUI	5
+coming		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+An airplane		NOALI	0
+facing		NOALI	0
+	in the cold	NOALI	0
+	A lone cow	NOALI	0
+	of the yard	NOALI	0
+	sits	NOALI	0
+the camera		NOALI	0
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+	.	NOALI	0
+looking	is looking	EQUI	5
+A black dog	The black and white bull	SIMI	2
+	of yarn	NOALI	0
+playing		NOALI	0
+A black and white cat	A black and white cat	EQUI	5
+	gets into	NOALI	0
+.		NOALI	0
+with a blanket		NOALI	0
+	.	NOALI	0
+	a basket	NOALI	0
+	.	NOALI	0
+having		NOALI	0
+	A row	NOALI	0
+	on a siding	NOALI	0
+A group		NOALI	0
+.		NOALI	0
+of people		NOALI	0
+	in a field	NOALI	0
+a drink		NOALI	0
+	of locomotives	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+A yellow and blue airplane	Nine red and white aircraft	SIMI	2
+in the sky	in formation trailing smoke	REL	2
+is flying	flying	EQUI	5
+holding		NOALI	0
+.		NOALI	0
+	may cross	NOALI	0
+	watching	NOALI	0
+	.	NOALI	0
+with a girl		NOALI	0
+Two guys	Two women	SIMI	3
+beers		NOALI	0
+	with their bikes	NOALI	0
+on their laps		NOALI	0
+on a couch		NOALI	0
+	the street	NOALI	0
+	to see	NOALI	0
+sit		NOALI	0
+	when they	NOALI	0
+lying		NOALI	0
+galloping	galloping	EQUI	5
+.		NOALI	0
+without a rider		NOALI	0
+	.	NOALI	0
+	while wearing	NOALI	0
+A race horse	A horse	SPE1	4
+	the number 4	NOALI	0
+on a dirt road	on a dirt road	EQUI	5
+	.	NOALI	0
+viewed	shot	REL	4
+from a passenger vehicle	from a car	SPE2	4
+.		NOALI	0
+Three sheep	Three sheep	EQUI	5
+	standing	NOALI	0
+in the background	in the background	EQUI	5
+	with a bus	NOALI	0
+	.	NOALI	0
+	behind a van	NOALI	0
+.		NOALI	0
+An Esso gas station		NOALI	0
+with trees		NOALI	0
+	Two police officers	NOALI	0
+	.	NOALI	0
+Three bottles	Old green bottle	SIMI	2
+on a table	on a table	EQUI	5
+.		NOALI	0
+are	sitting	EQUI	5
+are swimming	are swimming	EQUI	5
+	.	NOALI	0
+in the water	in the water	EQUI	5
+.		NOALI	0
+Two white dogs	The birds	SIMI	1
+in a large field	in a field	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+standing	standing	EQUI	5
+Two cows	Horse	SIMI	2
+A man	A man	EQUI	5
+	.	NOALI	0
+	in front of a raised statue	NOALI	0
+.		NOALI	0
+stands	is standing	EQUI	5
+in front of a train		NOALI	0
+	,	NOALI	0
+	of a bus	NOALI	0
+sitting	standing	SIMI	2
+on brown couch		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	outside	NOALI	0
+Two women	Two women	EQUI	5
+A black and white cow	Two black and white cows	SIMI	4
+	behind a metal gate	NOALI	0
+	.	NOALI	0
+against a partly cloudy blue sky	against a partly cloudy blue sky	EQUI	5
+stands		NOALI	0
+.		NOALI	0
+on grass		NOALI	0
+There		NOALI	0
+are		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+in a pen	in an enclosure	EQUI	5
+several sheared sheep	Three white sheep	SIMI	3
+.		NOALI	0
+Ten sheep	A cat	SIMI	1
+at the camera	at the camera	EQUI	5
+	on its back	NOALI	0
+looking	looking	EQUI	5
+	.	NOALI	0
+A black table		NOALI	0
+	with her child	NOALI	0
+with white fuzzy chair		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	A woman	NOALI	0
+	parked	NOALI	0
+.		NOALI	0
+A mostly black train	A car	SIMI	2
+on a track	in front of train tracks	SIMI	3
+	.	NOALI	0
+beside a train		NOALI	0
+.		NOALI	0
+	A social gathering	NOALI	0
+standing		NOALI	0
+A backpack		NOALI	0
+	of people	NOALI	0
+	in a restaurant	NOALI	0
+	.	NOALI	0
+	in a pink dress	NOALI	0
+near water		NOALI	0
+.		NOALI	0
+A mallard and a tame white duck		NOALI	0
+	sits	NOALI	0
+on the grass		NOALI	0
+	A small child	NOALI	0
+	on a table	NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+standing		NOALI	0
+	at a sheep	NOALI	0
+.		NOALI	0
+A girl		NOALI	0
+	A black dog	NOALI	0
+with a red bag		NOALI	0
+	is staring	NOALI	0
+on the street		NOALI	0
+	.	NOALI	0
+A room	A home office	SPE2	3
+	on a desk	NOALI	0
+.		NOALI	0
+on the wall		NOALI	0
+with several computers and pictures	with three computer monitors and other equipment	SPE2	3
+	looking	NOALI	0
+walking		NOALI	0
+of a cow	A black and white dog	SIMI	2
+in a field		NOALI	0
+	.	NOALI	0
+under a tree		NOALI	0
+	at the camera	NOALI	0
+A black and white photo		NOALI	0
+.		NOALI	0
+.		NOALI	0
+is parked	is parked	EQUI	5
+	.	NOALI	0
+on the cement	on the sidewalk	REL	3
+A white airplane	A blue motorcycle	SIMI	1
+Three cows	Several sheep	SIMI	2
+	.	NOALI	0
+grazing	grazing	EQUI	5
+.		NOALI	0
+in a field	in the field	EQUI	5
+lying	laying	EQUI	5
+Black domestic cat	A gray cat	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+on brown table	on a dining table	SIMI	4
+passengers		NOALI	0
+	.	NOALI	0
+	with hood up	NOALI	0
+taking on		NOALI	0
+Red double decker bus	Red double decker bus	EQUI	5
+.		NOALI	0
+	is lying	NOALI	0
+.		NOALI	0
+at the bottom	at the bottom	EQUI	5
+Two black and white dogs	A dog next to another standing dog	SPE1	3
+	.	NOALI	0
+of stairs	of a staircase	EQUI	5
+	.	NOALI	0
+on a track	on a track	EQUI	5
+A multi-colored train	A mostly black train	SIMI	3
+.		NOALI	0
+	is parked	NOALI	0
+An old fashioned wooden sailing ship	An old fashioned wooden sailing ship	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+in the ocean	at the pier	REL	2
+in the background	in the background	EQUI	5
+A man		NOALI	0
+.		NOALI	0
+cross legged		NOALI	0
+,		NOALI	0
+	close	NOALI	0
+	with houses	NOALI	0
+with a tree		NOALI	0
+	.	NOALI	0
+on the grass		NOALI	0
+	to coast	NOALI	0
+	Ocean liner	NOALI	0
+sitting		NOALI	0
+is jumping	riding	SIMI	2
+.		NOALI	0
+A person	A person	EQUI	5
+a trick		NOALI	0
+a bicycle	a dirt bike	SPE2	4
+	.	NOALI	0
+performing		NOALI	0
+	in the outdoors	NOALI	0
+and		NOALI	0
+	with a black head	NOALI	0
+.		NOALI	0
+of a black train engine		NOALI	0
+	.	NOALI	0
+	of a white sheep	NOALI	0
+A close-up	Close up	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+sitting		NOALI	0
+the window	of a window	EQUI	5
+on a couch		NOALI	0
+Two cats	A cat	SIMI	4
+looking out	looking out	EQUI	5
+a small bicycle	on a bike	SPE1	4
+	.	NOALI	0
+riding	is doing a wheelie	EQUI	5
+A man	A man	EQUI	5
+.		NOALI	0
+on a mountain bike		NOALI	0
+doing a wheelie		NOALI	0
+A man	A woman	SIMI	3
+	.	NOALI	0
+.		NOALI	0
+	with a U2 sign	NOALI	0
+	by a pillar	NOALI	0
+	posing	NOALI	0
+	in suits	NOALI	0
+looking		NOALI	0
+	.	NOALI	0
+at a object		NOALI	0
+	sitting	NOALI	0
+in the kitchen	at a table	REL	2
+Two women	Three men	SIMI	2
+.		NOALI	0
+.		NOALI	0
+sitting	are sitting	EQUI	5
+A group of people	Four people	SPE2	4
+around a table	around a living room	REL	3
+	.	NOALI	0
+containing food	with . snacks	SPE2	4
+A man	A woman	SIMI	3
+.		NOALI	0
+riding		NOALI	0
+a white horse	with a white horse	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in a restaurant	in a restaurant	EQUI	5
+at a table	at a long table	SPE2	4
+A man and woman	Four women and two men	SIMI	2
+	.	NOALI	0
+sit	sit	EQUI	5
+	.	NOALI	0
+are standing	is standing	SIMI	4
+The white ducks		NOALI	0
+.		NOALI	0
+	A woman	NOALI	0
+	by the subway	NOALI	0
+	in a black hat	NOALI	0
+on the ground		NOALI	0
+of the front end	of the rear	OPPO	4
+of a purple and white motor cycle	of a red sports car	SIMI	2
+	.	NOALI	0
+.		NOALI	0
+A close up	Close up	EQUI	5
+.		NOALI	0
+next to a brick support beam		NOALI	0
+	.	NOALI	0
+in a red cap		NOALI	0
+	on grass and scrub	NOALI	0
+A person		NOALI	0
+standing	is standing	SIMI	4
+	A brown horse	NOALI	0
+A black and white cow	a black and white cow	EQUI	5
+standing	standing	EQUI	5
+	.	NOALI	0
+in a grassy field	in the field	SPE1	4
+.		NOALI	0
+in front of yellow corvette	next to a yellow sports car	SPE1	4
+standing	is standing	EQUI	5
+Man	A man	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+at a train station	at the train station	EQUI	5
+is	sits	EQUI	5
+.		NOALI	0
+A train	The train	EQUI	5
+	in white , red and black sweaters	NOALI	0
+in a room		NOALI	0
+standing		NOALI	0
+together		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+Three young women	Three dark haired young women	SPE2	4
+.		NOALI	0
+	standing	NOALI	0
+Two white horses	Two horses	SPE1	4
+over a fence	in a pen	SIMI	3
+staring		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+in a grassy field	in a field	SPE1	5
+A black and white cow	A black and white horned cow	SPE2	4
+	.	NOALI	0
+standing	standing	EQUI	5
+a black and white photo	A black and white image	SPE1	4
+lying down	laying	EQUI	5
+	.	NOALI	0
+of a cat	of a cat	EQUI	5
+	on a rug	NOALI	0
+.		NOALI	0
+asleep	sitting	SPE1	3
+on a leather chair	on an office chair	SIMI	4
+A orange and white cat	A ginger cat	SIMI	4
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+is wearing	wearing	EQUI	5
+.		NOALI	0
+A young woman	A woman	SPE1	4
+with a bracelet a bikini top and jeans	jeans , a dark bikini top , and a bracelet	SPE2	4
+sits	sits	EQUI	5
+watching		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A man	A man	EQUI	5
+on a bed	on a bed	EQUI	5
+a small TV	very close to a small television	SPE2	4
+crossed legged		NOALI	0
+The headlights	the headlights	EQUI	5
+on a blue car	on a blue car	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+	Close up of	NOALI	0
+in a city		NOALI	0
+crossing	are crossing	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+Three bicyclists	The bicyclists	SPE1	4
+a bridge	a bridge	EQUI	5
+	in the rain	NOALI	0
+	dressed	NOALI	0
+.		NOALI	0
+a brown horse	on a brown horse	EQUI	4
+	in white	NOALI	0
+riding		NOALI	0
+A woman	A person	SPE1	4
+	.	NOALI	0
+blend in		NOALI	0
+	.	NOALI	0
+	sit	NOALI	0
+	on a couch	NOALI	0
+.		NOALI	0
+with the stuff animals	with many stuffed animals	SPE2	4
+The two dogs	Two dogs	EQUI	5
+is running	is running	EQUI	5
+	.	NOALI	0
+A train	A train	EQUI	5
+on the tracks	down the track	SPE2	4
+.		NOALI	0
+	in a rural area	NOALI	0
+a plane	a plane	EQUI	5
+,		NOALI	0
+Someone	A man	SPE2	4
+on a snowy mountain	on a mountain	SPE1	4
+.		NOALI	0
+standing	stands	EQUI	5
+	,	NOALI	0
+	.	NOALI	0
+watching	watching	EQUI	5
+docked	docked	EQUI	5
+.		NOALI	0
+at a port	at a coast	SPE1	4
+	.	NOALI	0
+A cruise liner	A cruise ship	EQUI	5
+	is	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+an incline	over rocks	SIMI	2
+	on a clear day	NOALI	0
+on a mountain bike	a mountain bike	EQUI	5
+going down	riding	SIMI	3
+	This	NOALI	0
+A man	a man	EQUI	5
+	.	NOALI	0
+	in middle	NOALI	0
+from a passenger vehicle		NOALI	0
+on a dirt road	of gravel road	SIMI	2
+Three sheep	Three sheep	EQUI	5
+viewed		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+taking on	is picking up	EQUI	5
+.		NOALI	0
+	in a city	NOALI	0
+Red double decker bus	A red double decker bus	EQUI	5
+passengers	more passengers	SPE2	4
+	.	NOALI	0
+A black and white photo	This is a black and white picture	EQUI	5
+.		NOALI	0
+of a glass bottle of Coca Cola	of a short squat Coca-cola bottle	SIMI	4
+.		NOALI	0
+	.	NOALI	0
+in a market square	in a city street	SIMI	3
+on motorcycles	on motorbikes	EQUI	5
+Several people	People	EQUI	5
+	.	NOALI	0
+as Elvis	as Elvis	EQUI	5
+Group	A group	EQUI	5
+dressed	dressed	EQUI	5
+of people	of people	EQUI	5
+.		NOALI	0
+posing	standing	REL	4
+with two men	with two other people	SPE1	4
+	.	NOALI	0
+holding	holding	EQUI	5
+a small baby	a baby	SPE1	4
+A smiling woman	a woman	SPE1	4
+	sitting	NOALI	0
+	on a sofa	NOALI	0
+.		NOALI	0
+.		NOALI	0
+points	points	EQUI	5
+at the other	at the other	EQUI	5
+Two boys	Two people	SPE1	4
+sit	sit	EQUI	5
+	.	NOALI	0
+one	as one	EQUI	5
+and		NOALI	0
+one another	each other	EQUI	5
+facing	facing	EQUI	5
+at a table	at a table	EQUI	5
+.		NOALI	0
+a small shopping cart	a shopping cart	SPE1	4
+pushing	is steering	EQUI	5
+	.	NOALI	0
+Parrot	A white bird	SPE1	4
+.		NOALI	0
+Two birds	Two birds	EQUI	5
+towards water feeder	near bird feeders	SIMI	4
+	.	NOALI	0
+flying	flying	EQUI	5
+A group	A group	EQUI	5
+on a hill	on a hill	EQUI	5
+grazing	are	SPE1	4
+of sheep	of sheep	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+a small baby	a baby	SPE1	4
+on a sofa	on a sofa	EQUI	5
+while sitting	sitting	EQUI	5
+A women	a woman	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+holds	holding	EQUI	5
+into the camera	at the camera	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+with green eyes		NOALI	0
+looking	looking	EQUI	5
+A gray cat	A gray , black , and white cat	SPE2	3
+	in an arena	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	riding	NOALI	0
+on a white horse	a white horse	EQUI	5
+A guy	A man	EQUI	5
+.		NOALI	0
+Black and white cow	a black and white cow	EQUI	5
+	.	NOALI	0
+near pile		NOALI	0
+of snow	in the field	REL	2
+standing	standing	EQUI	5
+Home office space	An office	SIMI	2
+	.	NOALI	0
+with bright green walls and artwork	with multiple desks and green walls	SIMI	2
+.		NOALI	0
+Two young people	Two people	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+,		NOALI	0
+next to a sliding glass door		NOALI	0
+at the other	at the other	EQUI	5
+at a table	at a table	EQUI	5
+with one person	as one	EQUI	5
+	each other	NOALI	0
+pointing	points	EQUI	5
+	facing	NOALI	0
+are sitting	sit	EQUI	5
+.		NOALI	0
+	on a cloudy day	NOALI	0
+on the water		NOALI	0
+	.	NOALI	0
+sailing	sailing	EQUI	5
+Sail boat	Sailboat	EQUI	5
+	preparing	NOALI	0
+by the water		NOALI	0
+.		NOALI	0
+Three people	Three people	EQUI	5
+	.	NOALI	0
+with yellow canoes	to canoe	SPE1	4
+are		NOALI	0
+on a branch	on a branch	EQUI	5
+perched	are perched	EQUI	5
+	.	NOALI	0
+Two bald eagles	Two eagles	SPE1	4
+.		NOALI	0
+	.	NOALI	0
+a white horse	a white horse	EQUI	5
+.		NOALI	0
+A horse rider	A woman	SPE1	3
+is riding	leading	SIMI	4
+is		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+on train tracks	on the train tracks	EQUI	5
+A long train	A train	SPE1	4
+	.	NOALI	0
+on the tarmac	on a runway	SPE2	4
+sitting	is	EQUI	5
+A silver AreoMexico Jet Liner	An aeromexico silver plane	EQUI	5
+.		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+a small white sail boat	in a small sailboat	SPE1	4
+Two people	Couple	EQUI	5
+sailing	sailing	EQUI	5
+A dining table	A wooden table	SIMI	4
+	is set	NOALI	0
+with candles , wine , and a teapot	with candles , wine , and a purple plastic bowl	SIMI	4
+.		NOALI	0
+	.	NOALI	0
+paddling		NOALI	0
+a red canoe	in a red canoe	EQUI	5
+are reflected		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+Two people	Two people	EQUI	5
+in the still water	on a clear lake	SPE2	3
+and		NOALI	0
+cross legged	cross legged	EQUI	5
+a cloak	a brown cloth	SPE2	3
+The man	Man	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+a stick	a wooden stick	SPE2	4
+wearing	while wearing	EQUI	5
+holding	holding	EQUI	5
+	and	NOALI	0
+is sitting	sitting	EQUI	5
+going down	moving	SPE1	4
+a creek	in a river	SPE1	4
+.		NOALI	0
+Small boat	a boat	SPE1	4
+	.	NOALI	0
+with a large window , sofa , and chair		NOALI	0
+	with a view	NOALI	0
+A black and white photo	A black and white scene	SPE1	4
+	a forest	NOALI	0
+.		NOALI	0
+of a living room	of a well furnished room	SPE1	3
+	outlooking	NOALI	0
+	.	NOALI	0
+	resting	NOALI	0
+on a cream sofa	on a white sofa	SIMI	4
+of a cat	A siamese cat	SPE2	4
+A close-up		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	sitting	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+wits		NOALI	0
+next to a green dumpster	beside a large waste receptacle	SIMI	4
+A pug dog	A bulldog	SIMI	4
+on a yellow chair	on a yellow chair	EQUI	5
+	.	NOALI	0
+on a leather chair	in a black leather chair	SPE2	4
+A orange and white cat	A orange and white cat	EQUI	5
+	on a blanket	NOALI	0
+asleep	laying	SPE1	4
+.		NOALI	0
+Black and white cow	A black and white horned cow	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+standing	standing	EQUI	5
+in grassy field	in a field	SPE1	4
+	.	NOALI	0
+are being rounded up	are chased	SIMI	4
+by a dog	by a dog	EQUI	5
+Three goats	Three goats	EQUI	5
+.		NOALI	0
+moves	traveling	EQUI	5
+.		NOALI	0
+down the tracks	down the tracks	EQUI	5
+	.	NOALI	0
+A black train	A train	SPE1	4
+A black dog	A long-haired dog	SIMI	4
+in a grassy area	in a grassy wooded area	SPE2	4
+standing	stands	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+on the sidewalk	on the sidewalk	EQUI	5
+A blue motorcycle	A blue moped	SIMI	4
+is parked	parked	EQUI	5
+	driving down	NOALI	0
+.		NOALI	0
+A red double decker bus	A red double decker bus	EQUI	5
+	.	NOALI	0
+on a city street	a street	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+An empty office cubicle	An empty office chair in a cubicle	REL	4
+wearing		NOALI	0
+.		NOALI	0
+a striped shirt		NOALI	0
+	near beach	NOALI	0
+	.	NOALI	0
+is holding	holding	EQUI	5
+A young man	Young redheaded man	SPE2	4
+two bicycles	two bicycles	EQUI	5
+A white plane	A white Swiss airplane	SPE2	4
+.		NOALI	0
+	approaches	NOALI	0
+	.	NOALI	0
+on the runway	the runway	EQUI	5
+grazing	grazing	EQUI	5
+on the median	on a patch	SIMI	4
+by the road	between two roadways	SIMI	4
+	of grass	NOALI	0
+	.	NOALI	0
+Several cows	Five cows	SPE2	4
+.		NOALI	0
+Red double decker bus	A double decker bus	EQUI	5
+	.	NOALI	0
+street	on a city street	SPE2	4
+.		NOALI	0
+driving down		NOALI	0
+at a clothing store	in a clothing store	EQUI	5
+	.	NOALI	0
+shopping		NOALI	0
+Two women	Two women	EQUI	5
+.		NOALI	0
+.		NOALI	0
+next to a brown cow	next to a cow	SPE1	4
+	.	NOALI	0
+standing	stands	EQUI	5
+A women	A women	EQUI	5
+	in glasses	NOALI	0
+	in a field	NOALI	0
+	.	NOALI	0
+A dog	A dog	EQUI	5
+the back	of the back	EQUI	5
+of a truck	of a van	EQUI	5
+.		NOALI	0
+peaks out	is peeking out	EQUI	5
+	.	NOALI	0
+is looking up	looking	SPE1	4
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+The black and white cat	A gray , black , and white cat	SPE2	4
+standing	sitting	SIMI	2
+in a sink	in bathroom sink	SPE2	4
+A small white cat	Grey and white cat	SIMI	4
+.		NOALI	0
+	.	NOALI	0
+a sweater	a jacket	SIMI	4
+.		NOALI	0
+The small dog	A small white dog	SPE2	4
+at the camera	at the camera	EQUI	5
+is wearing	wearing	EQUI	5
+and		NOALI	0
+	.	NOALI	0
+looking up	looks up	EQUI	5
+	.	NOALI	0
+near water and a big ship	with water and a barge	EQUI	5
+is		NOALI	0
+.		NOALI	0
+	in the background	NOALI	0
+A white bus	A white bus	EQUI	5
+with the word Julia		NOALI	0
+at a saloon	outside the saloon	EQUI	5
+.		NOALI	0
+parked	parked	EQUI	5
+	.	NOALI	0
+A green car	A green car	EQUI	5
+of people	of people	EQUI	5
+	.	NOALI	0
+around a restaurant dining table	at a restaurant table	EQUI	5
+.		NOALI	0
+sitting	sitting	EQUI	5
+Group	A group	EQUI	5
+	.	NOALI	0
+in a station	inside an indoor station	SPE2	4
+Train	Trains	SIMI	4
+.		NOALI	0
+.		NOALI	0
+a street	on a city street	SPE2	4
+Red double decker bus	A double decker bus	EQUI	5
+driving down		NOALI	0
+	.	NOALI	0
+are grazing	grazing	EQUI	5
+Three cows	Three cows	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+in a grassy field	in a field	SPE1	4
+	Front and left side	NOALI	0
+	.	NOALI	0
+A red , double-decker bus	of a red double decker bus	EQUI	5
+.		NOALI	0
+An elderly man	Older gentleman	EQUI	5
+	sitting	NOALI	0
+works		NOALI	0
+at home		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+on his laptop	with laptop	EQUI	5
+	on couch	NOALI	0
+A sheep	A large sheep	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+in a mountainous area	on a hill	REL	3
+standing	standing	EQUI	5
+being petted	being held and petted	SPE1	4
+A tan puppy	A tan puppy	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+on a dirt track	over dirt hill	SPE2	3
+	riding	NOALI	0
+two motorbikes	Two dirt bikers	SPE2	4
+A large pile	A large pile	EQUI	5
+high		NOALI	0
+.		NOALI	0
+of wooden items	of scrap wood	SIMI	4
+piled		NOALI	0
+	.	NOALI	0
+	.	NOALI	0
+a brown horse	a brown horse	EQUI	5
+A woman	A girl	SIMI	4
+riding	riding	EQUI	5
+.		NOALI	0
+standing		NOALI	0
+	.	NOALI	0
+in a field	in a field	EQUI	5
+A black and white horned cow	A large black and white cow	SPE2	4
+.		NOALI	0
+.		NOALI	0
+	in a shop	NOALI	0
+in grass		NOALI	0
+	.	NOALI	0
+at a car		NOALI	0
+staring		NOALI	0
+	sitting	NOALI	0
+Two men	Two women	SIMI	3
+	in chairs	NOALI	0
+standing		NOALI	0
+.		NOALI	0
+floating	floating	EQUI	5
+	.	NOALI	0
+in the water	in the water	EQUI	5
+A little bird	A duck	SIMI	3
+.		NOALI	0
+on tracks		NOALI	0
+Old blue and white train	A blue train	SPE1	3
+	in a mountainous area	NOALI	0
+	.	NOALI	0
+by the water	in the water	EQUI	5
+	.	NOALI	0
+are standing	are swimming	SIMI	2
+.		NOALI	0
+Two ducks	The birds	SIMI	3
+	driving down	NOALI	0
+	road	NOALI	0
+Man		NOALI	0
+guitar		NOALI	0
+while sitting down		NOALI	0
+	Red and white bus	NOALI	0
+playing		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+.		NOALI	0
+on the railroad tracks	on the tracks	EQUI	5
+The brown train	The white train	SIMI	4
+	.	NOALI	0
+is sitting	is sitting	EQUI	5
+	with a red bicycle	NOALI	0
+near her mother		NOALI	0
+sits	sits	EQUI	5
+	behind her	NOALI	0
+	wearing	NOALI	0
+A tiny blonde child	A young blonde girl	SIMI	3
+	a helmet	NOALI	0
+	.	NOALI	0
+in a blue dress		NOALI	0
+on a table		NOALI	0
+.		NOALI	0
+A black and white cow	A black and white cat	SIMI	2
+	lies	NOALI	0
+	.	NOALI	0
+in a pen		NOALI	0
+.		NOALI	0
+	in the dirt	NOALI	0
+with hay		NOALI	0
+	.	NOALI	0
+sitting	standing	SIMI	2
+	sitting	NOALI	0
+of people	of people	EQUI	5
+	near a small child	NOALI	0
+A group	A group	EQUI	5
+on a small sofa		NOALI	0
+.		NOALI	0
+	on a horse	NOALI	0
+next to a kitchen		NOALI	0
+	in shorts	NOALI	0
+A women		NOALI	0
+laying		NOALI	0
+across two men	Two men	EQUI	5
+sitting	are sitting	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+on a sofa	on a sofa	EQUI	5
+on a grassy hill	over dirt hill	SIMI	3
+	riding	NOALI	0
+stand		NOALI	0
+.		NOALI	0
+Two lambs		NOALI	0
+	Two dirt bikers	NOALI	0
+	.	NOALI	0
+on a sofa		NOALI	0
+	under a tree	NOALI	0
+.		NOALI	0
+of a girl		NOALI	0
+Black and white photo	a black and white photo	EQUI	5
+	.	NOALI	0
+	of a cow	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+resting	sitting	SIMI	3
+Large black and white cat	A small white cat	SIMI	3
+	in a sink	NOALI	0
+on a windowsill		NOALI	0
+of a small cactus		NOALI	0
+	a white puppy	NOALI	0
+	of a woman	NOALI	0
+	holding	NOALI	0
+	.	NOALI	0
+a close up	a close up	EQUI	5
+.		NOALI	0
+in a pot		NOALI	0
+	A group	NOALI	0
+	sitting	NOALI	0
+.		NOALI	0
+	around a dining table	NOALI	0
+A wooden bicycle		NOALI	0
+with an awning		NOALI	0
+	of elderly people	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+bike helmets	with their bicycles	REL	4
+	.	NOALI	0
+	stand	NOALI	0
+wearing		NOALI	0
+Two men	Two men	EQUI	5
+	outside a shop	NOALI	0
+.		NOALI	0
+with a dining room		NOALI	0
+painting		NOALI	0
+	with the sea	NOALI	0
+A women	A man and boy	SIMI	2
+in the background	in the background	EQUI	5
+	walking	NOALI	0
+	along a beach	NOALI	0
+	.	NOALI	0
+a chair		NOALI	0
+	with chairs	NOALI	0
+	holds	NOALI	0
+a bike helmet		NOALI	0
+in the background	in the background	EQUI	5
+A young girl	A women	SPE1	3
+wearing		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+	a small dog	NOALI	0
+	on a leash	NOALI	0
+with a bicycle		NOALI	0
+in a field	in a green field	SPE2	4
+graze		NOALI	0
+Two cows	A brown horse	SIMI	2
+.		NOALI	0
+	.	NOALI	0
+	's edge	NOALI	0
+	.	NOALI	0
+	a dog	NOALI	0
+near a highway		NOALI	0
+A person	A person	EQUI	5
+underneath an overpass		NOALI	0
+.		NOALI	0
+	along the water	NOALI	0
+is standing	walks	SIMI	2
+.		NOALI	0
+	.	NOALI	0
+on a city street	a street	SPE1	4
+A double decker bus	A red double decker bus	EQUI	5
+drives	driving down	SPE2	4
+	.	NOALI	0
+	in the middle	NOALI	0
+at a construction site	of a construction site	EQUI	5
+stands	stands	EQUI	5
+next to materials		NOALI	0
+.		NOALI	0
+A black dog	A black dog	EQUI	5
+with a hat	with a cap and jacket	SPE1	3
+	.	NOALI	0
+standing	walking	SIMI	2
+A long-haired man	A man	SPE1	4
+between two large , half-empty Coke bottles	between two large bottles	SPE1	3
+.		NOALI	0
+in chairs		NOALI	0
+in a shop	in a cafe	SIMI	3
+Two women	Two women	EQUI	5
+	.	NOALI	0
+sitting	are sitting	EQUI	5
+.		NOALI	0
+A man	Man	EQUI	5
+in a store	in a store	EQUI	5
+a video game	game	SPE1	4
+.		NOALI	0
+playing	playing	EQUI	5
+	.	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+of a stop sign	of the stop sign	EQUI	5
+on it	is adorned	SIMI	4
+with many stickers	with stickers	SPE1	4
+the back	The back	EQUI	5
+.		NOALI	0
+with a ferris wheel behind it	in front of a ferris wheel	EQUI	5
+a brown double decker tour bus	A double-decker bus	SPE1	4
+on a street		NOALI	0
+	driving	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+on a white horse	on a white horse	EQUI	5
+	.	NOALI	0
+in a black uniform	in a tux	SIMI	4
+A man	A man	EQUI	5
+on a dirt course	on a dirt track	EQUI	5
+Two motorbikes	two motorbikes	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+racing		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+A close-up view	Close up	EQUI	5
+of a blue old-fashioned car	on a blue car	SPE1	4
+of the headlights	of the headlights	EQUI	5
+A black and white cat	A black and white cat	EQUI	5
+lying	sleeps	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+on a blanket	on a purple blanket	SPE2	4
+A man and women	a woman	SPE2	3
+holding	holding	EQUI	5
+a small baby	a baby	SPE1	4
+on a sofa	on a sofa	EQUI	5
+sitting	sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+with a dining table	with a dining room	REL	4
+A living room	of a living room	EQUI	5
+	View	NOALI	0
+in the background	in the background	REL	5
+	.	NOALI	0
+.		NOALI	0
+open	raised	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+with hood	with its hood	EQUI	5
+Red double decker bus	An old Red London double decker bus	SPE2	4
+a white sheep	a white sheep	EQUI	5
+Two women	Two women	EQUI	5
+are sheering	shearing	EQUI	5
+	.	NOALI	0
+inside of a wooden building	in a wooden stall	SPE2	4
+.		NOALI	0
+into the station	into a station	EQUI	5
+A subway train	A white train	SIMI	3
+.		NOALI	0
+	.	NOALI	0
+pulling	pulling	EQUI	5
+	.	NOALI	0
+A man	A man	EQUI	5
+.		NOALI	0
+	sitting	NOALI	0
+with glasses and two plastic bottles	with two water bottles	SPE2	3
+	talking	NOALI	0
+	in front of him	NOALI	0
+in the foreground		NOALI	0
+in a body of water	on the water	EQUI	5
+its wings	its wings	EQUI	5
+A goose	A black swan	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+flapping	flapping	EQUI	5
+parked	parked	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+Motorcycle	A motorcycle	EQUI	5
+next to a car	next to a car	EQUI	5
+outside		NOALI	0
+Boy	The boy	EQUI	5
+	.	NOALI	0
+with dog	with a puppy	SPE2	4
+laying	is lying	EQUI	5
+.		NOALI	0
+on couch	on a couch	EQUI	5
+on the ground	parked	SIMI	4
+	.	NOALI	0
+A large jet	A large airplane	EQUI	5
+at the airport	at the airport	EQUI	5
+	at night	NOALI	0
+.		NOALI	0
+lined up	lined up	EQUI	5
+Eight bottles	Eight bottles	EQUI	5
+of Harp lager	of Harp beer	SPE1	4
+	.	NOALI	0
+on the floor	on a wooden floor	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+of a television screen	The wall-mounted flat-screen TV	SPE2	4
+.		NOALI	0
+a movie	a movie	EQUI	5
+photo		NOALI	0
+showing	is showing	EQUI	5
+.		NOALI	0
+sitting	sitting	EQUI	5
+	.	NOALI	0
+White cat	Grey and white cat	SPE2	4
+inside of a sink	in bathroom sink	SPE2	4
+Two people	Two women	SPE2	4
+are sailing		NOALI	0
+a small boat	in a sailboat	SIMI	4
+.		NOALI	0
+	.	NOALI	0
+looking out	looking out	EQUI	5
+on the back	on the back	EQUI	5
+	in a sea photo	NOALI	0
+of a couch	of a couch	EQUI	5
+	and	NOALI	0
+sit	are sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+the window	the window	EQUI	5
+Two cats	Two cats	EQUI	5
+a sheep	a sheep	EQUI	5
+Two young women	Two women	SPE1	4
+	.	NOALI	0
+.		NOALI	0
+shear	sheering	EQUI	5
+at a restaurant table	at a restaurant table	EQUI	5
+looking		NOALI	0
+are seated	sitting	EQUI	5
+Six people	A group of people	SPE1	4
+into the camera		NOALI	0
+	.	NOALI	0
+and		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+is shown		NOALI	0
+with its two remote controls	with two remote controls	EQUI	5
+.		NOALI	0
+A Philips flat-screen TV	A Phillips flat screen TV	EQUI	5
+next to materials		NOALI	0
+A black dog	A black dog	EQUI	5
+stands	standing	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+at a construction site	in a room being constructed	SPE2	3
+on a blanket	on a cat bed	SIMI	3
+.		NOALI	0
+	.	NOALI	0
+lying	laying	EQUI	5
+A black and white cat	A black and white cat	EQUI	5
+A plane	A small turboprop plane	SPE2	3
+	.	NOALI	0
+being readied	being loaded	SIMI	3
+for take-off		NOALI	0
+	on the tarmac	NOALI	0
+.		NOALI	0
+standing		NOALI	0
+	.	NOALI	0
+in a field	in a green field	SPE1	4
+A dark brown horse	A brown horse	SPE1	4
+.		NOALI	0
+stands	parked	EQUI	5
+.		NOALI	0
+on a floor	on floor	EQUI	5
+A white bicycle	Old style bicycle	SIMI	4
+	.	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+sitting	standing	SIMI	2
+Black bird	Black bird	EQUI	5
+on a concrete slab	on concrete	SPE1	4
+	.	NOALI	0
+Dark colored dog	A gray dog	SIMI	4
+in grassy field	in a grassy field	EQUI	5
+standing	standing	EQUI	5
+.		NOALI	0
+laying	laying	EQUI	5
+,		NOALI	0
+with a blue blanket		NOALI	0
+	,	NOALI	0
+.		NOALI	0
+one white	the other white	EQUI	5
+two cats	Two cats	EQUI	5
+and		NOALI	0
+	.	NOALI	0
+on a bed	on a bed	EQUI	5
+	,	NOALI	0
+one brown	one ginger	SIMI	4
+	.	NOALI	0
+a baby	with newborn baby	SPE2	4
+.		NOALI	0
+A couple	Couple	EQUI	5
+holds		NOALI	0
+Close up	A close-up	EQUI	5
+of a white sheep	of a sheep	SPE1	4
+	.	NOALI	0
+with a black head	with a black head	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+laying	laying	EQUI	5
+on a sofa	on a sofa	EQUI	5
+.		NOALI	0
+A young boy	A small boy	SIMI	4
+with a dog	with a dog	EQUI	5
+	.	NOALI	0
+A train	A train	EQUI	5
+is		NOALI	0
+on the railroad tracks	on the train tracks	EQUI	5
+.		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+in a shed		NOALI	0
+	A close-up	NOALI	0
+Large silver locomotive engine	of a silver train engine	SPE1	4
+	with a red stripe	NOALI	0
+	.	NOALI	0
+of a semi truck	of white semi truck	SPE2	4
+.		NOALI	0
+on top	on top	EQUI	5
+A small red car	Red sports car	SIMI	4
+on a black and red racing bike		NOALI	0
+A bicyclist	A cyclist	EQUI	5
+.		NOALI	0
+	past spectators	NOALI	0
+	.	NOALI	0
+in black	in black and white lira	SPE1	4
+	speeding	NOALI	0
+in a messy room	A room	SPE1	4
+.		NOALI	0
+A television with several bookcases	with a television , stereo and bookshelf	SPE1	3
+	.	NOALI	0
+	with a beard	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+of a black horse	of a black and white horse	SPE2	4
+touches	pets	EQUI	5
+the nose	the nose	EQUI	5
+A bald man	A bald man	EQUI	5
+on the other side of a fence	at the fence	SPE1	4
+with a red door	with a red door	EQUI	5
+.		NOALI	0
+A gray house	House	SPE1	4
+	.	NOALI	0
+	.	NOALI	0
+of cows	of cattle	SPE1	4
+in their stalls	at a trough	SIMI	3
+a black and white photo	A black and white photo	EQUI	5
+.		NOALI	0
+Double decker bus	a brown double decker tour bus	SPE2	4
+in background	behind it	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+	on a street	NOALI	0
+with the London Eye ferris wheel	with a ferris wheel	SPE1	4
+	.	NOALI	0
+A small plane	A small white plane	SPE2	4
+.		NOALI	0
+at an airfield	in an airport	SIMI	4
+with a cloudy sky overhead	on a cloudy day	EQUI	5
+parked	parked	EQUI	5
+sitting		NOALI	0
+A Macintosh computer	a computer	SPE1	4
+.		NOALI	0
+on the floor	on the floor	EQUI	5
+	.	NOALI	0
+A black and white photo	Black and white photo	EQUI	5
+of a love seat	of couch	SPE1	4
+	at one end	NOALI	0
+	with purse	NOALI	0
+	.	NOALI	0
+.		NOALI	0
+past a giant mushroom	past a giant mushroom	EQUI	5
+walking	walking	EQUI	5
+Crowd	A group	EQUI	5
+of people	of four people	SPE2	4
+	.	NOALI	0
+.		NOALI	0
+	in an empty parking lot	NOALI	0
+A person	A man	SPE2	4
+.		NOALI	0
+on a motorcycle	on a motorcycle	EQUI	5
+stands by		NOALI	0
+	.	NOALI	0
+while a man	next to a helmeted man	SPE2	4
+sitting	stands	SIMI	2
+	.	NOALI	0
+beside a road and a lake	on the edge of a road with a lake and a mountain in the background	SPE1	3
+.		NOALI	0
+A sheep	A sheep	EQUI	5
+	is	NOALI	0
+	at a table	NOALI	0
+outside	outside	EQUI	5
+A group	A group	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+of people	of people	EQUI	5
+having a meal	eat	EQUI	5
+A close-up view	A close-up	EQUI	5
+'s head	's head	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+of a horse	of a brown horse	SPE2	4
+.		NOALI	0
+	.	NOALI	0
+at a train station	in a station	EQUI	5
+is		NOALI	0
+A train	a train	EQUI	5
+	.	NOALI	0
+in an Italian restaurant	with salad served	REL	2
+at a table	at a table	EQUI	5
+A group	A group	EQUI	5
+.		NOALI	0
+of people	of six people	SPE2	4
+sit	sitting	EQUI	5
+Older woman	a woman	SPE1	4
+holding	holding	EQUI	5
+	sitting	NOALI	0
+newborn baby	a baby	SPE1	4
+	.	NOALI	0
+	on a sofa	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+.		NOALI	0
+flying	flying	EQUI	5
+A blue and orange airplane	A red and blue plane	SIMI	4
+down	down	EQUI	5
+with its landing gear	with its landing gears	SIMI	4
+flying up		NOALI	0
+A white bird	A white cat	SIMI	1
+.		NOALI	0
+	on a sheet	NOALI	0
+	laying	NOALI	0
+	.	NOALI	0
+onto a tree		NOALI	0
+A black and white photo	A black and white photo	EQUI	5
+.		NOALI	0
+of a love seat		NOALI	0
+	of a bicycle	NOALI	0
+	.	NOALI	0
+	at a workstation	NOALI	0
+A laptop computer and a computer monitor	A laptop and a PC	SIMI	4
+.		NOALI	0
+	.	NOALI	0
+An orange kitten		NOALI	0
+on a leather couch	on a black couch	SIMI	4
+	.	NOALI	0
+lay	sitting	SIMI	2
+	Young couple	NOALI	0
+.		NOALI	0
+	on a stone ledge	NOALI	0
+on a tropical beach		NOALI	0
+	.	NOALI	0
+A small yellow boat		NOALI	0
+	near a white flowering plant	NOALI	0
+.		NOALI	0
+sitting	sits	SIMI	2
+	A small girl	NOALI	0
+Long-haired black dog	A blue jay	SIMI	1
+in grassy field	in a grassy field	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+standing	standing	EQUI	5
+Two women	Two men	SIMI	3
+	catching	NOALI	0
+	a fish	NOALI	0
+are sitting		NOALI	0
+in a cafe		NOALI	0
+	in a swamp	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+smiling	looking	SPE1	3
+.		NOALI	0
+at the camera	at the camera	EQUI	5
+A small child		NOALI	0
+	.	NOALI	0
+	A cat	NOALI	0
+sitting	sitting	EQUI	5
+.		NOALI	0
+Two animals	Two eagles	SPE2	3
+on a rock	on a long branch	SIMI	2
+	.	NOALI	0
+Left side	A close-up	SIMI	3
+.		NOALI	0
+of a silver train engine	of a black train engine	SIMI	4
+	.	NOALI	0
+	.	NOALI	0
+A cruise ship		NOALI	0
+in front of a docking area		NOALI	0
+	on step	NOALI	0
+.		NOALI	0
+	in front of a door	NOALI	0
+	sitting	NOALI	0
+is		NOALI	0
+	Calico cat	NOALI	0
+.		NOALI	0
+standing	standing	EQUI	5
+looks back		NOALI	0
+at the camera		NOALI	0
+	is	NOALI	0
+in hay	on the grass	SIMI	3
+A black and white cow	a black and white sheep	SIMI	3
+	There	NOALI	0
+	.	NOALI	0
+is attacking		NOALI	0
+	.	NOALI	0
+The cat	Grey and white cat	SPE2	4
+	sitting	NOALI	0
+	in bathroom sink	NOALI	0
+.		NOALI	0
+a corn husk broom		NOALI	0
+looking	looking	EQUI	5
+A black and white dog	A gray , black , and white cat	SIMI	3
+at the camera	at the camera	EQUI	5
+	.	NOALI	0
+.		NOALI	0
+drinking	drinks	EQUI	5
+with a basketball picture		NOALI	0
+sitting	while sitting	EQUI	5
+A women	A woman	EQUI	5
+	something	NOALI	0
+	.	NOALI	0
+at a table	at a table	EQUI	5
+in the background		NOALI	0
+	in a sari	NOALI	0
+.		NOALI	0
+.		NOALI	0
+	.	NOALI	0
+through the fence		NOALI	0
+	at the camera	NOALI	0
+A black and white cow	A black and white dog	SIMI	2
+looking	looking	EQUI	5
+	.	NOALI	0
+Two cows	The cow	SIMI	4
+.		NOALI	0
+standing	is grazing	SPE2	3
+in a large field	in a field	SPE1	4
+.		NOALI	0
+on couch		NOALI	0
+	newborn baby	NOALI	0
+	.	NOALI	0
+sitting		NOALI	0
+Depressed woman	Older woman	SIMI	3
+	holding	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	of a pond	NOALI	0
+Black and white cows	Two black and white cows	SPE2	4
+grazing	drinking	SIMI	3
+in a pen		NOALI	0
+	out	NOALI	2
+	.	NOALI	0
+in an arena		NOALI	0
+.		NOALI	0
+	stands	NOALI	0
+	in a pen	NOALI	0
+a white horse	A domestic animal	REL	3
+A man		NOALI	0
+riding		NOALI	0
+A black and white cat	A dog	SIMI	3
+.		NOALI	0
+looking up		NOALI	0
+	next to a green dumpster	NOALI	0
+on a brown chair	on a yellow chair	SIMI	4
+	.	NOALI	0
+is sitting	sitting	EQUI	5
+	.	NOALI	0
+with brown hair		NOALI	0
+are smiling	smiling	EQUI	5
+	in Indian dresses	NOALI	0
+.		NOALI	0
+	in a crowded room	NOALI	0
+Three women	Three women	EQUI	5
+	.	NOALI	0
+Two dogs		NOALI	0
+look ahead		NOALI	0
+	posing	NOALI	0
+.		NOALI	0
+	on a guy	NOALI	0
+	a boat	NOALI	0
+	Two girls	NOALI	0
+	on the bow	NOALI	0
+in a fenced kennel		NOALI	0
+	laying	NOALI	0
+.		NOALI	0
+A black and white cow	A black and white cat	SIMI	2
+looking through		NOALI	0
+the fence		NOALI	0
+	in the sun	NOALI	0
+	on the ground	NOALI	0
+	.	NOALI	0
+	tagged	NOALI	0
+.		NOALI	0
+	.	NOALI	0
+	with its ear	NOALI	0
+	,	NOALI	0
+	standing	NOALI	0
+of a sheep	of a lamb	SIMI	4
+in the grass	on grass	EQUI	5
+A close-up	A close-up	EQUI	5
+	.	NOALI	0
+Three cows	Two cows	SIMI	4
+grazing	graze	EQUI	5
+.		NOALI	0
+in a field	in a field	EQUI	5
+sitting		NOALI	0
+.		NOALI	0
+looking		NOALI	0
+on a bench	on a sofa	SIMI	3
+	holds	NOALI	0
+	.	NOALI	0
+sitting	while sitting	EQUI	5
+A man	A women	SIMI	3
+	a small baby	NOALI	0
+on a leash		NOALI	0
+on sidewalk		NOALI	0
+at a dog		NOALI	0
+on the ground	on the branch	SIMI	2
+is sitting	is sitting	EQUI	5
+.		NOALI	0
+	.	NOALI	0
+The black bird	The bird	SPE1	4
+from a tree	in a tree	EQUI	5
+	perched	NOALI	0
+.		NOALI	0
+from a bird feeder		NOALI	0
+hanging		NOALI	0
+	.	NOALI	0
+is eating		NOALI	0
+A small brown birds	A small red and gray bird	SIMI	3
