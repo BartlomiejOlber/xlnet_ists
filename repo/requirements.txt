@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+transformers
+pytorch_lightning
+wandb
+datasets
+lightning
